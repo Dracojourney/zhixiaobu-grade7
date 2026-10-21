@@ -9,6 +9,8 @@ Grade7.editionContent.biology={
   "publisher": "人民教育出版社",
   "editionDate": "2024-07",
   "schoolEditionConfirmed": true,
+  "evidenceLevel": "copyright-photo",
+  "scopeNote": "",
   "contentStatus": "edition-aligned-editorial",
   "fullTextChecked": false,
   "sources": [

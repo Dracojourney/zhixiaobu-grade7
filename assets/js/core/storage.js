@@ -1,5 +1,6 @@
 (function (G) {
   var KEY = 'grade7_learning_v1',
+    SUBJECTS = ['history', 'geography', 'biology', 'morality', 'chinese', 'math', 'english'],
     LEGACY = ['history_quiz_v2', 'morality_quiz_grade7_v1', 'biology_quiz_v1', 'geography_xjb_v1', 'wrongbook_v1'];
   function obj(x) {
     return x && typeof x === 'object' && !Array.isArray(x);
@@ -41,7 +42,7 @@
     return false;
   }
   function validSession(x) {
-    if (!obj(x) || typeof x.id !== 'string' || !['history', 'geography', 'biology', 'morality'].includes(x.subjectId) || !['challenge', 'mock', 'unitMock', 'wrong'].includes(x.kind) || !Number.isFinite(x.updatedAt) || !Array.isArray(x.questions) || !x.questions.every(validQuestion) || !Array.isArray(x.responses) || x.responses.length > x.questions.length || !Number.isInteger(x.current) || x.current < 0 || !['active', 'complete', 'empty'].includes(x.status)) return false;
+    if (!obj(x) || typeof x.id !== 'string' || !SUBJECTS.includes(x.subjectId) || !['challenge', 'mock', 'unitMock', 'wrong'].includes(x.kind) || !Number.isFinite(x.updatedAt) || !Array.isArray(x.questions) || !x.questions.every(validQuestion) || !Array.isArray(x.responses) || x.responses.length > x.questions.length || !Number.isInteger(x.current) || x.current < 0 || !['active', 'complete', 'empty'].includes(x.status)) return false;
     if (x.status === 'active' && (x.current >= x.questions.length || !x.questions.length)) return false;
     if (x.status === 'complete' && (x.responses.length !== x.questions.length || x.responses.some(function (r) {
       return !r;
@@ -61,7 +62,7 @@
   function valid(s) {
     return safeTree(s) && obj(s) && s.schemaVersion === 1 && obj(s.readCards) && Object.values(s.readCards).every(Number.isFinite) && obj(s.sessions) && Array.isArray(s.events) && obj(s.legacyBackup) && Object.values(s.legacyBackup).every(function (x) {
       return typeof x === 'string';
-    }) && obj(s.migration) && (!s.importBackups || Array.isArray(s.importBackups)) && (!s.lastActivity || obj(s.lastActivity) && ['history', 'geography', 'biology', 'morality'].includes(s.lastActivity.subjectId) && typeof s.lastActivity.cardId === 'string' && Number.isFinite(s.lastActivity.at)) && s.events.every(function (e) {
+    }) && obj(s.migration) && (!s.importBackups || Array.isArray(s.importBackups)) && (!s.lastActivity || obj(s.lastActivity) && SUBJECTS.includes(s.lastActivity.subjectId) && typeof s.lastActivity.cardId === 'string' && Number.isFinite(s.lastActivity.at)) && s.events.every(function (e) {
       return obj(e) && typeof e.id === 'string' && typeof e.sessionId === 'string' && typeof e.questionId === 'string' && typeof e.firstCorrect === 'boolean' && Number.isFinite(e.at);
     }) && Object.entries(s.sessions).every(function (entry) {
       return entry[0] === entry[1]?.id && validSession(entry[1]);

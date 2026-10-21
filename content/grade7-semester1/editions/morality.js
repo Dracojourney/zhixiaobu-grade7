@@ -9,6 +9,8 @@ Grade7.editionContent.morality={
   "publisher": "人民教育出版社",
   "editionDate": "2024-08",
   "schoolEditionConfirmed": true,
+  "evidenceLevel": "copyright-photo",
+  "scopeNote": "",
   "contentStatus": "edition-aligned-editorial",
   "fullTextChecked": false,
   "sources": [
