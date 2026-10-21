@@ -6,10 +6,12 @@ Grade7.editionContent.chinese={
   "editionId": "chinese-pep-2024-g7s1",
   "isbn": "9787107382406",
   "title": "语文",
+  "presentation": "lessons",
   "publisher": "人民教育出版社",
   "editionDate": "2024-08",
   "schoolEditionConfirmed": true,
   "evidenceLevel": "copyright-photo",
+  "schoolContentsConfirmed": false,
   "scopeNote": "",
   "contentStatus": "edition-aligned-editorial",
   "fullTextChecked": false,
@@ -53,28 +55,33 @@ Grade7.editionContent.chinese={
   "units": [
     {
       "id": "chinese-pep-2024-g7s1-u1",
-      "title": "第一单元 四时景物与观察",
+      "title": "第一单元",
       "period": "",
       "lessons": [
         {
           "id": "chinese-pep-2024-g7s1-l1",
-          "title": "春"
+          "title": "第1课 春",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l2",
-          "title": "济南的冬天"
+          "title": "第2课 济南的冬天",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l3",
-          "title": "雨的四季"
+          "title": "第3课 雨的四季",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l4",
-          "title": "古代诗歌四首"
+          "title": "第4课 古代诗歌四首",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l25",
-          "title": "热爱写作，学会观察"
+          "title": "写作 · 热爱写作，学会观察",
+          "kind": "writing"
         }
       ],
       "cardIds": [
@@ -87,28 +94,33 @@ Grade7.editionContent.chinese={
     },
     {
       "id": "chinese-pep-2024-g7s1-u2",
-      "title": "第二单元 亲情叙事与记事",
+      "title": "第二单元",
       "period": "",
       "lessons": [
         {
           "id": "chinese-pep-2024-g7s1-l5",
-          "title": "秋天的怀念"
+          "title": "第5课 秋天的怀念",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l6",
-          "title": "散步"
+          "title": "第6课 散步",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l7",
-          "title": "散文诗二首"
+          "title": "第7课 散文诗二首",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l8",
-          "title": "《世说新语》二则"
+          "title": "第8课 《世说新语》二则",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l26",
-          "title": "学会记事"
+          "title": "写作 · 学会记事",
+          "kind": "writing"
         }
       ],
       "cardIds": [
@@ -121,32 +133,38 @@ Grade7.editionContent.chinese={
     },
     {
       "id": "chinese-pep-2024-g7s1-u3",
-      "title": "第三单元 学习成长与阅读",
+      "title": "第三单元",
       "period": "",
       "lessons": [
         {
           "id": "chinese-pep-2024-g7s1-l9",
-          "title": "从百草园到三味书屋"
+          "title": "第9课 从百草园到三味书屋",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l10",
-          "title": "往事依依"
+          "title": "第10课 往事依依",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l11",
-          "title": "再塑生命的人"
+          "title": "第11课 再塑生命的人",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l12",
-          "title": "《论语》十二章"
+          "title": "第12课 《论语》十二章",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l27",
-          "title": "如何突出中心"
+          "title": "写作 · 如何突出中心",
+          "kind": "writing"
         },
         {
           "id": "chinese-pep-2024-g7s1-l31",
-          "title": "《朝花夕拾》：精读、略读、浏览"
+          "title": "名著导读 · 《朝花夕拾》：精读、略读、浏览",
+          "kind": "book"
         }
       ],
       "cardIds": [
@@ -160,28 +178,33 @@ Grade7.editionContent.chinese={
     },
     {
       "id": "chinese-pep-2024-g7s1-u4",
-      "title": "第四单元 人生感悟与条理",
+      "title": "第四单元",
       "period": "",
       "lessons": [
         {
           "id": "chinese-pep-2024-g7s1-l13",
-          "title": "纪念白求恩"
+          "title": "第13课 纪念白求恩",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l14",
-          "title": "回忆我的母亲"
+          "title": "第14课 回忆我的母亲",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l15",
-          "title": "梅岭三章"
+          "title": "第15课 梅岭三章",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l16",
-          "title": "诫子书"
+          "title": "第16课 诫子书",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l28",
-          "title": "思路要清晰"
+          "title": "写作 · 思路要清晰",
+          "kind": "writing"
         }
       ],
       "cardIds": [
@@ -194,28 +217,33 @@ Grade7.editionContent.chinese={
     },
     {
       "id": "chinese-pep-2024-g7s1-u5",
-      "title": "第五单元 活动·探究：人与动物",
+      "title": "第五单元 活动·探究",
       "period": "",
       "lessons": [
         {
           "id": "chinese-pep-2024-g7s1-l17",
-          "title": "猫"
+          "title": "第17课 猫",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l18",
-          "title": "我的白鸽"
+          "title": "第18课 我的白鸽",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l19",
-          "title": "大雁归来"
+          "title": "第19课 大雁归来",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l20",
-          "title": "狼"
+          "title": "第20课 狼",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l29",
-          "title": "亲近动物，记叙相处"
+          "title": "写作 · 亲近动物，记叙相处",
+          "kind": "writing"
         }
       ],
       "cardIds": [
@@ -228,32 +256,38 @@ Grade7.editionContent.chinese={
     },
     {
       "id": "chinese-pep-2024-g7s1-u6",
-      "title": "第六单元 想象世界与名著",
+      "title": "第六单元",
       "period": "",
       "lessons": [
         {
           "id": "chinese-pep-2024-g7s1-l21",
-          "title": "小圣施威降大圣"
+          "title": "第21课 小圣施威降大圣",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l22",
-          "title": "皇帝的新装"
+          "title": "第22课 皇帝的新装",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l23",
-          "title": "女娲造人"
+          "title": "第23课 女娲造人",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l24",
-          "title": "寓言四则"
+          "title": "第24课 寓言四则",
+          "kind": "reading"
         },
         {
           "id": "chinese-pep-2024-g7s1-l30",
-          "title": "发挥联想和想象"
+          "title": "写作 · 发挥联想和想象",
+          "kind": "writing"
         },
         {
           "id": "chinese-pep-2024-g7s1-l32",
-          "title": "《西游记》整本书阅读"
+          "title": "名著导读 · 《西游记》整本书阅读",
+          "kind": "book"
         }
       ],
       "cardIds": [
@@ -271,7 +305,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c01",
       "unitId": "chinese-pep-2024-g7s1-u1",
       "lessonId": "chinese-pep-2024-g7s1-l1",
-      "lesson": "春",
+      "lesson": "第1课 春",
       "title": "写景散文：感官与修辞",
       "body": "描写景物先抓特征，再辨视觉、听觉、嗅觉、触觉。比喻突出相似点，拟人赋予人的动作或情态；说明作用时应联系具体景物。",
       "example": "原创：风轻轻拍着柳树的肩，泥土的气息钻进鼻尖。",
@@ -289,7 +323,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c02",
       "unitId": "chinese-pep-2024-g7s1-u1",
       "lessonId": "chinese-pep-2024-g7s1-l2",
-      "lesson": "济南的冬天",
+      "lesson": "第2课 济南的冬天",
       "title": "抓住景物特点组织材料",
       "body": "概括景物特点要找全文反复强调的特征，再看不同景物如何共同表现它。比较阅读应选择同一维度，避免把一个局部当作全部。",
       "example": "原创：山坡向阳，薄雪很快化开；河边有人解开围巾。两处细节共同表现天气温和。",
@@ -307,7 +341,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c03",
       "unitId": "chinese-pep-2024-g7s1-u1",
       "lessonId": "chinese-pep-2024-g7s1-l3",
-      "lesson": "雨的四季",
+      "lesson": "第3课 雨的四季",
       "title": "比较阅读与词语辨析",
       "body": "比较不同季节的雨，先选声音、形态、气息等共同维度，再概括差异。替换词语时，既看字面含义，也看语境和情感色彩。",
       "example": "原创：春雨细细地落，夏雨急急地敲。可比较雨势和声音。",
@@ -325,7 +359,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c04",
       "unitId": "chinese-pep-2024-g7s1-u1",
       "lessonId": "chinese-pep-2024-g7s1-l4",
-      "lesson": "古代诗歌四首",
+      "lesson": "第4课 古代诗歌四首",
       "title": "诗歌：意象、情感与体裁",
       "body": "本课包括《观沧海》《次北固山下》《闻王昌龄左迁龙标遥有此寄》《天净沙·秋思》。读诗先找景物意象、时空和抒情词，再用诗句说明情感；《天净沙·秋思》是散曲小令。",
       "example": "“乡书何处达？归雁洛阳边”借家书、归雁表达思乡；“我寄愁心与明月”借月寄情。",
@@ -343,7 +377,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c05",
       "unitId": "chinese-pep-2024-g7s1-u2",
       "lessonId": "chinese-pep-2024-g7s1-l5",
-      "lesson": "秋天的怀念",
+      "lesson": "第5课 秋天的怀念",
       "title": "以细节呈现感情",
       "body": "叙事散文中的感情往往落在人物动作、语言、神态及其变化中。概括人物时先说具体行为，再归纳由行为支持的特点；区分当时的感受与回忆时的认识。",
       "example": "原创：她把药盒推到孩子手边，又悄悄把自己的椅子挪远。分析需结合上下文，不能单凭一个动作断言全部性格。",
@@ -361,7 +395,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c06",
       "unitId": "chinese-pep-2024-g7s1-u2",
       "lessonId": "chinese-pep-2024-g7s1-l6",
-      "lesson": "散步",
+      "lesson": "第6课 散步",
       "title": "事件概括与家庭叙事",
       "body": "概括事件可用“谁在什么情况下，遇到什么分歧，怎样解决”的框架。分析看似小事的意义，应从人物如何承担责任、照顾他人等具体选择入手。",
       "example": "原创：一家人选散步路线，长辈想走平路，孩子想走石阶，最后大家商量改走缓坡。",
@@ -379,7 +413,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c07",
       "unitId": "chinese-pep-2024-g7s1-u2",
       "lessonId": "chinese-pep-2024-g7s1-l7",
-      "lesson": "散文诗二首",
+      "lesson": "第7课 散文诗二首",
       "title": "象征与托物表达",
       "body": "本课包括《金色花》和《荷叶·母亲》。散文诗兼有散文表达的自由和诗的情感、节奏。分析物象与情感的联系，要说明物象的特征以及它与情感对象的相似关系。",
       "example": "原创：大伞护住小苗，可以联系“保护”理解亲情，但须有上下文支持。",
@@ -397,7 +431,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c08",
       "unitId": "chinese-pep-2024-g7s1-u2",
       "lessonId": "chinese-pep-2024-g7s1-l8",
-      "lesson": "《世说新语》二则",
+      "lesson": "第8课 《世说新语》二则",
       "title": "文言：词义与省略",
       "body": "《咏雪》写家庭中的咏雪对话；《陈太丘与友期行》涉及守信与待人。解释文言词语要联系句意：“期”是约定，“去”常是离开，“顾”可指回头看。",
       "example": "“相委而去”中的“去”是离开；“元方入门不顾”的“顾”是回头看。",
@@ -415,7 +449,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c09",
       "unitId": "chinese-pep-2024-g7s1-u3",
       "lessonId": "chinese-pep-2024-g7s1-l9",
-      "lesson": "从百草园到三味书屋",
+      "lesson": "第9课 从百草园到三味书屋",
       "title": "空间转换与叙事层次",
       "body": "阅读回忆性散文，可按地点变化梳理层次，再看每个场景中的活动、人物及感受。文章题目提供结构线索，但不能代替对正文的分析。",
       "example": "原创：先写河边捉虾，再写教室读书，可按“河边—教室”的空间顺序分层。",
@@ -433,7 +467,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c10",
       "unitId": "chinese-pep-2024-g7s1-u3",
       "lessonId": "chinese-pep-2024-g7s1-l10",
-      "lesson": "往事依依",
+      "lesson": "第10课 往事依依",
       "title": "回忆材料与成长线索",
       "body": "阅读回忆读书生活的散文，要区分“回忆了什么”与“这些经历怎样影响成长”。多件往事可按共同主题归类，关注由事件转向感受、认识的语句。",
       "example": "原创：回忆第一次借书、听老师朗读，两件事可共同表现阅读兴趣的形成。",
@@ -451,7 +485,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c11",
       "unitId": "chinese-pep-2024-g7s1-u3",
       "lessonId": "chinese-pep-2024-g7s1-l11",
-      "lesson": "再塑生命的人",
+      "lesson": "第11课 再塑生命的人",
       "title": "叙事中的转折与人物作用",
       "body": "分析成长故事，要找认识或情感变化的关键节点，并说明促成变化的人、事及方法。人物作用不是抽象赞美，而是用具体行为与结果建立联系。",
       "example": "原创：学生原来害怕朗读，老师陪他分句练习，后来他能独自读完。",
@@ -469,7 +503,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c12",
       "unitId": "chinese-pep-2024-g7s1-u3",
       "lessonId": "chinese-pep-2024-g7s1-l12",
-      "lesson": "《论语》十二章",
+      "lesson": "第12课 《论语》十二章",
       "title": "文言：学习方法与修养",
       "body": "《论语》记录孔子及其弟子的言行。“学而时习之”强调按时温习；“学而不思则罔，思而不学则殆”说明学习与思考不可偏废。解释同一字要具体到语句。",
       "example": "“温故而知新”：温习旧知识，得到新的理解。",
@@ -487,7 +521,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c13",
       "unitId": "chinese-pep-2024-g7s1-u4",
       "lessonId": "chinese-pep-2024-g7s1-l13",
-      "lesson": "纪念白求恩",
+      "lesson": "第13课 纪念白求恩",
       "title": "夹叙夹议与论证证据",
       "body": "区分叙述与议论：叙述交代人物行为、事件；议论表达评价、看法。夹叙夹议让具体事实与评价相互支撑，分析时要指出事实支持哪一判断。",
       "example": "原创：他连续三天照顾病人。这份负责值得我们学习。前句叙事，后句评价。",
@@ -505,7 +539,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c14",
       "unitId": "chinese-pep-2024-g7s1-u4",
       "lessonId": "chinese-pep-2024-g7s1-l14",
-      "lesson": "回忆我的母亲",
+      "lesson": "第14课 回忆我的母亲",
       "title": "典型事件与人物品质",
       "body": "写人的回忆性散文常用多件具体小事展现人物。选取典型事件，应看事件是否能清楚表现目标品质；概括人物要区分行为事实与编辑归纳。",
       "example": "原创：她每天整理农具，收工后还教孩子识字，可分别从劳动和教育两方面概括。",
@@ -523,7 +557,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c15",
       "unitId": "chinese-pep-2024-g7s1-u4",
       "lessonId": "chinese-pep-2024-g7s1-l15",
-      "lesson": "梅岭三章",
+      "lesson": "第15课 梅岭三章",
       "title": "组诗阅读与抒情主体",
       "body": "组诗应先分别概括各章内容，再辨共同情感与内在联系。诗中的抒情主体可用第一人称发声；解读革命题材诗歌要结合写作处境与诗句，区分艺术想象和现实事实。",
       "example": "原创：诗人写“愿化长风护山河”，是借想象表达志愿，不能当作真实变身事件。",
@@ -541,7 +575,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c16",
       "unitId": "chinese-pep-2024-g7s1-u4",
       "lessonId": "chinese-pep-2024-g7s1-l16",
-      "lesson": "诫子书",
+      "lesson": "第16课 诫子书",
       "title": "文言：论点与条件关系",
       "body": "《诫子书》是诸葛亮劝诫儿子的家书。“非学无以广才，非志无以成学”强调学习、立志的必要性。“静”重在专心平和，“俭”指节俭。理解语句不能删掉否定词。",
       "example": "“非学无以广才”意为不学习就无法增长才干。",
@@ -559,7 +593,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c17",
       "unitId": "chinese-pep-2024-g7s1-u5",
       "lessonId": "chinese-pep-2024-g7s1-l17",
-      "lesson": "猫",
+      "lesson": "第17课 猫",
       "title": "叙事线索与反思",
       "body": "梳理叙事可列“经历—事件—态度—结果”表，比较多次事件中的变化。人物的判断与事情真相应分开记录，再分析误判的原因及反思。",
       "example": "原创：大家因小猫靠近鸟笼就指责它，后来发现窗外有另一只猫。靠近不等于作恶证据。",
@@ -577,7 +611,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c18",
       "unitId": "chinese-pep-2024-g7s1-u5",
       "lessonId": "chinese-pep-2024-g7s1-l18",
-      "lesson": "我的白鸽",
+      "lesson": "第18课 我的白鸽",
       "title": "动物观察与主观感受",
       "body": "描写动物可记录外形、动作、习性及人与动物互动。把观察事实与个人感受分开，既保留抒情，也避免将想象误作动物行为研究结论。",
       "example": "原创：白鸽绕屋三圈后落在窗沿，这是观察；“它像老朋友来问候”是带感情的表达。",
@@ -595,7 +629,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c19",
       "unitId": "chinese-pep-2024-g7s1-u5",
       "lessonId": "chinese-pep-2024-g7s1-l19",
-      "lesson": "大雁归来",
+      "lesson": "第19课 大雁归来",
       "title": "事实说明与文学表达",
       "body": "科普性散文可同时包含自然观察和作者情感。阅读时辨别可核实的数量、时间、行为，与拟人、联想等表达；引用数据应保留对象和条件。",
       "example": "原创：三月的湖边观察到六只雁。“六只”是记录数量，不能推出所有湖泊全年都只有六只雁。",
@@ -613,7 +647,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c20",
       "unitId": "chinese-pep-2024-g7s1-u5",
       "lessonId": "chinese-pep-2024-g7s1-l20",
-      "lesson": "狼",
+      "lesson": "第20课 狼",
       "title": "文言：一词多义与情节",
       "body": "《狼》选自《聊斋志异》。“止”可表示仅、只，也可表示停止；“犬坐于前”中“犬”表示像狗一样。梳理情节先看屠户与狼的行动如何改变。",
       "example": "“止有剩骨”的“止”表示仅、只；“一狼仍从”的“从”是跟从。",
@@ -631,7 +665,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c21",
       "unitId": "chinese-pep-2024-g7s1-u6",
       "lessonId": "chinese-pep-2024-g7s1-l21",
-      "lesson": "小圣施威降大圣",
+      "lesson": "第21课 小圣施威降大圣",
       "title": "想象情节中的对应关系",
       "body": "阅读神魔小说，可列人物“变化—应对”的对应链，分析一方如何针对另一方行动作出反应。想象虽超出现实，情节内部仍需有联系，人物特点要由具体行动支撑。",
       "example": "原创：甲变成飞鸟，乙变成追鸟的鹰。两次变化围绕逃与追形成对应。",
@@ -649,7 +683,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c22",
       "unitId": "chinese-pep-2024-g7s1-u6",
       "lessonId": "chinese-pep-2024-g7s1-l22",
-      "lesson": "皇帝的新装",
+      "lesson": "第22课 皇帝的新装",
       "title": "童话：夸张与讽刺",
       "body": "童话可借夸张、想象和人物反应揭示社会心理。分析讽刺对象时，要用人物为什么说假话、怎样附和等具体表现支持判断；区分人物话语与作品立场。",
       "example": "原创：明知箱子空着，人们却因怕被说无能而夸礼物漂亮。这段写出畏惧评价导致附和。",
@@ -667,7 +701,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c23",
       "unitId": "chinese-pep-2024-g7s1-u6",
       "lessonId": "chinese-pep-2024-g7s1-l23",
-      "lesson": "女娲造人",
+      "lesson": "第23课 女娲造人",
       "title": "神话：解释世界的想象",
       "body": "神话反映古人对世界、人类起源等问题的想象性解释。阅读时可梳理创造过程与形象特点，区分神话叙事、文学改写和现代科学解释。",
       "example": "原创：故事说一位神用泥土造出会说话的小人，这是想象性叙事，不能替代科学研究。",
@@ -685,7 +719,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c24",
       "unitId": "chinese-pep-2024-g7s1-u6",
       "lessonId": "chinese-pep-2024-g7s1-l24",
-      "lesson": "寓言四则",
+      "lesson": "第24课 寓言四则",
       "title": "寓言：情节、结果与寓意",
       "body": "本课包括《赫耳墨斯和雕像者》《蚊子和狮子》《穿井得一人》《杞人忧天》。寓意应从人物行为和结果归纳。《穿井得一人》提醒核实传闻，不能只按字面断章取义。",
       "example": "原创：甲说“修井省下一人劳力”，乙却传成“井里挖出一个人”，错误来自转述失真。",
@@ -703,7 +737,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c25",
       "unitId": "chinese-pep-2024-g7s1-u1",
       "lessonId": "chinese-pep-2024-g7s1-l25",
-      "lesson": "热爱写作，学会观察",
+      "lesson": "写作 · 热爱写作，学会观察",
       "title": "写作：有顺序地观察",
       "body": "观察先定对象和角度，再选择顺序，记录独特细节。可按远近、整体到局部、时间变化组织材料。具体词句应来自真实观察或明确标为想象。",
       "example": "原创：先记操场全景，再写跑道裂缝里的一株小草，属于整体到局部。",
@@ -721,7 +755,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c26",
       "unitId": "chinese-pep-2024-g7s1-u2",
       "lessonId": "chinese-pep-2024-g7s1-l26",
-      "lesson": "学会记事",
+      "lesson": "写作 · 学会记事",
       "title": "写作：完整与重点",
       "body": "记事要交代人物、时间、地点及事件起因、经过、结果，但不必机械分成六句。围绕中心详写关键经过，略写次要环节，使因果清楚、情感有着落。",
       "example": "原创：写第一次修好自行车，可详写查故障和反复调试，简写出门买零件。",
@@ -739,7 +773,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c27",
       "unitId": "chinese-pep-2024-g7s1-u3",
       "lessonId": "chinese-pep-2024-g7s1-l27",
-      "lesson": "如何突出中心",
+      "lesson": "写作 · 如何突出中心",
       "title": "写作：选材与详略",
       "body": "中心是文章主要表达的意思或情感。先用一句话明确中心，再选择能支持它的材料；主要材料详写，关联弱的删减。开头、结尾和过渡应与中心协调。",
       "example": "原创：中心是“合作让我走出困境”，可详写队友如何分工解决问题。",
@@ -757,7 +791,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c28",
       "unitId": "chinese-pep-2024-g7s1-u4",
       "lessonId": "chinese-pep-2024-g7s1-l28",
-      "lesson": "思路要清晰",
+      "lesson": "写作 · 思路要清晰",
       "title": "写作：顺序与衔接",
       "body": "动笔前列提纲，明确各部分写什么、先后怎样安排。可按时间、空间或事理组织。过渡句要呈现内容间真实联系，代词指向应明确。",
       "example": "原创：先介绍故障，再写排查，最后写修复结果，是按事情发展组织。",
@@ -775,7 +809,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c29",
       "unitId": "chinese-pep-2024-g7s1-u5",
       "lessonId": "chinese-pep-2024-g7s1-l29",
-      "lesson": "亲近动物，记叙相处",
+      "lesson": "写作 · 亲近动物，记叙相处",
       "title": "活动探究：记录与成文",
       "body": "观察动物应保持安全距离，不干扰、不伤害。记录日期、环境、具体行为，再围绕一次相处写清起因、经过和感受；将自然观察与叙事表达结合。",
       "example": "原创：连续三天在同一窗边记录麻雀啄食时长，写作时选一次最有变化的观察展开。",
@@ -793,7 +827,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c30",
       "unitId": "chinese-pep-2024-g7s1-u6",
       "lessonId": "chinese-pep-2024-g7s1-l30",
-      "lesson": "发挥联想和想象",
+      "lesson": "写作 · 发挥联想和想象",
       "title": "写作：联想与想象",
       "body": "联想是由一事物想到相关事物，可由相似、接近等建立联系；想象是改造已有经验，创造新的形象或情境。写作中的想象需要围绕表达目的保持内部连贯。",
       "example": "原创：看见圆月想到团圆是联想；设想月亮开一家书店，是创造新情境的想象。",
@@ -811,7 +845,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c31",
       "unitId": "chinese-pep-2024-g7s1-u3",
       "lessonId": "chinese-pep-2024-g7s1-l31",
-      "lesson": "《朝花夕拾》：精读、略读、浏览",
+      "lesson": "名著导读 · 《朝花夕拾》：精读、略读、浏览",
       "title": "整本书：按目的选择读法",
       "body": "《朝花夕拾》是鲁迅的回忆性散文集。浏览用于快速了解目录与整体，略读用于抓主要内容，精读用于细察语言、结构和复杂问题。整本书阅读需用篇目证据修正初步认识。",
       "example": "原创：先浏览目录确定篇目，再略读梳理事件，对疑难段落精读并做批注。",
@@ -829,7 +863,7 @@ Grade7.editionContent.chinese={
       "id": "chinese-pep-2024-g7s1-c32",
       "unitId": "chinese-pep-2024-g7s1-u6",
       "lessonId": "chinese-pep-2024-g7s1-l32",
-      "lesson": "《西游记》整本书阅读",
+      "lesson": "名著导读 · 《西游记》整本书阅读",
       "title": "整本书：人物与情节证据",
       "body": "《西游记》是古典长篇小说，传统署名吴承恩。阅读时可建立回目、人物、事件、表现、证据的记录表。人物评价需比较不同情境，区分原著与影视、游戏改编。",
       "example": "原创：若影视增加一段对话，不能直接把它作为原著人物语言引用，应返回书中核对。",

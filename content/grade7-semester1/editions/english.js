@@ -6,11 +6,13 @@ Grade7.editionContent.english={
   "editionId": "english-shep-2024-g7s1",
   "isbn": null,
   "title": "英语",
+  "presentation": "lessons",
   "publisher": "上海教育出版社",
   "editionDate": null,
   "schoolEditionConfirmed": false,
   "evidenceLevel": "cover-only",
-  "scopeNote": "上教版封面已确认；具体单元目录未核对，本批为七上通用基础，暂不声称逐课同步。",
+  "schoolContentsConfirmed": true,
+  "scopeNote": "按家长确认的Unit 1 Friendship版本，结合国家智慧教育平台公开目录索引呈现八个教材单元。下级知识主题与基础卡为原创编辑归纳，不冒充教材原文或完整逐课覆盖；版权页尚未核对，ISBN与具体版次仍待确认。",
   "contentStatus": "edition-aligned-editorial",
   "fullTextChecked": false,
   "sources": [
@@ -19,7 +21,7 @@ Grade7.editionContent.english={
       "title": "用户图1：上海教育出版社英语七年级上册2024审定封面",
       "url": "references/knowledge-audit/english.md",
       "kind": "user-photo",
-      "accessNote": "封面已确认；版权页、目录待核对，ISBN未知。"
+      "accessNote": "封面及家长提供的第一单元名称已确认；八单元目录另见官方索引来源，实物版权页与ISBN未知。"
     },
     {
       "id": "sz",
@@ -41,132 +43,169 @@ Grade7.editionContent.english={
       "url": "https://dictionary.cambridge.org/grammar/british-grammar/",
       "kind": "language-reference",
       "accessNote": "语法规则编辑复核参考；卡片、例句与练习为原创，不是来源原题。"
+    },
+    {
+      "id": "smartedu-contents",
+      "title": "国家智慧教育平台：上海教育出版社英语七年级上册目录",
+      "url": "https://c1.ykt.cbern.com.cn/edu_product/esp/assets/454dfc04-1259-20fe-cfa2-108408618de7.pkg/%E6%95%99%E6%9D%90-%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%E8%8B%B1%E8%AF%AD%20%E4%B8%83%E5%B9%B4%E7%BA%A7%20%E4%B8%8A%E5%86%8C.pdf",
+      "kind": "education-authority",
+      "accessNote": "2026-10-21官方PDF搜索索引可见八单元目录和页码。直接文件读取失败，未逐页阅读全文；家长明确确认第一单元Friendship。知识主题为编辑归纳。"
     }
   ],
   "units": [
     {
       "id": "english-shep-2024-g7s1-u1",
-      "title": "通用基础1：人物与交往（目录待确认）",
+      "title": "Unit 1 Friendship",
       "period": "",
       "lessons": [
         {
-          "id": "english-shep-2024-g7s1-u1-l1",
-          "title": "人物介绍"
+          "id": "english-shep-2024-g7s1-u1-base",
+          "title": "人物介绍与问答",
+          "kind": "knowledge-summary"
         },
         {
-          "id": "english-shep-2024-g7s1-u1-l2",
-          "title": "问答与交往"
+          "id": "english-shep-2024-g7s1-u1-reading",
+          "title": "交往表达与阅读",
+          "kind": "knowledge-summary"
         }
       ],
       "cardIds": [
         "english-shep-2024-g7s1-c01",
-        "english-shep-2024-g7s1-c02",
         "english-shep-2024-g7s1-c03",
-        "english-shep-2024-g7s1-c04"
+        "english-shep-2024-g7s1-c04",
+        "english-shep-2024-g7s1-c21"
       ]
     },
     {
       "id": "english-shep-2024-g7s1-u2",
-      "title": "通用基础2：校园与日常（目录待确认）",
+      "title": "Unit 2 School life",
       "period": "",
       "lessons": [
         {
-          "id": "english-shep-2024-g7s1-u2-l1",
-          "title": "一般现在时"
+          "id": "english-shep-2024-g7s1-u2-grammar",
+          "title": "Grammar · 一般现在时",
+          "kind": "knowledge-summary"
         },
         {
-          "id": "english-shep-2024-g7s1-u2-l2",
-          "title": "频率与日程"
+          "id": "english-shep-2024-g7s1-u2-expression",
+          "title": "校园日程与表达",
+          "kind": "knowledge-summary"
         }
       ],
       "cardIds": [
         "english-shep-2024-g7s1-c05",
         "english-shep-2024-g7s1-c06",
         "english-shep-2024-g7s1-c07",
-        "english-shep-2024-g7s1-c08"
+        "english-shep-2024-g7s1-c08",
+        "english-shep-2024-g7s1-c23"
       ]
     },
     {
       "id": "english-shep-2024-g7s1-u3",
-      "title": "通用基础3：自然与环保（目录待确认）",
+      "title": "Unit 3 The seasons",
       "period": "",
       "lessons": [
         {
-          "id": "english-shep-2024-g7s1-u3-l1",
-          "title": "天气与季节"
-        },
-        {
-          "id": "english-shep-2024-g7s1-u3-l2",
-          "title": "名词与存在"
+          "id": "english-shep-2024-g7s1-u3-grammar",
+          "title": "Grammar · 形容词与季节表达",
+          "kind": "knowledge-summary"
         }
       ],
       "cardIds": [
         "english-shep-2024-g7s1-c09",
-        "english-shep-2024-g7s1-c10",
+        "english-shep-2024-g7s1-c10"
+      ]
+    },
+    {
+      "id": "english-shep-2024-g7s1-u4",
+      "title": "Unit 4 The Earth",
+      "period": "",
+      "lessons": [
+        {
+          "id": "english-shep-2024-g7s1-u4-grammar",
+          "title": "Grammar · there is / are 与名词",
+          "kind": "knowledge-summary"
+        }
+      ],
+      "cardIds": [
         "english-shep-2024-g7s1-c11",
         "english-shep-2024-g7s1-c12"
       ]
     },
     {
-      "id": "english-shep-2024-g7s1-u4",
-      "title": "通用基础4：计划与出行（目录待确认）",
+      "id": "english-shep-2024-g7s1-u5",
+      "title": "Unit 5 Off to space",
       "period": "",
       "lessons": [
         {
-          "id": "english-shep-2024-g7s1-u4-l1",
-          "title": "未来计划"
-        },
-        {
-          "id": "english-shep-2024-g7s1-u4-l2",
-          "title": "条件与交通"
+          "id": "english-shep-2024-g7s1-u5-grammar",
+          "title": "Grammar · 一般将来时",
+          "kind": "knowledge-summary"
         }
       ],
       "cardIds": [
         "english-shep-2024-g7s1-c13",
-        "english-shep-2024-g7s1-c14",
+        "english-shep-2024-g7s1-c14"
+      ]
+    },
+    {
+      "id": "english-shep-2024-g7s1-u6",
+      "title": "Unit 6 Travelling around Asia",
+      "period": "",
+      "lessons": [
+        {
+          "id": "english-shep-2024-g7s1-u6-grammar",
+          "title": "Grammar · 条件句与出行",
+          "kind": "knowledge-summary"
+        }
+      ],
+      "cardIds": [
         "english-shep-2024-g7s1-c15",
         "english-shep-2024-g7s1-c16"
       ]
     },
     {
-      "id": "english-shep-2024-g7s1-u5",
-      "title": "通用基础5：兴趣与经历（目录待确认）",
+      "id": "english-shep-2024-g7s1-u7",
+      "title": "Unit 7 Fun after school",
       "period": "",
       "lessons": [
         {
-          "id": "english-shep-2024-g7s1-u5-l1",
-          "title": "能力与爱好"
+          "id": "english-shep-2024-g7s1-u7-grammar",
+          "title": "Grammar · 一般过去时",
+          "kind": "knowledge-summary"
         },
         {
-          "id": "english-shep-2024-g7s1-u5-l2",
-          "title": "过去的经历"
+          "id": "english-shep-2024-g7s1-u7-expression",
+          "title": "课后活动与能力表达",
+          "kind": "knowledge-summary"
         }
       ],
       "cardIds": [
         "english-shep-2024-g7s1-c17",
-        "english-shep-2024-g7s1-c18",
         "english-shep-2024-g7s1-c19",
         "english-shep-2024-g7s1-c20"
       ]
     },
     {
-      "id": "english-shep-2024-g7s1-u6",
-      "title": "通用基础6：阅读与写作（目录待确认）",
+      "id": "english-shep-2024-g7s1-u8",
+      "title": "Unit 8 Collecting as a hobby",
       "period": "",
       "lessons": [
         {
-          "id": "english-shep-2024-g7s1-u6-l1",
-          "title": "阅读策略"
+          "id": "english-shep-2024-g7s1-u8-grammar",
+          "title": "Grammar · 物主代词",
+          "kind": "knowledge-summary"
         },
         {
-          "id": "english-shep-2024-g7s1-u6-l2",
-          "title": "衔接与写作"
+          "id": "english-shep-2024-g7s1-u8-reading",
+          "title": "爱好与阅读写作",
+          "kind": "knowledge-summary"
         }
       ],
       "cardIds": [
-        "english-shep-2024-g7s1-c21",
+        "english-shep-2024-g7s1-c02",
+        "english-shep-2024-g7s1-c18",
         "english-shep-2024-g7s1-c22",
-        "english-shep-2024-g7s1-c23",
         "english-shep-2024-g7s1-c24"
       ]
     }
@@ -175,8 +214,8 @@ Grade7.editionContent.english={
     {
       "id": "english-shep-2024-g7s1-c01",
       "unitId": "english-shep-2024-g7s1-u1",
-      "lessonId": "english-shep-2024-g7s1-u1-l1",
-      "lesson": "人物介绍",
+      "lessonId": "english-shep-2024-g7s1-u1-base",
+      "lesson": "人物介绍与问答",
       "title": "be动词与人物介绍",
       "body": "I用am，单数第三人称用is，you和复数用are。be后可接身份或描述。",
       "example": "I am twelve. My friends are kind.",
@@ -185,15 +224,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c02",
-      "unitId": "english-shep-2024-g7s1-u1",
-      "lessonId": "english-shep-2024-g7s1-u1-l1",
-      "lesson": "人物介绍",
+      "unitId": "english-shep-2024-g7s1-u8",
+      "lessonId": "english-shep-2024-g7s1-u8-grammar",
+      "lesson": "Grammar · 物主代词",
       "title": "主格与形容词性物主代词",
       "body": "主格作主语：I、you、he、she、we、they；my、your、his、her、our、their通常放名词前表示所属。",
       "example": "She is Lin. Her bag is blue.",
@@ -202,15 +242,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c03",
       "unitId": "english-shep-2024-g7s1-u1",
-      "lessonId": "english-shep-2024-g7s1-u1-l2",
-      "lesson": "问答与交往",
+      "lessonId": "english-shep-2024-g7s1-u1-base",
+      "lesson": "人物介绍与问答",
       "title": "特殊疑问词",
       "body": "who问人，where问地点，when问时间，why问原因，how问方式。回答的信息应与问题对应。",
       "example": "—Where do you live? —In Shenzhen.",
@@ -219,15 +260,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c04",
       "unitId": "english-shep-2024-g7s1-u1",
-      "lessonId": "english-shep-2024-g7s1-u1-l2",
-      "lesson": "问答与交往",
+      "lessonId": "english-shep-2024-g7s1-u1-reading",
+      "lesson": "交往表达与阅读",
       "title": "有礼貌地认识朋友",
       "body": "初次见面可用Nice to meet you；询问近况可用How are you；请求帮助可加please，接受帮助后表达感谢。",
       "example": "—Nice to meet you. —Nice to meet you too.",
@@ -236,15 +278,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c05",
       "unitId": "english-shep-2024-g7s1-u2",
-      "lessonId": "english-shep-2024-g7s1-u2-l1",
-      "lesson": "一般现在时",
+      "lessonId": "english-shep-2024-g7s1-u2-grammar",
+      "lesson": "Grammar · 一般现在时",
       "title": "一般现在时：习惯",
       "body": "一般现在时描述经常发生的动作。I、you、we、they后通常用动词原形；第三人称单数主语的肯定句通常用动词的-s/-es形式。",
       "example": "I walk to school. Lin walks to school too.",
@@ -253,15 +296,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c06",
       "unitId": "english-shep-2024-g7s1-u2",
-      "lessonId": "english-shep-2024-g7s1-u2-l1",
-      "lesson": "一般现在时",
+      "lessonId": "english-shep-2024-g7s1-u2-grammar",
+      "lesson": "Grammar · 一般现在时",
       "title": "一般现在时：否定与疑问",
       "body": "实义动词的一般现在时否定常用don't/doesn't加动词原形；一般疑问句用Do/Does提前，后面的实义动词回到原形。",
       "example": "Does Mei like chess? She does not like chess.",
@@ -270,15 +314,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c07",
       "unitId": "english-shep-2024-g7s1-u2",
-      "lessonId": "english-shep-2024-g7s1-u2-l2",
-      "lesson": "频率与日程",
+      "lessonId": "english-shep-2024-g7s1-u2-expression",
+      "lesson": "校园日程与表达",
       "title": "频率副词",
       "body": "always、usually、often、sometimes、never表示不同频率。常放实义动词前、be动词后；never含否定意义。",
       "example": "I usually read after dinner. She is always kind.",
@@ -287,15 +332,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c08",
       "unitId": "english-shep-2024-g7s1-u2",
-      "lessonId": "english-shep-2024-g7s1-u2-l2",
-      "lesson": "频率与日程",
+      "lessonId": "english-shep-2024-g7s1-u2-expression",
+      "lesson": "校园日程与表达",
       "title": "时间介词与学校日程",
       "body": "at常用于具体钟点；on用于具体某天；in用于月份、季节、年份及morning等时段。on Monday morning属于具体某天的上午。",
       "example": "Our lesson starts at eight on Monday.",
@@ -304,15 +350,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c09",
       "unitId": "english-shep-2024-g7s1-u3",
-      "lessonId": "english-shep-2024-g7s1-u3-l1",
-      "lesson": "天气与季节",
+      "lessonId": "english-shep-2024-g7s1-u3-grammar",
+      "lesson": "Grammar · 形容词与季节表达",
       "title": "天气与形容词",
       "body": "描述天气可用It is +形容词，如sunny、rainy、windy、snowy；rain也可作动词，如It rains。",
       "example": "It is windy today. The wind is strong.",
@@ -321,15 +368,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c10",
       "unitId": "english-shep-2024-g7s1-u3",
-      "lessonId": "english-shep-2024-g7s1-u3-l1",
-      "lesson": "天气与季节",
+      "lessonId": "english-shep-2024-g7s1-u3-grammar",
+      "lesson": "Grammar · 形容词与季节表达",
       "title": "季节与it句型",
       "body": "spring、summer、autumn、winter表示四季；It is +形容词+to do sth可评价某种活动。这里的it作形式主语。",
       "example": "It is fun to fly a kite in spring.",
@@ -338,15 +386,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c11",
-      "unitId": "english-shep-2024-g7s1-u3",
-      "lessonId": "english-shep-2024-g7s1-u3-l2",
-      "lesson": "名词与存在",
+      "unitId": "english-shep-2024-g7s1-u4",
+      "lessonId": "english-shep-2024-g7s1-u4-grammar",
+      "lesson": "Grammar · there is / are 与名词",
       "title": "可数与不可数名词",
       "body": "可数名词可用数词并有单复数，如two books；water、air等通常为不可数名词。可用a bottle of water等量词表达数量。",
       "example": "There are two books and a bottle of water on the desk.",
@@ -355,15 +404,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c12",
-      "unitId": "english-shep-2024-g7s1-u3",
-      "lessonId": "english-shep-2024-g7s1-u3-l2",
-      "lesson": "名词与存在",
+      "unitId": "english-shep-2024-g7s1-u4",
+      "lessonId": "english-shep-2024-g7s1-u4-grammar",
+      "lesson": "Grammar · there is / are 与名词",
       "title": "there be与环保行动",
       "body": "There is/are表示某处有某物；单数或不可数名词用is，复数用are。环保行动可用祈使句，如Save water。",
       "example": "There is some water in the bottle. There are trees near our school.",
@@ -372,15 +422,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c13",
-      "unitId": "english-shep-2024-g7s1-u4",
-      "lessonId": "english-shep-2024-g7s1-u4-l1",
-      "lesson": "未来计划",
+      "unitId": "english-shep-2024-g7s1-u5",
+      "lessonId": "english-shep-2024-g7s1-u5-grammar",
+      "lesson": "Grammar · 一般将来时",
       "title": "一般将来时will",
       "body": "will加动词原形表达将来的预测、意愿等；否定为will not或won't，疑问句把will放主语前。",
       "example": "We will visit the science museum tomorrow.",
@@ -389,15 +440,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c14",
-      "unitId": "english-shep-2024-g7s1-u4",
-      "lessonId": "english-shep-2024-g7s1-u4-l1",
-      "lesson": "未来计划",
+      "unitId": "english-shep-2024-g7s1-u5",
+      "lessonId": "english-shep-2024-g7s1-u5-grammar",
+      "lesson": "Grammar · 一般将来时",
       "title": "be going to与计划",
       "body": "be going to加动词原形常表达已有的打算；be随主语变化。未来时间可用tomorrow、next week等。",
       "example": "I am going to make a model next week.",
@@ -406,15 +458,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c15",
-      "unitId": "english-shep-2024-g7s1-u4",
-      "lessonId": "english-shep-2024-g7s1-u4-l2",
-      "lesson": "条件与交通",
+      "unitId": "english-shep-2024-g7s1-u6",
+      "lessonId": "english-shep-2024-g7s1-u6-grammar",
+      "lesson": "Grammar · 条件句与出行",
       "title": "if条件句入门",
       "body": "在表达将来可能情况的if条件句中，条件部分常用一般现在时，主句可用will加动词原形。if意为“如果”。",
       "example": "If it rains tomorrow, we will stay indoors.",
@@ -423,15 +476,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c16",
-      "unitId": "english-shep-2024-g7s1-u4",
-      "lessonId": "english-shep-2024-g7s1-u4-l2",
-      "lesson": "条件与交通",
+      "unitId": "english-shep-2024-g7s1-u6",
+      "lessonId": "english-shep-2024-g7s1-u6-grammar",
+      "lesson": "Grammar · 条件句与出行",
       "title": "交通与旅行问答",
       "body": "问出行方式用How；by bus、by train等表示乘交通工具，on foot表示步行。go to +地点表示去某地，但home前通常不加to。",
       "example": "—How do you go to school? —By bus.",
@@ -440,15 +494,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c17",
-      "unitId": "english-shep-2024-g7s1-u5",
-      "lessonId": "english-shep-2024-g7s1-u5-l1",
-      "lesson": "能力与爱好",
+      "unitId": "english-shep-2024-g7s1-u7",
+      "lessonId": "english-shep-2024-g7s1-u7-expression",
+      "lesson": "课后活动与能力表达",
       "title": "can与能力表达",
       "body": "can加动词原形表示能力；否定can not通常写cannot或can't；疑问句把can放主语前。",
       "example": "Mei can swim, but she cannot skate.",
@@ -457,15 +512,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c18",
-      "unitId": "english-shep-2024-g7s1-u5",
-      "lessonId": "english-shep-2024-g7s1-u5-l1",
-      "lesson": "能力与爱好",
+      "unitId": "english-shep-2024-g7s1-u8",
+      "lessonId": "english-shep-2024-g7s1-u8-reading",
+      "lesson": "爱好与阅读写作",
       "title": "兴趣动词与动名词",
       "body": "enjoy后接动词时用-ing形式；be interested in后也可接动词-ing。like后可接-ing或to do，不能将其中一种误判成唯一规则。",
       "example": "I enjoy reading. My friend is interested in collecting stamps.",
@@ -474,15 +530,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c19",
-      "unitId": "english-shep-2024-g7s1-u5",
-      "lessonId": "english-shep-2024-g7s1-u5-l2",
-      "lesson": "过去的经历",
+      "unitId": "english-shep-2024-g7s1-u7",
+      "lessonId": "english-shep-2024-g7s1-u7-grammar",
+      "lesson": "Grammar · 一般过去时",
       "title": "一般过去时：was与were",
       "body": "was、were是be的过去式。I、he、she、it常用was；you、we、they用were，常与yesterday、last Sunday等过去时间连用。",
       "example": "I was at home yesterday. They were at the library.",
@@ -491,15 +548,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c20",
-      "unitId": "english-shep-2024-g7s1-u5",
-      "lessonId": "english-shep-2024-g7s1-u5-l2",
-      "lesson": "过去的经历",
+      "unitId": "english-shep-2024-g7s1-u7",
+      "lessonId": "english-shep-2024-g7s1-u7-grammar",
+      "lesson": "Grammar · 一般过去时",
       "title": "一般过去时：实义动词",
       "body": "一般过去时描述过去发生的动作，肯定句用过去式；否定用didn't加原形；疑问用Did加主语加原形。常见不规则形式要分别记忆。",
       "example": "I visited a club yesterday. Did you visit it too?",
@@ -508,15 +566,16 @@ Grade7.editionContent.english={
       "examType": "词汇、语法与情境运用",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c21",
-      "unitId": "english-shep-2024-g7s1-u6",
-      "lessonId": "english-shep-2024-g7s1-u6-l1",
-      "lesson": "阅读策略",
+      "unitId": "english-shep-2024-g7s1-u1",
+      "lessonId": "english-shep-2024-g7s1-u1-reading",
+      "lesson": "交往表达与阅读",
       "title": "代词指代与定位信息",
       "body": "阅读时先找到人名、时间、地点等关键词。he、she、it、they常指前文已提到的人或物；必须根据语境判断。",
       "example": "Nina has a red bag. She carries it to school. She指Nina，it指bag。",
@@ -525,15 +584,16 @@ Grade7.editionContent.english={
       "examType": "阅读理解与书面表达基础",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c22",
-      "unitId": "english-shep-2024-g7s1-u6",
-      "lessonId": "english-shep-2024-g7s1-u6-l1",
-      "lesson": "阅读策略",
+      "unitId": "english-shep-2024-g7s1-u8",
+      "lessonId": "english-shep-2024-g7s1-u8-reading",
+      "lesson": "爱好与阅读写作",
       "title": "主旨与事实证据",
       "body": "主旨题看整段共同讨论的内容；细节题回到原文找直接证据。不能把常识或个人猜测当成短文已经写出的事实。",
       "example": "Our club reads books, shares stories and visits the library. 这些活动共同指向阅读。",
@@ -542,15 +602,16 @@ Grade7.editionContent.english={
       "examType": "阅读理解与书面表达基础",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c23",
-      "unitId": "english-shep-2024-g7s1-u6",
-      "lessonId": "english-shep-2024-g7s1-u6-l2",
-      "lesson": "衔接与写作",
+      "unitId": "english-shep-2024-g7s1-u2",
+      "lessonId": "english-shep-2024-g7s1-u2-expression",
+      "lesson": "校园日程与表达",
       "title": "连接词and、but、because",
       "body": "and连接并列内容；but表示转折；because引出原因。英语基础表达中，because与so通常不在同一句中成对重复连接同一因果关系。",
       "example": "I like the club because the members are friendly.",
@@ -559,15 +620,16 @@ Grade7.editionContent.english={
       "examType": "阅读理解与书面表达基础",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     },
     {
       "id": "english-shep-2024-g7s1-c24",
-      "unitId": "english-shep-2024-g7s1-u6",
-      "lessonId": "english-shep-2024-g7s1-u6-l2",
-      "lesson": "衔接与写作",
+      "unitId": "english-shep-2024-g7s1-u8",
+      "lessonId": "english-shep-2024-g7s1-u8-reading",
+      "lesson": "爱好与阅读写作",
       "title": "短文写作与自查",
       "body": "介绍朋友或兴趣时，先写主题，再补具体信息，最后简短收束。检查主语与动词、名词单复数、大写、句末标点；用细节支持评价。",
       "example": "My friend is helpful. She helps me with maths after school.",
@@ -576,7 +638,8 @@ Grade7.editionContent.english={
       "examType": "阅读理解与书面表达基础",
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "reviewStatus": "editorial-reviewed"
     }
@@ -609,7 +672,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -641,7 +705,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -673,7 +738,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -697,7 +763,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c02"
       ],
-      "unitId": "english-shep-2024-g7s1-u1",
+      "unitId": "english-shep-2024-g7s1-u8",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -705,7 +771,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -729,7 +796,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c02"
       ],
-      "unitId": "english-shep-2024-g7s1-u1",
+      "unitId": "english-shep-2024-g7s1-u8",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -737,7 +804,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -761,7 +829,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c02"
       ],
-      "unitId": "english-shep-2024-g7s1-u1",
+      "unitId": "english-shep-2024-g7s1-u8",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -769,7 +837,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -801,7 +870,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -833,7 +903,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -865,7 +936,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -897,7 +969,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -929,7 +1002,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -961,7 +1035,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -993,7 +1068,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1025,7 +1101,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1057,7 +1134,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1089,7 +1167,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1121,7 +1200,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1153,7 +1233,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1185,7 +1266,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1217,7 +1299,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1249,7 +1332,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1281,7 +1365,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1313,7 +1398,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1345,7 +1431,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1377,7 +1464,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1409,7 +1497,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1441,7 +1530,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1473,7 +1563,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1505,7 +1596,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1537,7 +1629,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1561,7 +1654,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c11"
       ],
-      "unitId": "english-shep-2024-g7s1-u3",
+      "unitId": "english-shep-2024-g7s1-u4",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -1569,7 +1662,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1593,7 +1687,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c11"
       ],
-      "unitId": "english-shep-2024-g7s1-u3",
+      "unitId": "english-shep-2024-g7s1-u4",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -1601,7 +1695,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1625,7 +1720,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c11"
       ],
-      "unitId": "english-shep-2024-g7s1-u3",
+      "unitId": "english-shep-2024-g7s1-u4",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -1633,7 +1728,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1657,7 +1753,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c12"
       ],
-      "unitId": "english-shep-2024-g7s1-u3",
+      "unitId": "english-shep-2024-g7s1-u4",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -1665,7 +1761,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1689,7 +1786,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c12"
       ],
-      "unitId": "english-shep-2024-g7s1-u3",
+      "unitId": "english-shep-2024-g7s1-u4",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -1697,7 +1794,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1721,7 +1819,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c12"
       ],
-      "unitId": "english-shep-2024-g7s1-u3",
+      "unitId": "english-shep-2024-g7s1-u4",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -1729,7 +1827,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1753,7 +1852,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c13"
       ],
-      "unitId": "english-shep-2024-g7s1-u4",
+      "unitId": "english-shep-2024-g7s1-u5",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -1761,7 +1860,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1785,7 +1885,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c13"
       ],
-      "unitId": "english-shep-2024-g7s1-u4",
+      "unitId": "english-shep-2024-g7s1-u5",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -1793,7 +1893,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1817,7 +1918,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c13"
       ],
-      "unitId": "english-shep-2024-g7s1-u4",
+      "unitId": "english-shep-2024-g7s1-u5",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -1825,7 +1926,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1849,7 +1951,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c14"
       ],
-      "unitId": "english-shep-2024-g7s1-u4",
+      "unitId": "english-shep-2024-g7s1-u5",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -1857,7 +1959,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1881,7 +1984,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c14"
       ],
-      "unitId": "english-shep-2024-g7s1-u4",
+      "unitId": "english-shep-2024-g7s1-u5",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -1889,7 +1992,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1913,7 +2017,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c14"
       ],
-      "unitId": "english-shep-2024-g7s1-u4",
+      "unitId": "english-shep-2024-g7s1-u5",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -1921,7 +2025,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1945,7 +2050,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c15"
       ],
-      "unitId": "english-shep-2024-g7s1-u4",
+      "unitId": "english-shep-2024-g7s1-u6",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -1953,7 +2058,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -1977,7 +2083,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c15"
       ],
-      "unitId": "english-shep-2024-g7s1-u4",
+      "unitId": "english-shep-2024-g7s1-u6",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -1985,7 +2091,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2009,7 +2116,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c15"
       ],
-      "unitId": "english-shep-2024-g7s1-u4",
+      "unitId": "english-shep-2024-g7s1-u6",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2017,7 +2124,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2041,7 +2149,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c16"
       ],
-      "unitId": "english-shep-2024-g7s1-u4",
+      "unitId": "english-shep-2024-g7s1-u6",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2049,7 +2157,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2073,7 +2182,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c16"
       ],
-      "unitId": "english-shep-2024-g7s1-u4",
+      "unitId": "english-shep-2024-g7s1-u6",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2081,7 +2190,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2105,7 +2215,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c16"
       ],
-      "unitId": "english-shep-2024-g7s1-u4",
+      "unitId": "english-shep-2024-g7s1-u6",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2113,7 +2223,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2137,7 +2248,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c17"
       ],
-      "unitId": "english-shep-2024-g7s1-u5",
+      "unitId": "english-shep-2024-g7s1-u7",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2145,7 +2256,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2169,7 +2281,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c17"
       ],
-      "unitId": "english-shep-2024-g7s1-u5",
+      "unitId": "english-shep-2024-g7s1-u7",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2177,7 +2289,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2201,7 +2314,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c17"
       ],
-      "unitId": "english-shep-2024-g7s1-u5",
+      "unitId": "english-shep-2024-g7s1-u7",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2209,7 +2322,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2233,7 +2347,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c18"
       ],
-      "unitId": "english-shep-2024-g7s1-u5",
+      "unitId": "english-shep-2024-g7s1-u8",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2241,7 +2355,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2265,7 +2380,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c18"
       ],
-      "unitId": "english-shep-2024-g7s1-u5",
+      "unitId": "english-shep-2024-g7s1-u8",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2273,7 +2388,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2297,7 +2413,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c18"
       ],
-      "unitId": "english-shep-2024-g7s1-u5",
+      "unitId": "english-shep-2024-g7s1-u8",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2305,7 +2421,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2329,7 +2446,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c19"
       ],
-      "unitId": "english-shep-2024-g7s1-u5",
+      "unitId": "english-shep-2024-g7s1-u7",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2337,7 +2454,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2361,7 +2479,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c19"
       ],
-      "unitId": "english-shep-2024-g7s1-u5",
+      "unitId": "english-shep-2024-g7s1-u7",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2369,7 +2487,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2393,7 +2512,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c19"
       ],
-      "unitId": "english-shep-2024-g7s1-u5",
+      "unitId": "english-shep-2024-g7s1-u7",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2401,7 +2520,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2425,7 +2545,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c20"
       ],
-      "unitId": "english-shep-2024-g7s1-u5",
+      "unitId": "english-shep-2024-g7s1-u7",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2433,7 +2553,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2457,7 +2578,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c20"
       ],
-      "unitId": "english-shep-2024-g7s1-u5",
+      "unitId": "english-shep-2024-g7s1-u7",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2465,7 +2586,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2489,7 +2611,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c20"
       ],
-      "unitId": "english-shep-2024-g7s1-u5",
+      "unitId": "english-shep-2024-g7s1-u7",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2497,7 +2619,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2521,7 +2644,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c21"
       ],
-      "unitId": "english-shep-2024-g7s1-u6",
+      "unitId": "english-shep-2024-g7s1-u1",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2529,7 +2652,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2553,7 +2677,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c21"
       ],
-      "unitId": "english-shep-2024-g7s1-u6",
+      "unitId": "english-shep-2024-g7s1-u1",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2561,7 +2685,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2585,7 +2710,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c21"
       ],
-      "unitId": "english-shep-2024-g7s1-u6",
+      "unitId": "english-shep-2024-g7s1-u1",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2593,7 +2718,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2617,7 +2743,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c22"
       ],
-      "unitId": "english-shep-2024-g7s1-u6",
+      "unitId": "english-shep-2024-g7s1-u8",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2625,7 +2751,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2649,7 +2776,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c22"
       ],
-      "unitId": "english-shep-2024-g7s1-u6",
+      "unitId": "english-shep-2024-g7s1-u8",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2657,7 +2784,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2681,7 +2809,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c22"
       ],
-      "unitId": "english-shep-2024-g7s1-u6",
+      "unitId": "english-shep-2024-g7s1-u8",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2689,7 +2817,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2713,7 +2842,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c23"
       ],
-      "unitId": "english-shep-2024-g7s1-u6",
+      "unitId": "english-shep-2024-g7s1-u2",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2721,7 +2850,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2745,7 +2875,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c23"
       ],
-      "unitId": "english-shep-2024-g7s1-u6",
+      "unitId": "english-shep-2024-g7s1-u2",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2753,7 +2883,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2777,7 +2908,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c23"
       ],
-      "unitId": "english-shep-2024-g7s1-u6",
+      "unitId": "english-shep-2024-g7s1-u2",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2785,7 +2916,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2809,7 +2941,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c24"
       ],
-      "unitId": "english-shep-2024-g7s1-u6",
+      "unitId": "english-shep-2024-g7s1-u8",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2817,7 +2949,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2841,7 +2974,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c24"
       ],
-      "unitId": "english-shep-2024-g7s1-u6",
+      "unitId": "english-shep-2024-g7s1-u8",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2849,7 +2982,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true
@@ -2873,7 +3007,7 @@ Grade7.editionContent.english={
       "cardIds": [
         "english-shep-2024-g7s1-c24"
       ],
-      "unitId": "english-shep-2024-g7s1-u6",
+      "unitId": "english-shep-2024-g7s1-u8",
       "difficulty": 1,
       "provenance": {
         "kind": "original",
@@ -2881,7 +3015,8 @@ Grade7.editionContent.english={
       },
       "sourceIds": [
         "standard",
-        "grammar"
+        "grammar",
+        "smartedu-contents"
       ],
       "legacyRefs": [],
       "eligible": true

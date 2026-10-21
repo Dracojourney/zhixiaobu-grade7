@@ -1,6 +1,26 @@
 (function (G) {
   G.content = G.content || {};
   G.Content = {
+    lessonGroups: function (subject, unit) {
+      return (unit.lessons || []).map(function (lesson) {
+        return {
+          id: lesson.id,
+          title: lesson.title,
+          kind: lesson.kind || 'lesson',
+          cards: subject.cards.filter(function (card) {
+            return card.unitId === unit.id && card.lessonId === lesson.id;
+          })
+        };
+      }).filter(function (lesson) { return lesson.cards.length; });
+    },
+    orderedCards: function (subject) {
+      if (subject.presentation !== 'lessons') return subject.cards;
+      return subject.units.flatMap(function (unit) {
+        return G.Content.lessonGroups(subject, unit).flatMap(function (lesson) {
+          return lesson.cards;
+        });
+      });
+    },
     unique: function (questions) {
       var ids = new Set();
       return questions.filter(function (q) {

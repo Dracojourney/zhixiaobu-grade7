@@ -64,3 +64,9 @@ body.g7-body{margin:0;background:var(--g7-bg);color:var(--g7-ink);background-ima
 #learning-app[data-world="chinese"],[data-world="chinese"]{--world:#f1d9c9;--world-deep:#87503e;--world-pale:#fff3eb}
 #learning-app[data-world="math"],[data-world="math"]{--world:#cfdef4;--world-deep:#426393;--world-pale:#f0f5ff}
 #learning-app[data-world="english"],[data-world="english"]{--world:#e3eac5;--world-deep:#606e32;--world-pale:#f7faeb}
+/* Course directory: unit -> textbook lesson -> knowledge cards. */
+.g7-lesson{display:grid;grid-template-columns:185px minmax(0,1fr);gap:20px;padding:20px 0;border-top:1px solid var(--g7-line)}
+.g7-lesson:first-child{padding-top:8px;border-top:0}.g7-lesson-heading{padding:12px 0}.g7-lesson-heading h3{font-size:17px;font-weight:600;line-height:1.7!important}.g7-lesson-heading small{display:block;font-size:11px;color:var(--g7-muted);margin-top:8px}.g7-lesson .g7-topic-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.g7-lesson .g7-card-row{min-height:170px}.g7-lesson .g7-card-row:only-child{grid-column:1/-1}.g7-lesson .g7-topic-content small{display:none}.g7-lesson .g7-topic-top{margin-bottom:10px}.g7-lesson .g7-topic-content b{font-size:18px}.g7-lesson .g7-topic-bottom{padding-top:14px}
+@media(max-width:799px){.g7-lesson{grid-template-columns:145px minmax(0,1fr);gap:16px}.g7-lesson-heading h3{font-size:15px}.g7-lesson .g7-topic-grid{grid-template-columns:1fr}}
+@media(max-width:599px){.g7-lesson{display:block;padding:17px 0}.g7-lesson-heading{padding:0 2px 13px}.g7-lesson-heading h3{font-size:16px}.g7-lesson-heading small{margin-top:4px}.g7-lesson .g7-card-row{min-height:160px}}
+.g7-outline a b small{display:block;font-size:10px;color:var(--g7-muted);font-weight:400;margin-bottom:3px;line-height:1.6}
