@@ -1,0 +1,4810 @@
+{
+  "history:time:round1:1": {
+    "id": "g7s1-history-q-time-round1-1",
+    "cardIds": [
+      "g7s1-history-c2-1-1"
+    ],
+    "unitId": "g7s1-history-u2",
+    "canonicalId": "g7s1-history-q-time-round1-1"
+  },
+  "history:time:round1:2": {
+    "id": "g7s1-history-q-time-round1-2",
+    "cardIds": [
+      "g7s1-history-c3-6-1"
+    ],
+    "unitId": "g7s1-history-u3",
+    "canonicalId": "g7s1-history-q-time-round1-2"
+  },
+  "history:time:round1:3": {
+    "id": "g7s1-history-q-time-round1-3",
+    "cardIds": [
+      "g7s1-history-c3-1-1"
+    ],
+    "unitId": "g7s1-history-u3",
+    "canonicalId": "g7s1-history-q-time-round1-3"
+  },
+  "history:time:round1:4": {
+    "id": "g7s1-history-q-time-round1-4",
+    "cardIds": [
+      "g7s1-history-c2-5-3"
+    ],
+    "unitId": "g7s1-history-u2",
+    "canonicalId": "g7s1-history-q-time-round1-4"
+  },
+  "history:time:round1:5": {
+    "id": "g7s1-history-q-time-round1-5",
+    "cardIds": [
+      "g7s1-history-c1-2-2"
+    ],
+    "unitId": "g7s1-history-u1",
+    "canonicalId": "g7s1-history-q-time-round1-5"
+  },
+  "history:time:round1:6": {
+    "id": "g7s1-history-q-time-round1-6",
+    "cardIds": [
+      "g7s1-history-c3-4-1"
+    ],
+    "unitId": "g7s1-history-u3",
+    "canonicalId": "g7s1-history-q-time-round1-6"
+  },
+  "history:time:round1:7": {
+    "id": "g7s1-history-q-time-round1-7",
+    "cardIds": [
+      "g7s1-history-c2-4-2"
+    ],
+    "unitId": "g7s1-history-u2",
+    "canonicalId": "g7s1-history-q-time-round1-7"
+  },
+  "history:time:round1:8": {
+    "id": "g7s1-history-q-time-round1-8",
+    "cardIds": [
+      "g7s1-history-c3-7-3"
+    ],
+    "unitId": "g7s1-history-u3",
+    "canonicalId": "g7s1-history-q-time-round1-8"
+  },
+  "history:time:round1:9": {
+    "id": "g7s1-history-q-time-round1-9",
+    "cardIds": [
+      "g7s1-history-c3-5-2"
+    ],
+    "unitId": "g7s1-history-u3",
+    "canonicalId": "g7s1-history-q-time-round1-9"
+  },
+  "history:time:round1:10": {
+    "id": "g7s1-history-q-time-round1-10",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "缺少必要图表或题干信息",
+    "canonicalId": "g7s1-history-q-time-round1-10"
+  },
+  "history:time:round2:1": {
+    "id": "g7s1-history-q-time-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round2-1"
+  },
+  "history:time:round2:2": {
+    "id": "g7s1-history-q-time-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round2-2"
+  },
+  "history:time:round2:3": {
+    "id": "g7s1-history-q-time-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round2-3"
+  },
+  "history:time:round2:4": {
+    "id": "g7s1-history-q-time-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round2-4"
+  },
+  "history:time:round2:5": {
+    "id": "g7s1-history-q-time-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round2-5"
+  },
+  "history:time:round2:6": {
+    "id": "g7s1-history-q-time-round2-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round2-6"
+  },
+  "history:time:round2:7": {
+    "id": "g7s1-history-q-time-round2-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round2-7"
+  },
+  "history:time:round2:8": {
+    "id": "g7s1-history-q-time-round2-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round2-8"
+  },
+  "history:time:round2:9": {
+    "id": "g7s1-history-q-time-round2-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round2-9"
+  },
+  "history:time:round2:10": {
+    "id": "g7s1-history-q-time-round2-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round2-10"
+  },
+  "history:time:round3:1": {
+    "id": "g7s1-history-q-time-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round3-1"
+  },
+  "history:time:round3:2": {
+    "id": "g7s1-history-q-time-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round3-2"
+  },
+  "history:time:round3:3": {
+    "id": "g7s1-history-q-time-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round3-3"
+  },
+  "history:time:round3:4": {
+    "id": "g7s1-history-q-time-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round3-4"
+  },
+  "history:time:round3:5": {
+    "id": "g7s1-history-q-time-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round3-5"
+  },
+  "history:time:round3:6": {
+    "id": "g7s1-history-q-time-round3-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round3-6"
+  },
+  "history:time:round3:7": {
+    "id": "g7s1-history-q-time-round3-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round3-7"
+  },
+  "history:time:round3:8": {
+    "id": "g7s1-history-q-time-round3-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round3-8"
+  },
+  "history:time:round3:9": {
+    "id": "g7s1-history-q-time-round3-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round3-9"
+  },
+  "history:time:round3:10": {
+    "id": "g7s1-history-q-time-round3-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-time-round3-10"
+  },
+  "history:sort:round1:1": {
+    "id": "g7s1-history-q-sort-round1-1",
+    "cardIds": [
+      "g7s1-history-c3-1-1",
+      "g7s1-history-c2-1-1",
+      "g7s1-history-c3-3-1",
+      "g7s1-history-c2-1-3"
+    ],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-sort-round1-1"
+  },
+  "history:sort:round1:2": {
+    "id": "g7s1-history-q-sort-round1-2",
+    "cardIds": [
+      "g7s1-history-c4-1-2",
+      "g7s1-history-c3-2-2",
+      "g7s1-history-c3-6-1",
+      "g7s1-history-c2-4-2"
+    ],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-sort-round1-2"
+  },
+  "history:sort:round1:3": {
+    "id": "g7s1-history-q-sort-round1-3",
+    "cardIds": [
+      "g7s1-history-c1-1-3",
+      "g7s1-history-c1-1-2",
+      "g7s1-history-c1-1-1",
+      "g7s1-history-c1-2-3"
+    ],
+    "unitId": "g7s1-history-u1",
+    "canonicalId": "g7s1-history-q-sort-round1-3"
+  },
+  "history:sort:round1:4": {
+    "id": "g7s1-history-q-sort-round1-4",
+    "cardIds": [
+      "g7s1-history-c2-1-1",
+      "g7s1-history-c2-1-2",
+      "g7s1-history-c2-1-3",
+      "g7s1-history-c2-1-4"
+    ],
+    "unitId": "g7s1-history-u2",
+    "canonicalId": "g7s1-history-q-sort-round1-4"
+  },
+  "history:sort:round1:5": {
+    "id": "g7s1-history-q-sort-round1-5",
+    "cardIds": [
+      "g7s1-history-c4-2-1",
+      "g7s1-history-c4-4-1",
+      "g7s1-history-c4-1-2",
+      "g7s1-history-c4-4-2"
+    ],
+    "unitId": "g7s1-history-u4",
+    "canonicalId": "g7s1-history-q-sort-round1-5"
+  },
+  "history:sort:round2:1": {
+    "id": "g7s1-history-q-sort-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-sort-round2-1"
+  },
+  "history:sort:round2:2": {
+    "id": "g7s1-history-q-sort-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-sort-round2-2"
+  },
+  "history:sort:round2:3": {
+    "id": "g7s1-history-q-sort-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-sort-round2-3"
+  },
+  "history:sort:round2:4": {
+    "id": "g7s1-history-q-sort-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-sort-round2-4"
+  },
+  "history:sort:round2:5": {
+    "id": "g7s1-history-q-sort-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-sort-round2-5"
+  },
+  "history:sort:round3:1": {
+    "id": "g7s1-history-q-sort-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-sort-round3-1"
+  },
+  "history:sort:round3:2": {
+    "id": "g7s1-history-q-sort-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-sort-round3-2"
+  },
+  "history:sort:round3:3": {
+    "id": "g7s1-history-q-sort-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-sort-round3-3"
+  },
+  "history:sort:round3:4": {
+    "id": "g7s1-history-q-sort-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-sort-round3-4"
+  },
+  "history:sort:round3:5": {
+    "id": "g7s1-history-q-sort-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-sort-round3-5"
+  },
+  "history:match:round1:1": {
+    "id": "g7s1-history-q-match-round1-1",
+    "cardIds": [
+      "g7s1-history-c3-7-3",
+      "g7s1-history-c3-7-1",
+      "g7s1-history-c3-7-2",
+      "g7s1-history-c4-5-1"
+    ],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-match-round1-1"
+  },
+  "history:match:round1:2": {
+    "id": "g7s1-history-q-match-round1-2",
+    "cardIds": [
+      "g7s1-history-c2-4-2",
+      "g7s1-history-c3-6-1",
+      "g7s1-history-c3-4-1",
+      "g7s1-history-c3-1-1"
+    ],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-match-round1-2"
+  },
+  "history:match:round1:3": {
+    "id": "g7s1-history-q-match-round1-3",
+    "cardIds": [
+      "g7s1-history-c4-1-1",
+      "g7s1-history-c4-1-2",
+      "g7s1-history-c4-4-1",
+      "g7s1-history-c2-4-1"
+    ],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-match-round1-3"
+  },
+  "history:match:round1:4": {
+    "id": "g7s1-history-q-match-round1-4",
+    "cardIds": [
+      "g7s1-history-c2-5-2",
+      "g7s1-history-c2-5-1",
+      "g7s1-history-c3-7-3",
+      "g7s1-history-c4-5-2"
+    ],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-match-round1-4"
+  },
+  "history:match:round1:5": {
+    "id": "g7s1-history-q-match-round1-5",
+    "cardIds": [
+      "g7s1-history-c2-1-1",
+      "g7s1-history-c2-1-2",
+      "g7s1-history-c3-1-1",
+      "g7s1-history-c3-5-1"
+    ],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-match-round1-5"
+  },
+  "history:match:round2:1": {
+    "id": "g7s1-history-q-match-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-match-round2-1"
+  },
+  "history:match:round2:2": {
+    "id": "g7s1-history-q-match-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-match-round2-2"
+  },
+  "history:match:round2:3": {
+    "id": "g7s1-history-q-match-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-match-round2-3"
+  },
+  "history:match:round2:4": {
+    "id": "g7s1-history-q-match-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-match-round2-4"
+  },
+  "history:match:round2:5": {
+    "id": "g7s1-history-q-match-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-match-round2-5"
+  },
+  "history:match:round3:1": {
+    "id": "g7s1-history-q-match-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-match-round3-1"
+  },
+  "history:match:round3:2": {
+    "id": "g7s1-history-q-match-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-match-round3-2"
+  },
+  "history:match:round3:3": {
+    "id": "g7s1-history-q-match-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-match-round3-3"
+  },
+  "history:match:round3:4": {
+    "id": "g7s1-history-q-match-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-match-round3-4"
+  },
+  "history:match:round3:5": {
+    "id": "g7s1-history-q-match-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-match-round3-5"
+  },
+  "history:art:round1:1": {
+    "id": "g7s1-history-q-art-round1-1",
+    "cardIds": [
+      "g7s1-history-c2-2-1"
+    ],
+    "unitId": "g7s1-history-u2",
+    "canonicalId": "g7s1-history-q-art-round1-1"
+  },
+  "history:art:round1:2": {
+    "id": "g7s1-history-q-art-round1-2",
+    "cardIds": [
+      "g7s1-history-c2-2-2"
+    ],
+    "unitId": "g7s1-history-u2",
+    "canonicalId": "g7s1-history-q-art-round1-2"
+  },
+  "history:art:round1:3": {
+    "id": "g7s1-history-q-art-round1-3",
+    "cardIds": [
+      "g7s1-history-c2-4-3"
+    ],
+    "unitId": "g7s1-history-u2",
+    "canonicalId": "g7s1-history-q-art-round1-3"
+  },
+  "history:art:round1:4": {
+    "id": "g7s1-history-q-art-round1-4",
+    "cardIds": [
+      "g7s1-history-c3-7-3"
+    ],
+    "unitId": "g7s1-history-u3",
+    "canonicalId": "g7s1-history-q-art-round1-4"
+  },
+  "history:art:round1:5": {
+    "id": "g7s1-history-q-art-round1-5",
+    "cardIds": [
+      "g7s1-history-c1-2-3"
+    ],
+    "unitId": "g7s1-history-u1",
+    "canonicalId": "g7s1-history-q-art-round1-5"
+  },
+  "history:art:round2:1": {
+    "id": "g7s1-history-q-art-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-art-round2-1"
+  },
+  "history:art:round2:2": {
+    "id": "g7s1-history-q-art-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-art-round2-2"
+  },
+  "history:art:round2:3": {
+    "id": "g7s1-history-q-art-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-art-round2-3"
+  },
+  "history:art:round2:4": {
+    "id": "g7s1-history-q-art-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-art-round2-4"
+  },
+  "history:art:round2:5": {
+    "id": "g7s1-history-q-art-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-art-round2-5"
+  },
+  "history:art:round3:1": {
+    "id": "g7s1-history-q-art-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-art-round3-1"
+  },
+  "history:art:round3:2": {
+    "id": "g7s1-history-q-art-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-art-round3-2"
+  },
+  "history:art:round3:3": {
+    "id": "g7s1-history-q-art-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-art-round3-3"
+  },
+  "history:art:round3:4": {
+    "id": "g7s1-history-q-art-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-art-round3-4"
+  },
+  "history:art:round3:5": {
+    "id": "g7s1-history-q-art-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-art-round3-5"
+  },
+  "history:find:round1:1": {
+    "id": "g7s1-history-q-find-round1-1",
+    "cardIds": [
+      "g7s1-history-c1-1-2"
+    ],
+    "unitId": "g7s1-history-u1",
+    "canonicalId": "g7s1-history-q-find-round1-1"
+  },
+  "history:find:round1:2": {
+    "id": "g7s1-history-q-find-round1-2",
+    "cardIds": [
+      "g7s1-history-c3-1-2",
+      "g7s1-history-c3-1-3"
+    ],
+    "unitId": "g7s1-history-u3",
+    "canonicalId": "g7s1-history-q-find-round1-2"
+  },
+  "history:find:round1:3": {
+    "id": "g7s1-history-q-find-round1-3",
+    "cardIds": [
+      "g7s1-history-c3-4-1",
+      "g7s1-history-c3-4-2",
+      "g7s1-history-c3-4-3"
+    ],
+    "unitId": "g7s1-history-u3",
+    "canonicalId": "g7s1-history-q-find-round1-3"
+  },
+  "history:find:round1:4": {
+    "id": "g7s1-history-q-find-round1-4",
+    "cardIds": [
+      "g7s1-history-c4-4-2"
+    ],
+    "unitId": "g7s1-history-u4",
+    "canonicalId": "g7s1-history-q-find-round1-4"
+  },
+  "history:find:round1:5": {
+    "id": "g7s1-history-q-find-round1-5",
+    "cardIds": [
+      "g7s1-history-c2-1-5"
+    ],
+    "unitId": "g7s1-history-u2",
+    "canonicalId": "g7s1-history-q-find-round1-5"
+  },
+  "history:find:round2:1": {
+    "id": "g7s1-history-q-find-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-find-round2-1"
+  },
+  "history:find:round2:2": {
+    "id": "g7s1-history-q-find-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-find-round2-2"
+  },
+  "history:find:round2:3": {
+    "id": "g7s1-history-q-find-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-find-round2-3"
+  },
+  "history:find:round2:4": {
+    "id": "g7s1-history-q-find-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-find-round2-4"
+  },
+  "history:find:round2:5": {
+    "id": "g7s1-history-q-find-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-find-round2-5"
+  },
+  "history:find:round3:1": {
+    "id": "g7s1-history-q-find-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-find-round3-1"
+  },
+  "history:find:round3:2": {
+    "id": "g7s1-history-q-find-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-find-round3-2"
+  },
+  "history:find:round3:3": {
+    "id": "g7s1-history-q-find-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-find-round3-3"
+  },
+  "history:find:round3:4": {
+    "id": "g7s1-history-q-find-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-find-round3-4"
+  },
+  "history:find:round3:5": {
+    "id": "g7s1-history-q-find-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-history-q-find-round3-5"
+  },
+  "history:unit:0:1": {
+    "id": "g7s1-history-q-unit-0-1",
+    "cardIds": [
+      "g7s1-history-c1-2-4"
+    ],
+    "unitId": "g7s1-history-u1",
+    "canonicalId": "g7s1-history-q-unit-0-1"
+  },
+  "history:unit:0:2": {
+    "id": "g7s1-history-q-unit-0-2",
+    "cardIds": [
+      "g7s1-history-c1-3-3"
+    ],
+    "unitId": "g7s1-history-u1",
+    "canonicalId": "g7s1-history-q-unit-0-2"
+  },
+  "history:unit:0:3": {
+    "id": "g7s1-history-q-unit-0-3",
+    "cardIds": [
+      "g7s1-history-c1-1-2",
+      "g7s1-history-c1-2-2",
+      "g7s1-history-c1-3-4"
+    ],
+    "unitId": "g7s1-history-u1",
+    "canonicalId": "g7s1-history-q-unit-0-3"
+  },
+  "history:unit:0:4": {
+    "id": "g7s1-history-q-unit-0-4",
+    "cardIds": [
+      "g7s1-history-c1-1-1"
+    ],
+    "unitId": "g7s1-history-u1",
+    "canonicalId": "g7s1-history-q-unit-0-4"
+  },
+  "history:unit:0:5": {
+    "id": "g7s1-history-q-unit-0-5",
+    "cardIds": [
+      "g7s1-history-c1-3-5"
+    ],
+    "unitId": "g7s1-history-u1",
+    "canonicalId": "g7s1-history-q-unit-0-5"
+  },
+  "history:unit:0:6": {
+    "id": "g7s1-history-q-unit-0-6",
+    "cardIds": [
+      "g7s1-history-c1-1-3"
+    ],
+    "unitId": "g7s1-history-u1",
+    "canonicalId": "g7s1-history-q-unit-0-6"
+  },
+  "history:unit:0:7": {
+    "id": "g7s1-history-q-unit-0-7",
+    "cardIds": [
+      "g7s1-history-c1-3-1",
+      "g7s1-history-c1-3-3"
+    ],
+    "unitId": "g7s1-history-u1",
+    "canonicalId": "g7s1-history-q-unit-0-7"
+  },
+  "history:unit:1:1": {
+    "id": "g7s1-history-q-unit-1-1",
+    "cardIds": [
+      "g7s1-history-c2-1-3"
+    ],
+    "unitId": "g7s1-history-u2",
+    "canonicalId": "g7s1-history-q-unit-1-1"
+  },
+  "history:unit:1:2": {
+    "id": "g7s1-history-q-unit-1-2",
+    "cardIds": [
+      "g7s1-history-c2-4-2"
+    ],
+    "unitId": "g7s1-history-u2",
+    "canonicalId": "g7s1-history-q-unit-1-2"
+  },
+  "history:unit:1:3": {
+    "id": "g7s1-history-q-unit-1-3",
+    "cardIds": [
+      "g7s1-history-c2-5-3"
+    ],
+    "unitId": "g7s1-history-u2",
+    "canonicalId": "g7s1-history-q-unit-1-3"
+  },
+  "history:unit:1:4": {
+    "id": "g7s1-history-q-unit-1-4",
+    "cardIds": [
+      "g7s1-history-c2-2-2"
+    ],
+    "unitId": "g7s1-history-u2",
+    "canonicalId": "g7s1-history-q-unit-1-4"
+  },
+  "history:unit:1:5": {
+    "id": "g7s1-history-q-unit-1-5",
+    "cardIds": [
+      "g7s1-history-c2-3-2"
+    ],
+    "unitId": "g7s1-history-u2",
+    "canonicalId": "g7s1-history-q-unit-1-5"
+  },
+  "history:unit:1:6": {
+    "id": "g7s1-history-q-unit-1-6",
+    "cardIds": [
+      "g7s1-history-c2-4-2"
+    ],
+    "unitId": "g7s1-history-u2",
+    "canonicalId": "g7s1-history-q-unit-1-6"
+  },
+  "history:unit:1:7": {
+    "id": "g7s1-history-q-unit-1-7",
+    "cardIds": [
+      "g7s1-history-c2-5-4"
+    ],
+    "unitId": "g7s1-history-u2",
+    "canonicalId": "g7s1-history-q-unit-1-7"
+  },
+  "history:unit:2:1": {
+    "id": "g7s1-history-q-unit-2-1",
+    "cardIds": [
+      "g7s1-history-c3-1-2"
+    ],
+    "unitId": "g7s1-history-u3",
+    "canonicalId": "g7s1-history-q-unit-2-1"
+  },
+  "history:unit:2:2": {
+    "id": "g7s1-history-q-unit-2-2",
+    "cardIds": [
+      "g7s1-history-c3-4-2"
+    ],
+    "unitId": "g7s1-history-u3",
+    "canonicalId": "g7s1-history-q-unit-2-2"
+  },
+  "history:unit:2:3": {
+    "id": "g7s1-history-q-unit-2-3",
+    "cardIds": [
+      "g7s1-history-c3-6-2"
+    ],
+    "unitId": "g7s1-history-u3",
+    "canonicalId": "g7s1-history-q-unit-2-3"
+  },
+  "history:unit:2:4": {
+    "id": "g7s1-history-q-unit-2-4",
+    "cardIds": [
+      "g7s1-history-c3-2-2"
+    ],
+    "unitId": "g7s1-history-u3",
+    "canonicalId": "g7s1-history-q-unit-2-4"
+  },
+  "history:unit:2:5": {
+    "id": "g7s1-history-q-unit-2-5",
+    "cardIds": [
+      "g7s1-history-c3-5-2"
+    ],
+    "unitId": "g7s1-history-u3",
+    "canonicalId": "g7s1-history-q-unit-2-5"
+  },
+  "history:unit:2:6": {
+    "id": "g7s1-history-q-unit-2-6",
+    "cardIds": [
+      "g7s1-history-c3-3-2"
+    ],
+    "unitId": "g7s1-history-u3",
+    "canonicalId": "g7s1-history-q-unit-2-6"
+  },
+  "history:unit:2:7": {
+    "id": "g7s1-history-q-unit-2-7",
+    "cardIds": [
+      "g7s1-history-c3-1-1",
+      "g7s1-history-c3-6-3"
+    ],
+    "unitId": "g7s1-history-u3",
+    "canonicalId": "g7s1-history-q-unit-2-7"
+  },
+  "history:unit:3:1": {
+    "id": "g7s1-history-q-unit-3-1",
+    "cardIds": [
+      "g7s1-history-c4-3-2"
+    ],
+    "unitId": "g7s1-history-u4",
+    "canonicalId": "g7s1-history-q-unit-3-1"
+  },
+  "history:unit:3:2": {
+    "id": "g7s1-history-q-unit-3-2",
+    "cardIds": [
+      "g7s1-history-c4-4-2"
+    ],
+    "unitId": "g7s1-history-u4",
+    "canonicalId": "g7s1-history-q-unit-3-2"
+  },
+  "history:unit:3:3": {
+    "id": "g7s1-history-q-unit-3-3",
+    "cardIds": [
+      "g7s1-history-c4-4-3"
+    ],
+    "unitId": "g7s1-history-u4",
+    "canonicalId": "g7s1-history-q-unit-3-3"
+  },
+  "history:unit:3:4": {
+    "id": "g7s1-history-q-unit-3-4",
+    "cardIds": [
+      "g7s1-history-c4-1-3"
+    ],
+    "unitId": "g7s1-history-u4",
+    "canonicalId": "g7s1-history-q-unit-3-4"
+  },
+  "history:unit:3:5": {
+    "id": "g7s1-history-q-unit-3-5",
+    "cardIds": [
+      "g7s1-history-c4-5-1"
+    ],
+    "unitId": "g7s1-history-u4",
+    "canonicalId": "g7s1-history-q-unit-3-5"
+  },
+  "history:unit:3:6": {
+    "id": "g7s1-history-q-unit-3-6",
+    "cardIds": [
+      "g7s1-history-c4-4-2"
+    ],
+    "unitId": "g7s1-history-u4",
+    "canonicalId": "g7s1-history-q-unit-3-6"
+  },
+  "history:unit:3:7": {
+    "id": "g7s1-history-q-unit-3-7",
+    "cardIds": [
+      "g7s1-history-c4-4-2",
+      "g7s1-history-c2-4-2"
+    ],
+    "unitId": "g7s1-history-u4",
+    "canonicalId": "g7s1-history-q-unit-3-7"
+  },
+  "geography:map:round1:1": {
+    "id": "g7s1-geography-q-map-round1-1",
+    "cardIds": [
+      "g7s1-geography-c2-1-3"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "canonicalId": "g7s1-geography-q-map-round1-1"
+  },
+  "geography:map:round1:2": {
+    "id": "g7s1-geography-q-map-round1-2",
+    "cardIds": [
+      "g7s1-geography-c2-1-4"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "exclusionReason": "两地经度相差180度，东西方向判断存在歧义",
+    "canonicalId": "g7s1-geography-q-map-round1-2"
+  },
+  "geography:map:round1:3": {
+    "id": "g7s1-geography-q-map-round1-3",
+    "cardIds": [
+      "g7s1-geography-c2-1-2"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "canonicalId": "g7s1-geography-q-map-round1-3"
+  },
+  "geography:map:round1:4": {
+    "id": "g7s1-geography-q-map-round1-4",
+    "cardIds": [
+      "g7s1-geography-c1-2-3"
+    ],
+    "unitId": "g7s1-geography-u1",
+    "canonicalId": "g7s1-geography-q-map-round1-4"
+  },
+  "geography:map:round1:5": {
+    "id": "g7s1-geography-q-map-round1-5",
+    "cardIds": [
+      "g7s1-geography-c2-1-2"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "canonicalId": "g7s1-geography-q-map-round1-5"
+  },
+  "geography:map:round1:6": {
+    "id": "g7s1-geography-q-map-round1-6",
+    "cardIds": [
+      "g7s1-geography-c2-2-4"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "canonicalId": "g7s1-geography-q-map-round1-6"
+  },
+  "geography:map:round1:7": {
+    "id": "g7s1-geography-q-map-round1-7",
+    "cardIds": [
+      "g7s1-geography-c1-2-3"
+    ],
+    "unitId": "g7s1-geography-u1",
+    "canonicalId": "g7s1-geography-q-map-round1-7"
+  },
+  "geography:map:round1:8": {
+    "id": "g7s1-geography-q-map-round1-8",
+    "cardIds": [
+      "g7s1-geography-c2-1-3"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "canonicalId": "g7s1-geography-q-map-round1-8"
+  },
+  "geography:map:round1:9": {
+    "id": "g7s1-geography-q-map-round1-9",
+    "cardIds": [
+      "g7s1-geography-c2-1-3"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "canonicalId": "g7s1-geography-q-map-round1-9"
+  },
+  "geography:map:round1:10": {
+    "id": "g7s1-geography-q-map-round1-10",
+    "cardIds": [
+      "g7s1-geography-c2-1-3",
+      "g7s1-geography-c2-1-4"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "canonicalId": "g7s1-geography-q-map-round1-10"
+  },
+  "geography:map:round2:1": {
+    "id": "g7s1-geography-q-map-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round2-1"
+  },
+  "geography:map:round2:2": {
+    "id": "g7s1-geography-q-map-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round2-2"
+  },
+  "geography:map:round2:3": {
+    "id": "g7s1-geography-q-map-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round2-3"
+  },
+  "geography:map:round2:4": {
+    "id": "g7s1-geography-q-map-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round2-4"
+  },
+  "geography:map:round2:5": {
+    "id": "g7s1-geography-q-map-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round2-5"
+  },
+  "geography:map:round2:6": {
+    "id": "g7s1-geography-q-map-round2-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round2-6"
+  },
+  "geography:map:round2:7": {
+    "id": "g7s1-geography-q-map-round2-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round2-7"
+  },
+  "geography:map:round2:8": {
+    "id": "g7s1-geography-q-map-round2-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round2-8"
+  },
+  "geography:map:round2:9": {
+    "id": "g7s1-geography-q-map-round2-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round2-9"
+  },
+  "geography:map:round2:10": {
+    "id": "g7s1-geography-q-map-round2-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round2-10"
+  },
+  "geography:map:round3:1": {
+    "id": "g7s1-geography-q-map-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round3-1"
+  },
+  "geography:map:round3:2": {
+    "id": "g7s1-geography-q-map-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round3-2"
+  },
+  "geography:map:round3:3": {
+    "id": "g7s1-geography-q-map-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round3-3"
+  },
+  "geography:map:round3:4": {
+    "id": "g7s1-geography-q-map-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round3-4"
+  },
+  "geography:map:round3:5": {
+    "id": "g7s1-geography-q-map-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round3-5"
+  },
+  "geography:map:round3:6": {
+    "id": "g7s1-geography-q-map-round3-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round3-6"
+  },
+  "geography:map:round3:7": {
+    "id": "g7s1-geography-q-map-round3-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round3-7"
+  },
+  "geography:map:round3:8": {
+    "id": "g7s1-geography-q-map-round3-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round3-8"
+  },
+  "geography:map:round3:9": {
+    "id": "g7s1-geography-q-map-round3-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round3-9"
+  },
+  "geography:map:round3:10": {
+    "id": "g7s1-geography-q-map-round3-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-map-round3-10"
+  },
+  "geography:reason:round1:1": {
+    "id": "g7s1-geography-q-reason-round1-1",
+    "cardIds": [
+      "g7s1-geography-c2-2-1"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "canonicalId": "g7s1-geography-q-reason-round1-1"
+  },
+  "geography:reason:round1:2": {
+    "id": "g7s1-geography-q-reason-round1-2",
+    "cardIds": [
+      "g7s1-geography-c5-3-3"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-reason-round1-2"
+  },
+  "geography:reason:round1:3": {
+    "id": "g7s1-geography-q-reason-round1-3",
+    "cardIds": [
+      "g7s1-geography-c3-3-1"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-reason-round1-3"
+  },
+  "geography:reason:round1:4": {
+    "id": "g7s1-geography-q-reason-round1-4",
+    "cardIds": [
+      "g7s1-geography-c4-2-3"
+    ],
+    "unitId": "g7s1-geography-u4",
+    "canonicalId": "g7s1-geography-q-reason-round1-4"
+  },
+  "geography:reason:round1:5": {
+    "id": "g7s1-geography-q-reason-round1-5",
+    "cardIds": [
+      "g7s1-geography-c3-3-4"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-reason-round1-5"
+  },
+  "geography:reason:round1:6": {
+    "id": "g7s1-geography-q-reason-round1-6",
+    "cardIds": [
+      "g7s1-geography-c5-3-1"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-reason-round1-6"
+  },
+  "geography:reason:round1:7": {
+    "id": "g7s1-geography-q-reason-round1-7",
+    "cardIds": [
+      "g7s1-geography-c3-3-1"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-reason-round1-7"
+  },
+  "geography:reason:round1:8": {
+    "id": "g7s1-geography-q-reason-round1-8",
+    "cardIds": [
+      "g7s1-geography-c5-3-2"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-reason-round1-8"
+  },
+  "geography:reason:round1:9": {
+    "id": "g7s1-geography-q-reason-round1-9",
+    "cardIds": [
+      "g7s1-geography-c4-1-3"
+    ],
+    "unitId": "g7s1-geography-u4",
+    "canonicalId": "g7s1-geography-q-reason-round1-9"
+  },
+  "geography:reason:round1:10": {
+    "id": "g7s1-geography-q-reason-round1-10",
+    "cardIds": [
+      "g7s1-geography-c4-2-3"
+    ],
+    "unitId": "g7s1-geography-u4",
+    "canonicalId": "g7s1-geography-q-reason-round1-10"
+  },
+  "geography:reason:round2:1": {
+    "id": "g7s1-geography-q-reason-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round2-1"
+  },
+  "geography:reason:round2:2": {
+    "id": "g7s1-geography-q-reason-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round2-2"
+  },
+  "geography:reason:round2:3": {
+    "id": "g7s1-geography-q-reason-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round2-3"
+  },
+  "geography:reason:round2:4": {
+    "id": "g7s1-geography-q-reason-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round2-4"
+  },
+  "geography:reason:round2:5": {
+    "id": "g7s1-geography-q-reason-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round2-5"
+  },
+  "geography:reason:round2:6": {
+    "id": "g7s1-geography-q-reason-round2-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round2-6"
+  },
+  "geography:reason:round2:7": {
+    "id": "g7s1-geography-q-reason-round2-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round2-7"
+  },
+  "geography:reason:round2:8": {
+    "id": "g7s1-geography-q-reason-round2-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round2-8"
+  },
+  "geography:reason:round2:9": {
+    "id": "g7s1-geography-q-reason-round2-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round2-9"
+  },
+  "geography:reason:round2:10": {
+    "id": "g7s1-geography-q-reason-round2-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round2-10"
+  },
+  "geography:reason:round3:1": {
+    "id": "g7s1-geography-q-reason-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round3-1"
+  },
+  "geography:reason:round3:2": {
+    "id": "g7s1-geography-q-reason-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round3-2"
+  },
+  "geography:reason:round3:3": {
+    "id": "g7s1-geography-q-reason-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round3-3"
+  },
+  "geography:reason:round3:4": {
+    "id": "g7s1-geography-q-reason-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round3-4"
+  },
+  "geography:reason:round3:5": {
+    "id": "g7s1-geography-q-reason-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round3-5"
+  },
+  "geography:reason:round3:6": {
+    "id": "g7s1-geography-q-reason-round3-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round3-6"
+  },
+  "geography:reason:round3:7": {
+    "id": "g7s1-geography-q-reason-round3-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round3-7"
+  },
+  "geography:reason:round3:8": {
+    "id": "g7s1-geography-q-reason-round3-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round3-8"
+  },
+  "geography:reason:round3:9": {
+    "id": "g7s1-geography-q-reason-round3-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round3-9"
+  },
+  "geography:reason:round3:10": {
+    "id": "g7s1-geography-q-reason-round3-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-reason-round3-10"
+  },
+  "geography:calc:round1:1": {
+    "id": "g7s1-geography-q-calc-round1-1",
+    "cardIds": [
+      "g7s1-geography-c1-2-2"
+    ],
+    "unitId": "g7s1-geography-u1",
+    "canonicalId": "g7s1-geography-q-calc-round1-1"
+  },
+  "geography:calc:round1:2": {
+    "id": "g7s1-geography-q-calc-round1-2",
+    "cardIds": [
+      "g7s1-geography-c5-3-3"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-calc-round1-2"
+  },
+  "geography:calc:round1:3": {
+    "id": "g7s1-geography-q-calc-round1-3",
+    "cardIds": [
+      "g7s1-geography-c4-1-2"
+    ],
+    "unitId": "g7s1-geography-u4",
+    "canonicalId": "g7s1-geography-q-calc-round1-3"
+  },
+  "geography:calc:round1:4": {
+    "id": "g7s1-geography-q-calc-round1-4",
+    "cardIds": [
+      "g7s1-geography-c4-1-1"
+    ],
+    "unitId": "g7s1-geography-u4",
+    "canonicalId": "g7s1-geography-q-calc-round1-4"
+  },
+  "geography:calc:round1:5": {
+    "id": "g7s1-geography-q-calc-round1-5",
+    "cardIds": [
+      "g7s1-geography-c1-2-2"
+    ],
+    "unitId": "g7s1-geography-u1",
+    "canonicalId": "g7s1-geography-q-calc-round1-5"
+  },
+  "geography:calc:round1:6": {
+    "id": "g7s1-geography-q-calc-round1-6",
+    "cardIds": [
+      "g7s1-geography-c5-2-2"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-calc-round1-6"
+  },
+  "geography:calc:round1:7": {
+    "id": "g7s1-geography-q-calc-round1-7",
+    "cardIds": [
+      "g7s1-geography-c5-2-2"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-calc-round1-7"
+  },
+  "geography:calc:round1:8": {
+    "id": "g7s1-geography-q-calc-round1-8",
+    "cardIds": [
+      "g7s1-geography-c4-1-2"
+    ],
+    "unitId": "g7s1-geography-u4",
+    "canonicalId": "g7s1-geography-q-calc-round1-8"
+  },
+  "geography:calc:round1:9": {
+    "id": "g7s1-geography-q-calc-round1-9",
+    "cardIds": [
+      "g7s1-geography-c3-2-1"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-calc-round1-9"
+  },
+  "geography:calc:round1:10": {
+    "id": "g7s1-geography-q-calc-round1-10",
+    "cardIds": [
+      "g7s1-geography-c5-2-2"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-calc-round1-10"
+  },
+  "geography:calc:round2:1": {
+    "id": "g7s1-geography-q-calc-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round2-1"
+  },
+  "geography:calc:round2:2": {
+    "id": "g7s1-geography-q-calc-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round2-2"
+  },
+  "geography:calc:round2:3": {
+    "id": "g7s1-geography-q-calc-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round2-3"
+  },
+  "geography:calc:round2:4": {
+    "id": "g7s1-geography-q-calc-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round2-4"
+  },
+  "geography:calc:round2:5": {
+    "id": "g7s1-geography-q-calc-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round2-5"
+  },
+  "geography:calc:round2:6": {
+    "id": "g7s1-geography-q-calc-round2-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round2-6"
+  },
+  "geography:calc:round2:7": {
+    "id": "g7s1-geography-q-calc-round2-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round2-7"
+  },
+  "geography:calc:round2:8": {
+    "id": "g7s1-geography-q-calc-round2-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round2-8"
+  },
+  "geography:calc:round2:9": {
+    "id": "g7s1-geography-q-calc-round2-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round2-9"
+  },
+  "geography:calc:round2:10": {
+    "id": "g7s1-geography-q-calc-round2-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round2-10"
+  },
+  "geography:calc:round3:1": {
+    "id": "g7s1-geography-q-calc-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round3-1"
+  },
+  "geography:calc:round3:2": {
+    "id": "g7s1-geography-q-calc-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round3-2"
+  },
+  "geography:calc:round3:3": {
+    "id": "g7s1-geography-q-calc-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round3-3"
+  },
+  "geography:calc:round3:4": {
+    "id": "g7s1-geography-q-calc-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round3-4"
+  },
+  "geography:calc:round3:5": {
+    "id": "g7s1-geography-q-calc-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round3-5"
+  },
+  "geography:calc:round3:6": {
+    "id": "g7s1-geography-q-calc-round3-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round3-6"
+  },
+  "geography:calc:round3:7": {
+    "id": "g7s1-geography-q-calc-round3-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round3-7"
+  },
+  "geography:calc:round3:8": {
+    "id": "g7s1-geography-q-calc-round3-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round3-8"
+  },
+  "geography:calc:round3:9": {
+    "id": "g7s1-geography-q-calc-round3-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round3-9"
+  },
+  "geography:calc:round3:10": {
+    "id": "g7s1-geography-q-calc-round3-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-calc-round3-10"
+  },
+  "geography:chart:round1:1": {
+    "id": "g7s1-geography-q-chart-round1-1",
+    "cardIds": [
+      "g7s1-geography-c3-2-3"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-chart-round1-1"
+  },
+  "geography:chart:round1:2": {
+    "id": "g7s1-geography-q-chart-round1-2",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "缺少必要图表或题干信息",
+    "canonicalId": "g7s1-geography-q-chart-round1-2"
+  },
+  "geography:chart:round1:3": {
+    "id": "g7s1-geography-q-chart-round1-3",
+    "cardIds": [
+      "g7s1-geography-c5-2-4"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-chart-round1-3"
+  },
+  "geography:chart:round1:4": {
+    "id": "g7s1-geography-q-chart-round1-4",
+    "cardIds": [
+      "g7s1-geography-c3-2-3"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-chart-round1-4"
+  },
+  "geography:chart:round1:5": {
+    "id": "g7s1-geography-q-chart-round1-5",
+    "cardIds": [
+      "g7s1-geography-c4-1-2"
+    ],
+    "unitId": "g7s1-geography-u4",
+    "canonicalId": "g7s1-geography-q-chart-round1-5"
+  },
+  "geography:chart:round1:6": {
+    "id": "g7s1-geography-q-chart-round1-6",
+    "cardIds": [
+      "g7s1-geography-c5-4-3"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-chart-round1-6"
+  },
+  "geography:chart:round1:7": {
+    "id": "g7s1-geography-q-chart-round1-7",
+    "cardIds": [
+      "g7s1-geography-c3-2-1"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-chart-round1-7"
+  },
+  "geography:chart:round1:8": {
+    "id": "g7s1-geography-q-chart-round1-8",
+    "cardIds": [
+      "g7s1-geography-c5-4-2"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-chart-round1-8"
+  },
+  "geography:chart:round1:9": {
+    "id": "g7s1-geography-q-chart-round1-9",
+    "cardIds": [
+      "g7s1-geography-c3-2-3"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-chart-round1-9"
+  },
+  "geography:chart:round1:10": {
+    "id": "g7s1-geography-q-chart-round1-10",
+    "cardIds": [
+      "g7s1-geography-c5-3-1"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-chart-round1-10"
+  },
+  "geography:chart:round2:1": {
+    "id": "g7s1-geography-q-chart-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round2-1"
+  },
+  "geography:chart:round2:2": {
+    "id": "g7s1-geography-q-chart-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round2-2"
+  },
+  "geography:chart:round2:3": {
+    "id": "g7s1-geography-q-chart-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round2-3"
+  },
+  "geography:chart:round2:4": {
+    "id": "g7s1-geography-q-chart-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round2-4"
+  },
+  "geography:chart:round2:5": {
+    "id": "g7s1-geography-q-chart-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round2-5"
+  },
+  "geography:chart:round2:6": {
+    "id": "g7s1-geography-q-chart-round2-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round2-6"
+  },
+  "geography:chart:round2:7": {
+    "id": "g7s1-geography-q-chart-round2-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round2-7"
+  },
+  "geography:chart:round2:8": {
+    "id": "g7s1-geography-q-chart-round2-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round2-8"
+  },
+  "geography:chart:round2:9": {
+    "id": "g7s1-geography-q-chart-round2-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round2-9"
+  },
+  "geography:chart:round2:10": {
+    "id": "g7s1-geography-q-chart-round2-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round2-10"
+  },
+  "geography:chart:round3:1": {
+    "id": "g7s1-geography-q-chart-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round3-1"
+  },
+  "geography:chart:round3:2": {
+    "id": "g7s1-geography-q-chart-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round3-2"
+  },
+  "geography:chart:round3:3": {
+    "id": "g7s1-geography-q-chart-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round3-3"
+  },
+  "geography:chart:round3:4": {
+    "id": "g7s1-geography-q-chart-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "缺少等高线图，无法验证河流流向依据",
+    "canonicalId": "g7s1-geography-q-chart-round3-4"
+  },
+  "geography:chart:round3:5": {
+    "id": "g7s1-geography-q-chart-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round3-5",
+    "exclusionReason": "气候季度资料与既有答案冲突，隔离待重审"
+  },
+  "geography:chart:round3:6": {
+    "id": "g7s1-geography-q-chart-round3-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round3-6"
+  },
+  "geography:chart:round3:7": {
+    "id": "g7s1-geography-q-chart-round3-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round3-7"
+  },
+  "geography:chart:round3:8": {
+    "id": "g7s1-geography-q-chart-round3-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round3-8"
+  },
+  "geography:chart:round3:9": {
+    "id": "g7s1-geography-q-chart-round3-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round3-9"
+  },
+  "geography:chart:round3:10": {
+    "id": "g7s1-geography-q-chart-round3-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-chart-round3-10"
+  },
+  "geography:compare:round1:1": {
+    "id": "g7s1-geography-q-compare-round1-1",
+    "cardIds": [
+      "g7s1-geography-c3-1-2"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-compare-round1-1"
+  },
+  "geography:compare:round1:2": {
+    "id": "g7s1-geography-q-compare-round1-2",
+    "cardIds": [
+      "g7s1-geography-c5-4-1"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-compare-round1-2"
+  },
+  "geography:compare:round1:3": {
+    "id": "g7s1-geography-q-compare-round1-3",
+    "cardIds": [
+      "g7s1-geography-c4-2-1"
+    ],
+    "unitId": "g7s1-geography-u4",
+    "canonicalId": "g7s1-geography-q-compare-round1-3"
+  },
+  "geography:compare:round1:4": {
+    "id": "g7s1-geography-q-compare-round1-4",
+    "cardIds": [
+      "g7s1-geography-c3-1-4"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-compare-round1-4"
+  },
+  "geography:compare:round1:5": {
+    "id": "g7s1-geography-q-compare-round1-5",
+    "cardIds": [
+      "g7s1-geography-c5-4-2"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-compare-round1-5"
+  },
+  "geography:compare:round1:6": {
+    "id": "g7s1-geography-q-compare-round1-6",
+    "cardIds": [
+      "g7s1-geography-c4-1-4"
+    ],
+    "unitId": "g7s1-geography-u4",
+    "canonicalId": "g7s1-geography-q-compare-round1-6"
+  },
+  "geography:compare:round1:7": {
+    "id": "g7s1-geography-q-compare-round1-7",
+    "cardIds": [
+      "g7s1-geography-c3-2-1"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-compare-round1-7"
+  },
+  "geography:compare:round1:8": {
+    "id": "g7s1-geography-q-compare-round1-8",
+    "cardIds": [
+      "g7s1-geography-c2-2-1",
+      "g7s1-geography-c2-2-2"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "canonicalId": "g7s1-geography-q-compare-round1-8"
+  },
+  "geography:compare:round1:9": {
+    "id": "g7s1-geography-q-compare-round1-9",
+    "cardIds": [
+      "g7s1-geography-c5-4-1"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-compare-round1-9"
+  },
+  "geography:compare:round1:10": {
+    "id": "g7s1-geography-q-compare-round1-10",
+    "cardIds": [
+      "g7s1-geography-c3-1-2"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-compare-round1-10"
+  },
+  "geography:compare:round2:1": {
+    "id": "g7s1-geography-q-compare-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round2-1"
+  },
+  "geography:compare:round2:2": {
+    "id": "g7s1-geography-q-compare-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round2-2"
+  },
+  "geography:compare:round2:3": {
+    "id": "g7s1-geography-q-compare-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round2-3"
+  },
+  "geography:compare:round2:4": {
+    "id": "g7s1-geography-q-compare-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round2-4"
+  },
+  "geography:compare:round2:5": {
+    "id": "g7s1-geography-q-compare-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round2-5"
+  },
+  "geography:compare:round2:6": {
+    "id": "g7s1-geography-q-compare-round2-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round2-6"
+  },
+  "geography:compare:round2:7": {
+    "id": "g7s1-geography-q-compare-round2-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round2-7"
+  },
+  "geography:compare:round2:8": {
+    "id": "g7s1-geography-q-compare-round2-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round2-8"
+  },
+  "geography:compare:round2:9": {
+    "id": "g7s1-geography-q-compare-round2-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round2-9"
+  },
+  "geography:compare:round2:10": {
+    "id": "g7s1-geography-q-compare-round2-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round2-10"
+  },
+  "geography:compare:round3:1": {
+    "id": "g7s1-geography-q-compare-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round3-1"
+  },
+  "geography:compare:round3:2": {
+    "id": "g7s1-geography-q-compare-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round3-2"
+  },
+  "geography:compare:round3:3": {
+    "id": "g7s1-geography-q-compare-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round3-3"
+  },
+  "geography:compare:round3:4": {
+    "id": "g7s1-geography-q-compare-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round3-4"
+  },
+  "geography:compare:round3:5": {
+    "id": "g7s1-geography-q-compare-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round3-5"
+  },
+  "geography:compare:round3:6": {
+    "id": "g7s1-geography-q-compare-round3-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round3-6"
+  },
+  "geography:compare:round3:7": {
+    "id": "g7s1-geography-q-compare-round3-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round3-7"
+  },
+  "geography:compare:round3:8": {
+    "id": "g7s1-geography-q-compare-round3-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round3-8"
+  },
+  "geography:compare:round3:9": {
+    "id": "g7s1-geography-q-compare-round3-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round3-9"
+  },
+  "geography:compare:round3:10": {
+    "id": "g7s1-geography-q-compare-round3-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-compare-round3-10"
+  },
+  "geography:comprehensive:round1:1": {
+    "id": "g7s1-geography-q-comprehensive-round1-1",
+    "cardIds": [
+      "g7s1-geography-c2-1-3",
+      "g7s1-geography-c2-2-4"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "canonicalId": "g7s1-geography-q-comprehensive-round1-1"
+  },
+  "geography:comprehensive:round1:2": {
+    "id": "g7s1-geography-q-comprehensive-round1-2",
+    "cardIds": [
+      "g7s1-geography-c5-3-2"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-comprehensive-round1-2"
+  },
+  "geography:comprehensive:round1:3": {
+    "id": "g7s1-geography-q-comprehensive-round1-3",
+    "cardIds": [
+      "g7s1-geography-c3-3-1"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-comprehensive-round1-3"
+  },
+  "geography:comprehensive:round1:4": {
+    "id": "g7s1-geography-q-comprehensive-round1-4",
+    "cardIds": [
+      "g7s1-geography-c5-3-1"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-comprehensive-round1-4"
+  },
+  "geography:comprehensive:round1:5": {
+    "id": "g7s1-geography-q-comprehensive-round1-5",
+    "cardIds": [
+      "g7s1-geography-c5-4-2"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-comprehensive-round1-5"
+  },
+  "geography:comprehensive:round1:6": {
+    "id": "g7s1-geography-q-comprehensive-round1-6",
+    "cardIds": [
+      "g7s1-geography-c4-1-3"
+    ],
+    "unitId": "g7s1-geography-u4",
+    "canonicalId": "g7s1-geography-q-comprehensive-round1-6"
+  },
+  "geography:comprehensive:round1:7": {
+    "id": "g7s1-geography-q-comprehensive-round1-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round1-7"
+  },
+  "geography:comprehensive:round1:8": {
+    "id": "g7s1-geography-q-comprehensive-round1-8",
+    "cardIds": [
+      "g7s1-geography-c3-1-3"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-comprehensive-round1-8"
+  },
+  "geography:comprehensive:round1:9": {
+    "id": "g7s1-geography-q-comprehensive-round1-9",
+    "cardIds": [
+      "g7s1-geography-c5-4-2"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-comprehensive-round1-9"
+  },
+  "geography:comprehensive:round1:10": {
+    "id": "g7s1-geography-q-comprehensive-round1-10",
+    "cardIds": [
+      "g7s1-geography-c3-3-1"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-comprehensive-round1-10"
+  },
+  "geography:comprehensive:round2:1": {
+    "id": "g7s1-geography-q-comprehensive-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round2-1"
+  },
+  "geography:comprehensive:round2:2": {
+    "id": "g7s1-geography-q-comprehensive-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round2-2"
+  },
+  "geography:comprehensive:round2:3": {
+    "id": "g7s1-geography-q-comprehensive-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round2-3"
+  },
+  "geography:comprehensive:round2:4": {
+    "id": "g7s1-geography-q-comprehensive-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round2-4"
+  },
+  "geography:comprehensive:round2:5": {
+    "id": "g7s1-geography-q-comprehensive-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round2-5"
+  },
+  "geography:comprehensive:round2:6": {
+    "id": "g7s1-geography-q-comprehensive-round2-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round2-6"
+  },
+  "geography:comprehensive:round2:7": {
+    "id": "g7s1-geography-q-comprehensive-round2-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round2-7"
+  },
+  "geography:comprehensive:round2:8": {
+    "id": "g7s1-geography-q-comprehensive-round2-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round2-8"
+  },
+  "geography:comprehensive:round2:9": {
+    "id": "g7s1-geography-q-comprehensive-round2-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round2-9"
+  },
+  "geography:comprehensive:round2:10": {
+    "id": "g7s1-geography-q-comprehensive-round2-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round2-10"
+  },
+  "geography:comprehensive:round3:1": {
+    "id": "g7s1-geography-q-comprehensive-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round3-1"
+  },
+  "geography:comprehensive:round3:2": {
+    "id": "g7s1-geography-q-comprehensive-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round3-2"
+  },
+  "geography:comprehensive:round3:3": {
+    "id": "g7s1-geography-q-comprehensive-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round3-3"
+  },
+  "geography:comprehensive:round3:4": {
+    "id": "g7s1-geography-q-comprehensive-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round3-4"
+  },
+  "geography:comprehensive:round3:5": {
+    "id": "g7s1-geography-q-comprehensive-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round3-5"
+  },
+  "geography:comprehensive:round3:6": {
+    "id": "g7s1-geography-q-comprehensive-round3-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round3-6"
+  },
+  "geography:comprehensive:round3:7": {
+    "id": "g7s1-geography-q-comprehensive-round3-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round3-7"
+  },
+  "geography:comprehensive:round3:8": {
+    "id": "g7s1-geography-q-comprehensive-round3-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round3-8"
+  },
+  "geography:comprehensive:round3:9": {
+    "id": "g7s1-geography-q-comprehensive-round3-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round3-9"
+  },
+  "geography:comprehensive:round3:10": {
+    "id": "g7s1-geography-q-comprehensive-round3-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-geography-q-comprehensive-round3-10"
+  },
+  "geography:unit:0:1": {
+    "id": "g7s1-geography-q-unit-0-1",
+    "cardIds": [
+      "g7s1-geography-c1-2-1"
+    ],
+    "unitId": "g7s1-geography-u1",
+    "canonicalId": "g7s1-geography-q-unit-0-1"
+  },
+  "geography:unit:0:2": {
+    "id": "g7s1-geography-q-unit-0-2",
+    "cardIds": [
+      "g7s1-geography-c1-2-2"
+    ],
+    "unitId": "g7s1-geography-u1",
+    "canonicalId": "g7s1-geography-q-map-round2-5"
+  },
+  "geography:unit:0:3": {
+    "id": "g7s1-geography-q-unit-0-3",
+    "cardIds": [
+      "g7s1-geography-c1-1-2"
+    ],
+    "unitId": "g7s1-geography-u1",
+    "canonicalId": "g7s1-geography-q-unit-0-3"
+  },
+  "geography:unit:0:4": {
+    "id": "g7s1-geography-q-unit-0-4",
+    "cardIds": [
+      "g7s1-geography-c1-2-3"
+    ],
+    "unitId": "g7s1-geography-u1",
+    "canonicalId": "g7s1-geography-q-unit-0-4"
+  },
+  "geography:unit:0:5": {
+    "id": "g7s1-geography-q-unit-0-5",
+    "cardIds": [
+      "g7s1-geography-c1-2-2"
+    ],
+    "unitId": "g7s1-geography-u1",
+    "canonicalId": "g7s1-geography-q-unit-0-5"
+  },
+  "geography:unit:0:6": {
+    "id": "g7s1-geography-q-unit-0-6",
+    "cardIds": [
+      "g7s1-geography-c1-3-2"
+    ],
+    "unitId": "g7s1-geography-u1",
+    "canonicalId": "g7s1-geography-q-unit-0-6"
+  },
+  "geography:unit:0:7": {
+    "id": "g7s1-geography-q-unit-0-7",
+    "cardIds": [
+      "g7s1-geography-c1-1-4"
+    ],
+    "unitId": "g7s1-geography-u1",
+    "canonicalId": "g7s1-geography-q-unit-0-7"
+  },
+  "geography:unit:1:1": {
+    "id": "g7s1-geography-q-unit-1-1",
+    "cardIds": [
+      "g7s1-geography-c2-1-2"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "canonicalId": "g7s1-geography-q-unit-1-1"
+  },
+  "geography:unit:1:2": {
+    "id": "g7s1-geography-q-unit-1-2",
+    "cardIds": [
+      "g7s1-geography-c2-2-2"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "canonicalId": "g7s1-geography-q-unit-1-2"
+  },
+  "geography:unit:1:3": {
+    "id": "g7s1-geography-q-unit-1-3",
+    "cardIds": [
+      "g7s1-geography-c2-2-4"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "canonicalId": "g7s1-geography-q-map-round1-6"
+  },
+  "geography:unit:1:4": {
+    "id": "g7s1-geography-q-unit-1-4",
+    "cardIds": [
+      "g7s1-geography-c2-1-3"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "canonicalId": "g7s1-geography-q-unit-1-4"
+  },
+  "geography:unit:1:5": {
+    "id": "g7s1-geography-q-unit-1-5",
+    "cardIds": [
+      "g7s1-geography-c2-2-1"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "canonicalId": "g7s1-geography-q-unit-1-5"
+  },
+  "geography:unit:1:6": {
+    "id": "g7s1-geography-q-unit-1-6",
+    "cardIds": [
+      "g7s1-geography-c2-2-3"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "canonicalId": "g7s1-geography-q-unit-1-6"
+  },
+  "geography:unit:1:7": {
+    "id": "g7s1-geography-q-unit-1-7",
+    "cardIds": [
+      "g7s1-geography-c2-2-1",
+      "g7s1-geography-c2-2-2"
+    ],
+    "unitId": "g7s1-geography-u2",
+    "canonicalId": "g7s1-geography-q-unit-1-7"
+  },
+  "geography:unit:2:1": {
+    "id": "g7s1-geography-q-unit-2-1",
+    "cardIds": [
+      "g7s1-geography-c3-1-2",
+      "g7s1-geography-c3-1-4"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-unit-2-1"
+  },
+  "geography:unit:2:2": {
+    "id": "g7s1-geography-q-unit-2-2",
+    "cardIds": [
+      "g7s1-geography-c3-3-3"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-unit-2-2"
+  },
+  "geography:unit:2:3": {
+    "id": "g7s1-geography-q-unit-2-3",
+    "cardIds": [
+      "g7s1-geography-c3-2-3"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-map-round2-6"
+  },
+  "geography:unit:2:4": {
+    "id": "g7s1-geography-q-unit-2-4",
+    "cardIds": [
+      "g7s1-geography-c3-1-1"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-unit-2-4"
+  },
+  "geography:unit:2:5": {
+    "id": "g7s1-geography-q-unit-2-5",
+    "cardIds": [
+      "g7s1-geography-c3-3-4"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-unit-2-5"
+  },
+  "geography:unit:2:6": {
+    "id": "g7s1-geography-q-unit-2-6",
+    "cardIds": [
+      "g7s1-geography-c3-3-2"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-unit-2-6"
+  },
+  "geography:unit:2:7": {
+    "id": "g7s1-geography-q-unit-2-7",
+    "cardIds": [
+      "g7s1-geography-c3-3-3",
+      "g7s1-geography-c3-3-4"
+    ],
+    "unitId": "g7s1-geography-u3",
+    "canonicalId": "g7s1-geography-q-unit-2-7"
+  },
+  "geography:unit:3:1": {
+    "id": "g7s1-geography-q-unit-3-1",
+    "cardIds": [
+      "g7s1-geography-c4-1-2"
+    ],
+    "unitId": "g7s1-geography-u4",
+    "canonicalId": "g7s1-geography-q-unit-3-1"
+  },
+  "geography:unit:3:2": {
+    "id": "g7s1-geography-q-unit-3-2",
+    "cardIds": [
+      "g7s1-geography-c4-1-3"
+    ],
+    "unitId": "g7s1-geography-u4",
+    "canonicalId": "g7s1-geography-q-unit-3-2"
+  },
+  "geography:unit:3:3": {
+    "id": "g7s1-geography-q-unit-3-3",
+    "cardIds": [
+      "g7s1-geography-c4-3-1",
+      "g7s1-geography-c4-3-2"
+    ],
+    "unitId": "g7s1-geography-u4",
+    "canonicalId": "g7s1-geography-q-unit-3-3"
+  },
+  "geography:unit:3:4": {
+    "id": "g7s1-geography-q-unit-3-4",
+    "cardIds": [
+      "g7s1-geography-c4-1-1"
+    ],
+    "unitId": "g7s1-geography-u4",
+    "canonicalId": "g7s1-geography-q-unit-3-4"
+  },
+  "geography:unit:3:5": {
+    "id": "g7s1-geography-q-unit-3-5",
+    "cardIds": [
+      "g7s1-geography-c4-2-3"
+    ],
+    "unitId": "g7s1-geography-u4",
+    "canonicalId": "g7s1-geography-q-unit-3-5"
+  },
+  "geography:unit:3:6": {
+    "id": "g7s1-geography-q-unit-3-6",
+    "cardIds": [
+      "g7s1-geography-c4-2-3"
+    ],
+    "unitId": "g7s1-geography-u4",
+    "canonicalId": "g7s1-geography-q-unit-3-6"
+  },
+  "geography:unit:3:7": {
+    "id": "g7s1-geography-q-unit-3-7",
+    "cardIds": [
+      "g7s1-geography-c4-2-2",
+      "g7s1-geography-c4-2-3"
+    ],
+    "unitId": "g7s1-geography-u4",
+    "canonicalId": "g7s1-geography-q-unit-3-7"
+  },
+  "geography:unit:4:1": {
+    "id": "g7s1-geography-q-unit-4-1",
+    "cardIds": [
+      "g7s1-geography-c5-1-1"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-unit-4-1"
+  },
+  "geography:unit:4:2": {
+    "id": "g7s1-geography-q-unit-4-2",
+    "cardIds": [
+      "g7s1-geography-c5-3-1",
+      "g7s1-geography-c5-3-2",
+      "g7s1-geography-c5-3-3"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-unit-4-2"
+  },
+  "geography:unit:4:3": {
+    "id": "g7s1-geography-q-unit-4-3",
+    "cardIds": [
+      "g7s1-geography-c5-4-2"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-unit-4-3"
+  },
+  "geography:unit:4:4": {
+    "id": "g7s1-geography-q-unit-4-4",
+    "cardIds": [
+      "g7s1-geography-c5-2-2"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-unit-4-4"
+  },
+  "geography:unit:4:5": {
+    "id": "g7s1-geography-q-unit-4-5",
+    "cardIds": [
+      "g7s1-geography-c5-3-3"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-unit-4-5"
+  },
+  "geography:unit:4:6": {
+    "id": "g7s1-geography-q-unit-4-6",
+    "cardIds": [
+      "g7s1-geography-c5-5-2"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-unit-4-6"
+  },
+  "geography:unit:4:7": {
+    "id": "g7s1-geography-q-unit-4-7",
+    "cardIds": [
+      "g7s1-geography-c5-4-1",
+      "g7s1-geography-c5-4-2",
+      "g7s1-geography-c5-4-3"
+    ],
+    "unitId": "g7s1-geography-u5",
+    "canonicalId": "g7s1-geography-q-unit-4-7"
+  },
+  "biology:experiment:round1:1": {
+    "id": "g7s1-biology-q-experiment-round1-1",
+    "cardIds": [
+      "g7s1-biology-c3-2-1",
+      "g7s1-biology-c1-1-4"
+    ],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round1-1"
+  },
+  "biology:experiment:round1:2": {
+    "id": "g7s1-biology-q-experiment-round1-2",
+    "cardIds": [
+      "g7s1-biology-c3-3-3"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-experiment-round1-2"
+  },
+  "biology:experiment:round1:3": {
+    "id": "g7s1-biology-q-experiment-round1-3",
+    "cardIds": [
+      "g7s1-biology-c2-1-1"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-experiment-round1-3"
+  },
+  "biology:experiment:round1:4": {
+    "id": "g7s1-biology-q-experiment-round1-4",
+    "cardIds": [
+      "g7s1-biology-c1-1-4"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-experiment-round1-4"
+  },
+  "biology:experiment:round1:5": {
+    "id": "g7s1-biology-q-experiment-round1-5",
+    "cardIds": [
+      "g7s1-biology-c2-2-5"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-experiment-round1-5"
+  },
+  "biology:experiment:round1:6": {
+    "id": "g7s1-biology-q-experiment-round1-6",
+    "cardIds": [
+      "g7s1-biology-c2-1-2"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-experiment-round1-6"
+  },
+  "biology:experiment:round1:7": {
+    "id": "g7s1-biology-q-experiment-round1-7",
+    "cardIds": [
+      "g7s1-biology-c3-3-3"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-experiment-round1-7"
+  },
+  "biology:experiment:round1:8": {
+    "id": "g7s1-biology-q-experiment-round1-8",
+    "cardIds": [
+      "g7s1-biology-c3-1-3"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-experiment-round1-8"
+  },
+  "biology:experiment:round1:9": {
+    "id": "g7s1-biology-q-experiment-round1-9",
+    "cardIds": [
+      "g7s1-biology-c3-3-4"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-experiment-round1-9"
+  },
+  "biology:experiment:round1:10": {
+    "id": "g7s1-biology-q-experiment-round1-10",
+    "cardIds": [
+      "g7s1-biology-c3-3-2"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-experiment-round1-10"
+  },
+  "biology:experiment:round2:1": {
+    "id": "g7s1-biology-q-experiment-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round2-1"
+  },
+  "biology:experiment:round2:2": {
+    "id": "g7s1-biology-q-experiment-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round2-2"
+  },
+  "biology:experiment:round2:3": {
+    "id": "g7s1-biology-q-experiment-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round2-3"
+  },
+  "biology:experiment:round2:4": {
+    "id": "g7s1-biology-q-experiment-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round2-4"
+  },
+  "biology:experiment:round2:5": {
+    "id": "g7s1-biology-q-experiment-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round2-5"
+  },
+  "biology:experiment:round2:6": {
+    "id": "g7s1-biology-q-experiment-round2-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round2-6"
+  },
+  "biology:experiment:round2:7": {
+    "id": "g7s1-biology-q-experiment-round2-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round2-7"
+  },
+  "biology:experiment:round2:8": {
+    "id": "g7s1-biology-q-experiment-round2-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round2-8"
+  },
+  "biology:experiment:round2:9": {
+    "id": "g7s1-biology-q-experiment-round2-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round2-9"
+  },
+  "biology:experiment:round2:10": {
+    "id": "g7s1-biology-q-experiment-round2-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round2-10"
+  },
+  "biology:experiment:round3:1": {
+    "id": "g7s1-biology-q-experiment-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round3-1"
+  },
+  "biology:experiment:round3:2": {
+    "id": "g7s1-biology-q-experiment-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round3-2"
+  },
+  "biology:experiment:round3:3": {
+    "id": "g7s1-biology-q-experiment-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round3-3"
+  },
+  "biology:experiment:round3:4": {
+    "id": "g7s1-biology-q-experiment-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round3-4"
+  },
+  "biology:experiment:round3:5": {
+    "id": "g7s1-biology-q-experiment-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round3-5"
+  },
+  "biology:experiment:round3:6": {
+    "id": "g7s1-biology-q-experiment-round3-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round3-6"
+  },
+  "biology:experiment:round3:7": {
+    "id": "g7s1-biology-q-experiment-round3-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round3-7"
+  },
+  "biology:experiment:round3:8": {
+    "id": "g7s1-biology-q-experiment-round3-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round3-8"
+  },
+  "biology:experiment:round3:9": {
+    "id": "g7s1-biology-q-experiment-round3-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round3-9"
+  },
+  "biology:experiment:round3:10": {
+    "id": "g7s1-biology-q-experiment-round3-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-experiment-round3-10"
+  },
+  "biology:structure:round1:1": {
+    "id": "g7s1-biology-q-structure-round1-1",
+    "cardIds": [
+      "g7s1-biology-c2-1-5"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-structure-round1-1"
+  },
+  "biology:structure:round1:2": {
+    "id": "g7s1-biology-q-structure-round1-2",
+    "cardIds": [
+      "g7s1-biology-c2-1-2"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-structure-round1-2"
+  },
+  "biology:structure:round1:3": {
+    "id": "g7s1-biology-q-structure-round1-3",
+    "cardIds": [
+      "g7s1-biology-c2-1-4"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-structure-round1-3"
+  },
+  "biology:structure:round1:4": {
+    "id": "g7s1-biology-q-structure-round1-4",
+    "cardIds": [
+      "g7s1-biology-c2-1-2",
+      "g7s1-biology-c2-1-3"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-structure-round1-4"
+  },
+  "biology:structure:round1:5": {
+    "id": "g7s1-biology-q-structure-round1-5",
+    "cardIds": [
+      "g7s1-biology-c2-1-2"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-structure-round1-5"
+  },
+  "biology:structure:round1:6": {
+    "id": "g7s1-biology-q-structure-round1-6",
+    "cardIds": [
+      "g7s1-biology-c3-2-2"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-structure-round1-6"
+  },
+  "biology:structure:round1:7": {
+    "id": "g7s1-biology-q-structure-round1-7",
+    "cardIds": [
+      "g7s1-biology-c3-2-3"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-structure-round1-7"
+  },
+  "biology:structure:round1:8": {
+    "id": "g7s1-biology-q-structure-round1-8",
+    "cardIds": [
+      "g7s1-biology-c3-3-2"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-structure-round1-8"
+  },
+  "biology:structure:round1:9": {
+    "id": "g7s1-biology-q-structure-round1-9",
+    "cardIds": [
+      "g7s1-biology-c3-3-1"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-structure-round1-9"
+  },
+  "biology:structure:round1:10": {
+    "id": "g7s1-biology-q-structure-round1-10",
+    "cardIds": [
+      "g7s1-biology-c2-2-5"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-structure-round1-10"
+  },
+  "biology:structure:round2:1": {
+    "id": "g7s1-biology-q-structure-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round2-1"
+  },
+  "biology:structure:round2:2": {
+    "id": "g7s1-biology-q-structure-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round2-2"
+  },
+  "biology:structure:round2:3": {
+    "id": "g7s1-biology-q-structure-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round2-3"
+  },
+  "biology:structure:round2:4": {
+    "id": "g7s1-biology-q-structure-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round2-4"
+  },
+  "biology:structure:round2:5": {
+    "id": "g7s1-biology-q-structure-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round2-5"
+  },
+  "biology:structure:round2:6": {
+    "id": "g7s1-biology-q-structure-round2-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round2-6"
+  },
+  "biology:structure:round2:7": {
+    "id": "g7s1-biology-q-structure-round2-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round2-7"
+  },
+  "biology:structure:round2:8": {
+    "id": "g7s1-biology-q-structure-round2-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round2-8"
+  },
+  "biology:structure:round2:9": {
+    "id": "g7s1-biology-q-structure-round2-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round2-9"
+  },
+  "biology:structure:round2:10": {
+    "id": "g7s1-biology-q-structure-round2-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round2-10"
+  },
+  "biology:structure:round3:1": {
+    "id": "g7s1-biology-q-structure-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round3-1"
+  },
+  "biology:structure:round3:2": {
+    "id": "g7s1-biology-q-structure-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round3-2"
+  },
+  "biology:structure:round3:3": {
+    "id": "g7s1-biology-q-structure-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round3-3"
+  },
+  "biology:structure:round3:4": {
+    "id": "g7s1-biology-q-structure-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round3-4"
+  },
+  "biology:structure:round3:5": {
+    "id": "g7s1-biology-q-structure-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round3-5"
+  },
+  "biology:structure:round3:6": {
+    "id": "g7s1-biology-q-structure-round3-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round3-6"
+  },
+  "biology:structure:round3:7": {
+    "id": "g7s1-biology-q-structure-round3-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round3-7"
+  },
+  "biology:structure:round3:8": {
+    "id": "g7s1-biology-q-structure-round3-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round3-8"
+  },
+  "biology:structure:round3:9": {
+    "id": "g7s1-biology-q-structure-round3-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round3-9"
+  },
+  "biology:structure:round3:10": {
+    "id": "g7s1-biology-q-structure-round3-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-structure-round3-10"
+  },
+  "biology:concept:round1:1": {
+    "id": "g7s1-biology-q-concept-round1-1",
+    "cardIds": [
+      "g7s1-biology-c1-1-1"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-concept-round1-1"
+  },
+  "biology:concept:round1:2": {
+    "id": "g7s1-biology-q-concept-round1-2",
+    "cardIds": [
+      "g7s1-biology-c1-2-2"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-concept-round1-2"
+  },
+  "biology:concept:round1:3": {
+    "id": "g7s1-biology-q-concept-round1-3",
+    "cardIds": [
+      "g7s1-biology-c2-1-2",
+      "g7s1-biology-c2-1-3"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-concept-round1-3"
+  },
+  "biology:concept:round1:4": {
+    "id": "g7s1-biology-q-concept-round1-4",
+    "cardIds": [
+      "g7s1-biology-c2-2-1",
+      "g7s1-biology-c2-2-2"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-concept-round1-4"
+  },
+  "biology:concept:round1:5": {
+    "id": "g7s1-biology-q-concept-round1-5",
+    "cardIds": [
+      "g7s1-biology-c2-2-3",
+      "g7s1-biology-c2-2-4"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-concept-round1-5"
+  },
+  "biology:concept:round1:6": {
+    "id": "g7s1-biology-q-concept-round1-6",
+    "cardIds": [
+      "g7s1-biology-c3-3-5"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-concept-round1-6"
+  },
+  "biology:concept:round1:7": {
+    "id": "g7s1-biology-q-concept-round1-7",
+    "cardIds": [
+      "g7s1-biology-c3-1-1"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-concept-round1-7"
+  },
+  "biology:concept:round1:8": {
+    "id": "g7s1-biology-q-concept-round1-8",
+    "cardIds": [
+      "g7s1-biology-c3-2-1"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-concept-round1-8"
+  },
+  "biology:concept:round1:9": {
+    "id": "g7s1-biology-q-concept-round1-9",
+    "cardIds": [
+      "g7s1-biology-c3-3-2"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-concept-round1-9"
+  },
+  "biology:concept:round1:10": {
+    "id": "g7s1-biology-q-concept-round1-10",
+    "cardIds": [
+      "g7s1-biology-c1-2-3"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-concept-round1-10"
+  },
+  "biology:concept:round2:1": {
+    "id": "g7s1-biology-q-concept-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round2-1"
+  },
+  "biology:concept:round2:2": {
+    "id": "g7s1-biology-q-concept-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round2-2"
+  },
+  "biology:concept:round2:3": {
+    "id": "g7s1-biology-q-concept-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round2-3"
+  },
+  "biology:concept:round2:4": {
+    "id": "g7s1-biology-q-concept-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round2-4"
+  },
+  "biology:concept:round2:5": {
+    "id": "g7s1-biology-q-concept-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round2-5"
+  },
+  "biology:concept:round2:6": {
+    "id": "g7s1-biology-q-concept-round2-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round2-6"
+  },
+  "biology:concept:round2:7": {
+    "id": "g7s1-biology-q-concept-round2-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round2-7"
+  },
+  "biology:concept:round2:8": {
+    "id": "g7s1-biology-q-concept-round2-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round2-8"
+  },
+  "biology:concept:round2:9": {
+    "id": "g7s1-biology-q-concept-round2-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round2-9"
+  },
+  "biology:concept:round2:10": {
+    "id": "g7s1-biology-q-concept-round2-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round2-10"
+  },
+  "biology:concept:round3:1": {
+    "id": "g7s1-biology-q-concept-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round3-1"
+  },
+  "biology:concept:round3:2": {
+    "id": "g7s1-biology-q-concept-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round3-2"
+  },
+  "biology:concept:round3:3": {
+    "id": "g7s1-biology-q-concept-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round3-3"
+  },
+  "biology:concept:round3:4": {
+    "id": "g7s1-biology-q-concept-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round3-4"
+  },
+  "biology:concept:round3:5": {
+    "id": "g7s1-biology-q-concept-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round3-5"
+  },
+  "biology:concept:round3:6": {
+    "id": "g7s1-biology-q-concept-round3-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round3-6"
+  },
+  "biology:concept:round3:7": {
+    "id": "g7s1-biology-q-concept-round3-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round3-7"
+  },
+  "biology:concept:round3:8": {
+    "id": "g7s1-biology-q-concept-round3-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round3-8"
+  },
+  "biology:concept:round3:9": {
+    "id": "g7s1-biology-q-concept-round3-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round3-9"
+  },
+  "biology:concept:round3:10": {
+    "id": "g7s1-biology-q-concept-round3-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-concept-round3-10"
+  },
+  "biology:phenomenon:round1:1": {
+    "id": "g7s1-biology-q-phenomenon-round1-1",
+    "cardIds": [
+      "g7s1-biology-c1-1-3"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-phenomenon-round1-1"
+  },
+  "biology:phenomenon:round1:2": {
+    "id": "g7s1-biology-q-phenomenon-round1-2",
+    "cardIds": [
+      "g7s1-biology-c3-3-3"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-phenomenon-round1-2"
+  },
+  "biology:phenomenon:round1:3": {
+    "id": "g7s1-biology-q-phenomenon-round1-3",
+    "cardIds": [
+      "g7s1-biology-c1-1-3"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-phenomenon-round1-3"
+  },
+  "biology:phenomenon:round1:4": {
+    "id": "g7s1-biology-q-phenomenon-round1-4",
+    "cardIds": [
+      "g7s1-biology-c1-2-4"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-phenomenon-round1-4"
+  },
+  "biology:phenomenon:round1:5": {
+    "id": "g7s1-biology-q-phenomenon-round1-5",
+    "cardIds": [
+      "g7s1-biology-c3-3-2"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-phenomenon-round1-5"
+  },
+  "biology:phenomenon:round1:6": {
+    "id": "g7s1-biology-q-phenomenon-round1-6",
+    "cardIds": [
+      "g7s1-biology-c3-3-2"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-phenomenon-round1-6"
+  },
+  "biology:phenomenon:round1:7": {
+    "id": "g7s1-biology-q-phenomenon-round1-7",
+    "cardIds": [
+      "g7s1-biology-c3-3-4"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-phenomenon-round1-7"
+  },
+  "biology:phenomenon:round1:8": {
+    "id": "g7s1-biology-q-phenomenon-round1-8",
+    "cardIds": [
+      "g7s1-biology-c1-1-3"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-phenomenon-round1-8"
+  },
+  "biology:phenomenon:round1:9": {
+    "id": "g7s1-biology-q-phenomenon-round1-9",
+    "cardIds": [
+      "g7s1-biology-c1-2-3"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-phenomenon-round1-9"
+  },
+  "biology:phenomenon:round1:10": {
+    "id": "g7s1-biology-q-phenomenon-round1-10",
+    "cardIds": [
+      "g7s1-biology-c1-1-3"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-phenomenon-round1-10"
+  },
+  "biology:phenomenon:round2:1": {
+    "id": "g7s1-biology-q-phenomenon-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round2-1"
+  },
+  "biology:phenomenon:round2:2": {
+    "id": "g7s1-biology-q-phenomenon-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round2-2"
+  },
+  "biology:phenomenon:round2:3": {
+    "id": "g7s1-biology-q-phenomenon-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round2-3"
+  },
+  "biology:phenomenon:round2:4": {
+    "id": "g7s1-biology-q-phenomenon-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round2-4"
+  },
+  "biology:phenomenon:round2:5": {
+    "id": "g7s1-biology-q-phenomenon-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round2-5"
+  },
+  "biology:phenomenon:round2:6": {
+    "id": "g7s1-biology-q-phenomenon-round2-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round2-6"
+  },
+  "biology:phenomenon:round2:7": {
+    "id": "g7s1-biology-q-phenomenon-round2-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round2-7"
+  },
+  "biology:phenomenon:round2:8": {
+    "id": "g7s1-biology-q-phenomenon-round2-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round2-8"
+  },
+  "biology:phenomenon:round2:9": {
+    "id": "g7s1-biology-q-phenomenon-round2-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round2-9"
+  },
+  "biology:phenomenon:round2:10": {
+    "id": "g7s1-biology-q-phenomenon-round2-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round2-10"
+  },
+  "biology:phenomenon:round3:1": {
+    "id": "g7s1-biology-q-phenomenon-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round3-1"
+  },
+  "biology:phenomenon:round3:2": {
+    "id": "g7s1-biology-q-phenomenon-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round3-2"
+  },
+  "biology:phenomenon:round3:3": {
+    "id": "g7s1-biology-q-phenomenon-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round3-3"
+  },
+  "biology:phenomenon:round3:4": {
+    "id": "g7s1-biology-q-phenomenon-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round3-4"
+  },
+  "biology:phenomenon:round3:5": {
+    "id": "g7s1-biology-q-phenomenon-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round3-5"
+  },
+  "biology:phenomenon:round3:6": {
+    "id": "g7s1-biology-q-phenomenon-round3-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round3-6"
+  },
+  "biology:phenomenon:round3:7": {
+    "id": "g7s1-biology-q-phenomenon-round3-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round3-7"
+  },
+  "biology:phenomenon:round3:8": {
+    "id": "g7s1-biology-q-phenomenon-round3-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round3-8"
+  },
+  "biology:phenomenon:round3:9": {
+    "id": "g7s1-biology-q-phenomenon-round3-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round3-9"
+  },
+  "biology:phenomenon:round3:10": {
+    "id": "g7s1-biology-q-phenomenon-round3-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-phenomenon-round3-10"
+  },
+  "biology:chart:round1:1": {
+    "id": "g7s1-biology-q-chart-round1-1",
+    "cardIds": [
+      "g7s1-biology-c2-1-1"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-chart-round1-1"
+  },
+  "biology:chart:round1:2": {
+    "id": "g7s1-biology-q-chart-round1-2",
+    "cardIds": [
+      "g7s1-biology-c1-2-3"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-chart-round1-2"
+  },
+  "biology:chart:round1:3": {
+    "id": "g7s1-biology-q-chart-round1-3",
+    "cardIds": [
+      "g7s1-biology-c3-2-1"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-chart-round1-3"
+  },
+  "biology:chart:round1:4": {
+    "id": "g7s1-biology-q-chart-round1-4",
+    "cardIds": [
+      "g7s1-biology-c1-2-3"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-chart-round1-4"
+  },
+  "biology:chart:round1:5": {
+    "id": "g7s1-biology-q-chart-round1-5",
+    "cardIds": [
+      "g7s1-biology-c3-3-3"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-chart-round1-5"
+  },
+  "biology:chart:round1:6": {
+    "id": "g7s1-biology-q-chart-round1-6",
+    "cardIds": [
+      "g7s1-biology-c3-1-3"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-chart-round1-6"
+  },
+  "biology:chart:round1:7": {
+    "id": "g7s1-biology-q-chart-round1-7",
+    "cardIds": [
+      "g7s1-biology-c1-1-4"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-chart-round1-7"
+  },
+  "biology:chart:round1:8": {
+    "id": "g7s1-biology-q-chart-round1-8",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "缺少必要图表或题干信息",
+    "canonicalId": "g7s1-biology-q-chart-round1-8"
+  },
+  "biology:chart:round1:9": {
+    "id": "g7s1-biology-q-chart-round1-9",
+    "cardIds": [
+      "g7s1-biology-c1-2-4"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-chart-round1-9"
+  },
+  "biology:chart:round1:10": {
+    "id": "g7s1-biology-q-chart-round1-10",
+    "cardIds": [
+      "g7s1-biology-c3-3-3"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-chart-round1-10"
+  },
+  "biology:chart:round2:1": {
+    "id": "g7s1-biology-q-chart-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-chart-round2-1"
+  },
+  "biology:chart:round2:2": {
+    "id": "g7s1-biology-q-chart-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-chart-round2-2"
+  },
+  "biology:chart:round2:3": {
+    "id": "g7s1-biology-q-chart-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-chart-round2-3"
+  },
+  "biology:chart:round2:4": {
+    "id": "g7s1-biology-q-chart-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "缺少必要图表或实验条件",
+    "canonicalId": "g7s1-biology-q-chart-round2-4"
+  },
+  "biology:chart:round2:5": {
+    "id": "g7s1-biology-q-chart-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "缺少必要图表或实验条件",
+    "canonicalId": "g7s1-biology-q-chart-round2-5"
+  },
+  "biology:chart:round2:6": {
+    "id": "g7s1-biology-q-chart-round2-6",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "缺少必要图表或实验条件",
+    "canonicalId": "g7s1-biology-q-chart-round2-6"
+  },
+  "biology:chart:round2:7": {
+    "id": "g7s1-biology-q-chart-round2-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-chart-round2-7"
+  },
+  "biology:chart:round2:8": {
+    "id": "g7s1-biology-q-chart-round2-8",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "缺少必要图表或实验条件",
+    "canonicalId": "g7s1-biology-q-chart-round2-8"
+  },
+  "biology:chart:round2:9": {
+    "id": "g7s1-biology-q-chart-round2-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-chart-round2-9"
+  },
+  "biology:chart:round2:10": {
+    "id": "g7s1-biology-q-chart-round2-10",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "缺少必要图表或实验条件",
+    "canonicalId": "g7s1-biology-q-chart-round2-10"
+  },
+  "biology:chart:round3:1": {
+    "id": "g7s1-biology-q-chart-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "缺少必要图表或实验条件",
+    "canonicalId": "g7s1-biology-q-chart-round3-1"
+  },
+  "biology:chart:round3:2": {
+    "id": "g7s1-biology-q-chart-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-chart-round3-2"
+  },
+  "biology:chart:round3:3": {
+    "id": "g7s1-biology-q-chart-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "缺少必要图表或实验条件",
+    "canonicalId": "g7s1-biology-q-chart-round3-3"
+  },
+  "biology:chart:round3:4": {
+    "id": "g7s1-biology-q-chart-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "缺少必要图表或实验条件",
+    "canonicalId": "g7s1-biology-q-chart-round3-4"
+  },
+  "biology:chart:round3:5": {
+    "id": "g7s1-biology-q-chart-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-chart-round3-5"
+  },
+  "biology:chart:round3:6": {
+    "id": "g7s1-biology-q-chart-round3-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-chart-round3-6"
+  },
+  "biology:chart:round3:7": {
+    "id": "g7s1-biology-q-chart-round3-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-chart-round3-7"
+  },
+  "biology:chart:round3:8": {
+    "id": "g7s1-biology-q-chart-round3-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-chart-round3-8"
+  },
+  "biology:chart:round3:9": {
+    "id": "g7s1-biology-q-chart-round3-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-chart-round3-9"
+  },
+  "biology:chart:round3:10": {
+    "id": "g7s1-biology-q-chart-round3-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-biology-q-chart-round3-10"
+  },
+  "biology:unit:0:1": {
+    "id": "g7s1-biology-q-unit-0-1",
+    "cardIds": [
+      "g7s1-biology-c1-1-1"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-unit-0-1"
+  },
+  "biology:unit:0:2": {
+    "id": "g7s1-biology-q-unit-0-2",
+    "cardIds": [
+      "g7s1-biology-c1-2-3"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-unit-0-2"
+  },
+  "biology:unit:0:3": {
+    "id": "g7s1-biology-q-unit-0-3",
+    "cardIds": [
+      "g7s1-biology-c1-2-2"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-unit-0-3"
+  },
+  "biology:unit:0:4": {
+    "id": "g7s1-biology-q-unit-0-4",
+    "cardIds": [
+      "g7s1-biology-c1-1-3"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-unit-0-4"
+  },
+  "biology:unit:0:5": {
+    "id": "g7s1-biology-q-unit-0-5",
+    "cardIds": [
+      "g7s1-biology-c1-2-2"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-unit-0-5"
+  },
+  "biology:unit:0:6": {
+    "id": "g7s1-biology-q-unit-0-6",
+    "cardIds": [
+      "g7s1-biology-c1-1-4"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-unit-0-6"
+  },
+  "biology:unit:0:7": {
+    "id": "g7s1-biology-q-unit-0-7",
+    "cardIds": [
+      "g7s1-biology-c1-2-4",
+      "g7s1-biology-c1-2-5"
+    ],
+    "unitId": "g7s1-biology-u1",
+    "canonicalId": "g7s1-biology-q-unit-0-7"
+  },
+  "biology:unit:1:1": {
+    "id": "g7s1-biology-q-unit-1-1",
+    "cardIds": [
+      "g7s1-biology-c2-1-2",
+      "g7s1-biology-c2-1-3"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-unit-1-1"
+  },
+  "biology:unit:1:2": {
+    "id": "g7s1-biology-q-unit-1-2",
+    "cardIds": [
+      "g7s1-biology-c2-2-3",
+      "g7s1-biology-c2-2-4"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-unit-1-2"
+  },
+  "biology:unit:1:3": {
+    "id": "g7s1-biology-q-unit-1-3",
+    "cardIds": [
+      "g7s1-biology-c2-2-1"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-unit-1-3"
+  },
+  "biology:unit:1:4": {
+    "id": "g7s1-biology-q-unit-1-4",
+    "cardIds": [
+      "g7s1-biology-c2-1-1"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-unit-1-4"
+  },
+  "biology:unit:1:5": {
+    "id": "g7s1-biology-q-unit-1-5",
+    "cardIds": [
+      "g7s1-biology-c2-2-1",
+      "g7s1-biology-c2-2-2"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-unit-1-5"
+  },
+  "biology:unit:1:6": {
+    "id": "g7s1-biology-q-unit-1-6",
+    "cardIds": [
+      "g7s1-biology-c2-1-5"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-unit-1-6"
+  },
+  "biology:unit:1:7": {
+    "id": "g7s1-biology-q-unit-1-7",
+    "cardIds": [
+      "g7s1-biology-c2-2-3",
+      "g7s1-biology-c2-2-4"
+    ],
+    "unitId": "g7s1-biology-u2",
+    "canonicalId": "g7s1-biology-q-unit-1-7"
+  },
+  "biology:unit:2:1": {
+    "id": "g7s1-biology-q-unit-2-1",
+    "cardIds": [
+      "g7s1-biology-c3-3-3",
+      "g7s1-biology-c3-3-4"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-unit-2-1"
+  },
+  "biology:unit:2:2": {
+    "id": "g7s1-biology-q-unit-2-2",
+    "cardIds": [
+      "g7s1-biology-c3-2-3"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-unit-2-2"
+  },
+  "biology:unit:2:3": {
+    "id": "g7s1-biology-q-unit-2-3",
+    "cardIds": [
+      "g7s1-biology-c3-3-2"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-unit-2-3"
+  },
+  "biology:unit:2:4": {
+    "id": "g7s1-biology-q-unit-2-4",
+    "cardIds": [
+      "g7s1-biology-c3-1-1"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-unit-2-4"
+  },
+  "biology:unit:2:5": {
+    "id": "g7s1-biology-q-unit-2-5",
+    "cardIds": [
+      "g7s1-biology-c3-2-1"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-unit-2-5"
+  },
+  "biology:unit:2:6": {
+    "id": "g7s1-biology-q-unit-2-6",
+    "cardIds": [
+      "g7s1-biology-c3-3-3"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-unit-2-6"
+  },
+  "biology:unit:2:7": {
+    "id": "g7s1-biology-q-unit-2-7",
+    "cardIds": [
+      "g7s1-biology-c3-3-2",
+      "g7s1-biology-c3-3-3",
+      "g7s1-biology-c3-3-6"
+    ],
+    "unitId": "g7s1-biology-u3",
+    "canonicalId": "g7s1-biology-q-unit-2-7"
+  },
+  "morality:time:round1:1": {
+    "id": "g7s1-morality-q-time-round1-1",
+    "cardIds": [
+      "g7s1-morality-c1-1-1"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-time-round1-1"
+  },
+  "morality:time:round1:2": {
+    "id": "g7s1-morality-q-time-round1-2",
+    "cardIds": [
+      "g7s1-morality-c1-2-1"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-time-round1-2"
+  },
+  "morality:time:round1:3": {
+    "id": "g7s1-morality-q-time-round1-3",
+    "cardIds": [
+      "g7s1-morality-c1-3-2"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-time-round1-3"
+  },
+  "morality:time:round1:4": {
+    "id": "g7s1-morality-q-time-round1-4",
+    "cardIds": [
+      "g7s1-morality-c2-1-1"
+    ],
+    "unitId": "g7s1-morality-u2",
+    "canonicalId": "g7s1-morality-q-time-round1-4"
+  },
+  "morality:time:round1:5": {
+    "id": "g7s1-morality-q-time-round1-5",
+    "cardIds": [
+      "g7s1-morality-c3-1-5"
+    ],
+    "unitId": "g7s1-morality-u3",
+    "canonicalId": "g7s1-morality-q-time-round1-5"
+  },
+  "morality:time:round1:6": {
+    "id": "g7s1-morality-q-time-round1-6",
+    "cardIds": [
+      "g7s1-morality-c3-2-3"
+    ],
+    "unitId": "g7s1-morality-u3",
+    "canonicalId": "g7s1-morality-q-time-round1-6"
+  },
+  "morality:time:round1:7": {
+    "id": "g7s1-morality-q-time-round1-7",
+    "cardIds": [
+      "g7s1-morality-c4-1-1"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-time-round1-7"
+  },
+  "morality:time:round1:8": {
+    "id": "g7s1-morality-q-time-round1-8",
+    "cardIds": [
+      "g7s1-morality-c4-2-1"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-time-round1-8"
+  },
+  "morality:time:round1:9": {
+    "id": "g7s1-morality-q-time-round1-9",
+    "cardIds": [
+      "g7s1-morality-c4-2-5"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-time-round1-9"
+  },
+  "morality:time:round1:10": {
+    "id": "g7s1-morality-q-time-round1-10",
+    "cardIds": [
+      "g7s1-morality-c4-3-5"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-time-round1-10"
+  },
+  "morality:time:round2:1": {
+    "id": "g7s1-morality-q-time-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round2-1"
+  },
+  "morality:time:round2:2": {
+    "id": "g7s1-morality-q-time-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round2-2"
+  },
+  "morality:time:round2:3": {
+    "id": "g7s1-morality-q-time-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round2-3"
+  },
+  "morality:time:round2:4": {
+    "id": "g7s1-morality-q-time-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round2-4"
+  },
+  "morality:time:round2:5": {
+    "id": "g7s1-morality-q-time-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round2-5"
+  },
+  "morality:time:round2:6": {
+    "id": "g7s1-morality-q-time-round2-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round2-6"
+  },
+  "morality:time:round2:7": {
+    "id": "g7s1-morality-q-time-round2-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round2-7"
+  },
+  "morality:time:round2:8": {
+    "id": "g7s1-morality-q-time-round2-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round2-8"
+  },
+  "morality:time:round2:9": {
+    "id": "g7s1-morality-q-time-round2-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round2-9"
+  },
+  "morality:time:round2:10": {
+    "id": "g7s1-morality-q-time-round2-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round2-10"
+  },
+  "morality:time:round3:1": {
+    "id": "g7s1-morality-q-time-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round3-1"
+  },
+  "morality:time:round3:2": {
+    "id": "g7s1-morality-q-time-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round3-2"
+  },
+  "morality:time:round3:3": {
+    "id": "g7s1-morality-q-time-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round3-3"
+  },
+  "morality:time:round3:4": {
+    "id": "g7s1-morality-q-time-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round3-4"
+  },
+  "morality:time:round3:5": {
+    "id": "g7s1-morality-q-time-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round3-5"
+  },
+  "morality:time:round3:6": {
+    "id": "g7s1-morality-q-time-round3-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round3-6"
+  },
+  "morality:time:round3:7": {
+    "id": "g7s1-morality-q-time-round3-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round3-7"
+  },
+  "morality:time:round3:8": {
+    "id": "g7s1-morality-q-time-round3-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round3-8"
+  },
+  "morality:time:round3:9": {
+    "id": "g7s1-morality-q-time-round3-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round3-9"
+  },
+  "morality:time:round3:10": {
+    "id": "g7s1-morality-q-time-round3-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-time-round3-10"
+  },
+  "morality:sort:round1:1": {
+    "id": "g7s1-morality-q-sort-round1-1",
+    "cardIds": [
+      "g7s1-morality-c1-1-2"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-sort-round1-1"
+  },
+  "morality:sort:round1:2": {
+    "id": "g7s1-morality-q-sort-round1-2",
+    "cardIds": [
+      "g7s1-morality-c1-2-3"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-sort-round1-2"
+  },
+  "morality:sort:round1:3": {
+    "id": "g7s1-morality-q-sort-round1-3",
+    "cardIds": [
+      "g7s1-morality-c1-3-2"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-sort-round1-3"
+  },
+  "morality:sort:round1:4": {
+    "id": "g7s1-morality-q-sort-round1-4",
+    "cardIds": [
+      "g7s1-morality-c2-2-1"
+    ],
+    "unitId": "g7s1-morality-u2",
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-sort-round1-4"
+  },
+  "morality:sort:round1:5": {
+    "id": "g7s1-morality-q-sort-round1-5",
+    "cardIds": [
+      "g7s1-morality-c3-2-3"
+    ],
+    "unitId": "g7s1-morality-u3",
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-sort-round1-5"
+  },
+  "morality:sort:round2:1": {
+    "id": "g7s1-morality-q-sort-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-sort-round2-1"
+  },
+  "morality:sort:round2:2": {
+    "id": "g7s1-morality-q-sort-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-sort-round2-2"
+  },
+  "morality:sort:round2:3": {
+    "id": "g7s1-morality-q-sort-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-sort-round2-3"
+  },
+  "morality:sort:round2:4": {
+    "id": "g7s1-morality-q-sort-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-sort-round2-4"
+  },
+  "morality:sort:round2:5": {
+    "id": "g7s1-morality-q-sort-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-sort-round2-5"
+  },
+  "morality:sort:round3:1": {
+    "id": "g7s1-morality-q-sort-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-sort-round3-1"
+  },
+  "morality:sort:round3:2": {
+    "id": "g7s1-morality-q-sort-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-sort-round3-2"
+  },
+  "morality:sort:round3:3": {
+    "id": "g7s1-morality-q-sort-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-sort-round3-3"
+  },
+  "morality:sort:round3:4": {
+    "id": "g7s1-morality-q-sort-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-sort-round3-4"
+  },
+  "morality:sort:round3:5": {
+    "id": "g7s1-morality-q-sort-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-sort-round3-5"
+  },
+  "morality:match:round1:1": {
+    "id": "g7s1-morality-q-match-round1-1",
+    "cardIds": [
+      "g7s1-morality-c1-1-4",
+      "g7s1-morality-c1-2-3",
+      "g7s1-morality-c2-1-1"
+    ],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-match-round1-1"
+  },
+  "morality:match:round1:2": {
+    "id": "g7s1-morality-q-match-round1-2",
+    "cardIds": [
+      "g7s1-morality-c4-2-6",
+      "g7s1-morality-c1-3-5",
+      "g7s1-morality-c1-3-2",
+      "g7s1-morality-c1-1-2"
+    ],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-match-round1-2"
+  },
+  "morality:match:round1:3": {
+    "id": "g7s1-morality-q-match-round1-3",
+    "cardIds": [
+      "g7s1-morality-c2-1-2",
+      "g7s1-morality-c2-1-3"
+    ],
+    "unitId": "g7s1-morality-u2",
+    "canonicalId": "g7s1-morality-q-match-round1-3"
+  },
+  "morality:match:round1:4": {
+    "id": "g7s1-morality-q-match-round1-4",
+    "cardIds": [
+      "g7s1-morality-c3-1-1",
+      "g7s1-morality-c3-1-4",
+      "g7s1-morality-c3-1-5"
+    ],
+    "unitId": "g7s1-morality-u3",
+    "canonicalId": "g7s1-morality-q-match-round1-4"
+  },
+  "morality:match:round1:5": {
+    "id": "g7s1-morality-q-match-round1-5",
+    "cardIds": [
+      "g7s1-morality-c3-2-3"
+    ],
+    "unitId": "g7s1-morality-u3",
+    "canonicalId": "g7s1-morality-q-match-round1-5"
+  },
+  "morality:match:round2:1": {
+    "id": "g7s1-morality-q-match-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-match-round2-1"
+  },
+  "morality:match:round2:2": {
+    "id": "g7s1-morality-q-match-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-match-round2-2"
+  },
+  "morality:match:round2:3": {
+    "id": "g7s1-morality-q-match-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-match-round2-3"
+  },
+  "morality:match:round2:4": {
+    "id": "g7s1-morality-q-match-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-match-round2-4"
+  },
+  "morality:match:round2:5": {
+    "id": "g7s1-morality-q-match-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-match-round2-5"
+  },
+  "morality:match:round3:1": {
+    "id": "g7s1-morality-q-match-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-match-round3-1"
+  },
+  "morality:match:round3:2": {
+    "id": "g7s1-morality-q-match-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-match-round3-2"
+  },
+  "morality:match:round3:3": {
+    "id": "g7s1-morality-q-match-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-match-round3-3"
+  },
+  "morality:match:round3:4": {
+    "id": "g7s1-morality-q-match-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-match-round3-4"
+  },
+  "morality:match:round3:5": {
+    "id": "g7s1-morality-q-match-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-match-round3-5"
+  },
+  "morality:art:round1:1": {
+    "id": "g7s1-morality-q-art-round1-1",
+    "cardIds": [
+      "g7s1-morality-c1-1-2",
+      "g7s1-morality-c1-2-3"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-art-round1-1"
+  },
+  "morality:art:round1:2": {
+    "id": "g7s1-morality-q-art-round1-2",
+    "cardIds": [
+      "g7s1-morality-c2-1-3"
+    ],
+    "unitId": "g7s1-morality-u2",
+    "canonicalId": "g7s1-morality-q-art-round1-2"
+  },
+  "morality:art:round1:3": {
+    "id": "g7s1-morality-q-art-round1-3",
+    "cardIds": [
+      "g7s1-morality-c3-2-5"
+    ],
+    "unitId": "g7s1-morality-u3",
+    "canonicalId": "g7s1-morality-q-art-round1-3"
+  },
+  "morality:art:round1:4": {
+    "id": "g7s1-morality-q-art-round1-4",
+    "cardIds": [
+      "g7s1-morality-c3-1-3",
+      "g7s1-morality-c3-1-6"
+    ],
+    "unitId": "g7s1-morality-u3",
+    "canonicalId": "g7s1-morality-q-art-round1-4"
+  },
+  "morality:art:round1:5": {
+    "id": "g7s1-morality-q-art-round1-5",
+    "cardIds": [
+      "g7s1-morality-c1-3-5"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-art-round1-5"
+  },
+  "morality:art:round1:6": {
+    "id": "g7s1-morality-q-art-round1-6",
+    "cardIds": [
+      "g7s1-morality-c2-2-4"
+    ],
+    "unitId": "g7s1-morality-u2",
+    "canonicalId": "g7s1-morality-q-art-round1-6"
+  },
+  "morality:art:round1:7": {
+    "id": "g7s1-morality-q-art-round1-7",
+    "cardIds": [
+      "g7s1-morality-c4-2-5"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-art-round1-7"
+  },
+  "morality:art:round1:8": {
+    "id": "g7s1-morality-q-art-round1-8",
+    "cardIds": [
+      "g7s1-morality-c4-2-1"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-art-round1-8"
+  },
+  "morality:art:round1:9": {
+    "id": "g7s1-morality-q-art-round1-9",
+    "cardIds": [
+      "g7s1-morality-c1-1-3",
+      "g7s1-morality-c1-1-4"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-art-round1-9"
+  },
+  "morality:art:round1:10": {
+    "id": "g7s1-morality-q-art-round1-10",
+    "cardIds": [
+      "g7s1-morality-c4-3-5"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-art-round1-10"
+  },
+  "morality:art:round2:1": {
+    "id": "g7s1-morality-q-art-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round2-1"
+  },
+  "morality:art:round2:2": {
+    "id": "g7s1-morality-q-art-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round2-2"
+  },
+  "morality:art:round2:3": {
+    "id": "g7s1-morality-q-art-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round2-3"
+  },
+  "morality:art:round2:4": {
+    "id": "g7s1-morality-q-art-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round2-4"
+  },
+  "morality:art:round2:5": {
+    "id": "g7s1-morality-q-art-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round2-5"
+  },
+  "morality:art:round2:6": {
+    "id": "g7s1-morality-q-art-round2-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round2-6"
+  },
+  "morality:art:round2:7": {
+    "id": "g7s1-morality-q-art-round2-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round2-7"
+  },
+  "morality:art:round2:8": {
+    "id": "g7s1-morality-q-art-round2-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round2-8"
+  },
+  "morality:art:round2:9": {
+    "id": "g7s1-morality-q-art-round2-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round2-9"
+  },
+  "morality:art:round2:10": {
+    "id": "g7s1-morality-q-art-round2-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round2-10"
+  },
+  "morality:art:round3:1": {
+    "id": "g7s1-morality-q-art-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round3-1"
+  },
+  "morality:art:round3:2": {
+    "id": "g7s1-morality-q-art-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round3-2"
+  },
+  "morality:art:round3:3": {
+    "id": "g7s1-morality-q-art-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round3-3"
+  },
+  "morality:art:round3:4": {
+    "id": "g7s1-morality-q-art-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round3-4"
+  },
+  "morality:art:round3:5": {
+    "id": "g7s1-morality-q-art-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round3-5"
+  },
+  "morality:art:round3:6": {
+    "id": "g7s1-morality-q-art-round3-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round3-6"
+  },
+  "morality:art:round3:7": {
+    "id": "g7s1-morality-q-art-round3-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round3-7"
+  },
+  "morality:art:round3:8": {
+    "id": "g7s1-morality-q-art-round3-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round3-8"
+  },
+  "morality:art:round3:9": {
+    "id": "g7s1-morality-q-art-round3-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round3-9"
+  },
+  "morality:art:round3:10": {
+    "id": "g7s1-morality-q-art-round3-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-art-round3-10"
+  },
+  "morality:find:round1:1": {
+    "id": "g7s1-morality-q-find-round1-1",
+    "cardIds": [
+      "g7s1-morality-c1-1-1"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-find-round1-1"
+  },
+  "morality:find:round1:2": {
+    "id": "g7s1-morality-q-find-round1-2",
+    "cardIds": [
+      "g7s1-morality-c1-2-1"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-find-round1-2"
+  },
+  "morality:find:round1:3": {
+    "id": "g7s1-morality-q-find-round1-3",
+    "cardIds": [
+      "g7s1-morality-c2-1-3"
+    ],
+    "unitId": "g7s1-morality-u2",
+    "canonicalId": "g7s1-morality-q-find-round1-3"
+  },
+  "morality:find:round1:4": {
+    "id": "g7s1-morality-q-find-round1-4",
+    "cardIds": [
+      "g7s1-morality-c3-1-1"
+    ],
+    "unitId": "g7s1-morality-u3",
+    "canonicalId": "g7s1-morality-q-find-round1-4"
+  },
+  "morality:find:round1:5": {
+    "id": "g7s1-morality-q-find-round1-5",
+    "cardIds": [
+      "g7s1-morality-c3-2-1"
+    ],
+    "unitId": "g7s1-morality-u3",
+    "canonicalId": "g7s1-morality-q-find-round1-5"
+  },
+  "morality:find:round1:6": {
+    "id": "g7s1-morality-q-find-round1-6",
+    "cardIds": [
+      "g7s1-morality-c4-1-1"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-find-round1-6"
+  },
+  "morality:find:round1:7": {
+    "id": "g7s1-morality-q-find-round1-7",
+    "cardIds": [
+      "g7s1-morality-c4-2-1",
+      "g7s1-morality-c4-2-2"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-find-round1-7"
+  },
+  "morality:find:round1:8": {
+    "id": "g7s1-morality-q-find-round1-8",
+    "cardIds": [
+      "g7s1-morality-c4-2-4"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-find-round1-8"
+  },
+  "morality:find:round1:9": {
+    "id": "g7s1-morality-q-find-round1-9",
+    "cardIds": [
+      "g7s1-morality-c4-3-1"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-find-round1-9"
+  },
+  "morality:find:round1:10": {
+    "id": "g7s1-morality-q-find-round1-10",
+    "cardIds": [
+      "g7s1-morality-c2-2-4"
+    ],
+    "unitId": "g7s1-morality-u2",
+    "canonicalId": "g7s1-morality-q-find-round1-10"
+  },
+  "morality:find:round2:1": {
+    "id": "g7s1-morality-q-find-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round2-1"
+  },
+  "morality:find:round2:2": {
+    "id": "g7s1-morality-q-find-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round2-2"
+  },
+  "morality:find:round2:3": {
+    "id": "g7s1-morality-q-find-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round2-3"
+  },
+  "morality:find:round2:4": {
+    "id": "g7s1-morality-q-find-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round2-4"
+  },
+  "morality:find:round2:5": {
+    "id": "g7s1-morality-q-find-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round2-5"
+  },
+  "morality:find:round2:6": {
+    "id": "g7s1-morality-q-find-round2-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round2-6"
+  },
+  "morality:find:round2:7": {
+    "id": "g7s1-morality-q-find-round2-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round2-7"
+  },
+  "morality:find:round2:8": {
+    "id": "g7s1-morality-q-find-round2-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round2-8"
+  },
+  "morality:find:round2:9": {
+    "id": "g7s1-morality-q-find-round2-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round2-9"
+  },
+  "morality:find:round2:10": {
+    "id": "g7s1-morality-q-find-round2-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round2-10"
+  },
+  "morality:find:round3:1": {
+    "id": "g7s1-morality-q-find-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round3-1"
+  },
+  "morality:find:round3:2": {
+    "id": "g7s1-morality-q-find-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round3-2"
+  },
+  "morality:find:round3:3": {
+    "id": "g7s1-morality-q-find-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round3-3"
+  },
+  "morality:find:round3:4": {
+    "id": "g7s1-morality-q-find-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round3-4"
+  },
+  "morality:find:round3:5": {
+    "id": "g7s1-morality-q-find-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round3-5"
+  },
+  "morality:find:round3:6": {
+    "id": "g7s1-morality-q-find-round3-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round3-6"
+  },
+  "morality:find:round3:7": {
+    "id": "g7s1-morality-q-find-round3-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round3-7"
+  },
+  "morality:find:round3:8": {
+    "id": "g7s1-morality-q-find-round3-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round3-8"
+  },
+  "morality:find:round3:9": {
+    "id": "g7s1-morality-q-find-round3-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round3-9"
+  },
+  "morality:find:round3:10": {
+    "id": "g7s1-morality-q-find-round3-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-find-round3-10"
+  },
+  "morality:all:round1:1": {
+    "id": "g7s1-morality-q-all-round1-1",
+    "cardIds": [
+      "g7s1-morality-c1-2-1"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-all-round1-1"
+  },
+  "morality:all:round1:2": {
+    "id": "g7s1-morality-q-all-round1-2",
+    "cardIds": [
+      "g7s1-morality-c1-1-4"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-all-round1-2"
+  },
+  "morality:all:round1:3": {
+    "id": "g7s1-morality-q-all-round1-3",
+    "cardIds": [
+      "g7s1-morality-c2-1-3"
+    ],
+    "unitId": "g7s1-morality-u2",
+    "canonicalId": "g7s1-morality-q-all-round1-3"
+  },
+  "morality:all:round1:4": {
+    "id": "g7s1-morality-q-all-round1-4",
+    "cardIds": [
+      "g7s1-morality-c3-2-3",
+      "g7s1-morality-c3-1-4",
+      "g7s1-morality-c4-2-6",
+      "g7s1-morality-c1-3-5"
+    ],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round1-4"
+  },
+  "morality:all:round1:5": {
+    "id": "g7s1-morality-q-all-round1-5",
+    "cardIds": [
+      "g7s1-morality-c4-1-4",
+      "g7s1-morality-c4-2-1",
+      "g7s1-morality-c4-3-5"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-all-round1-5"
+  },
+  "morality:all:round1:6": {
+    "id": "g7s1-morality-q-all-round1-6",
+    "cardIds": [
+      "g7s1-morality-c3-2-5"
+    ],
+    "unitId": "g7s1-morality-u3",
+    "canonicalId": "g7s1-morality-q-all-round1-6"
+  },
+  "morality:all:round1:7": {
+    "id": "g7s1-morality-q-all-round1-7",
+    "cardIds": [
+      "g7s1-morality-c4-1-1"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-all-round1-7"
+  },
+  "morality:all:round1:8": {
+    "id": "g7s1-morality-q-all-round1-8",
+    "cardIds": [
+      "g7s1-morality-c4-2-4"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-all-round1-8"
+  },
+  "morality:all:round1:9": {
+    "id": "g7s1-morality-q-all-round1-9",
+    "cardIds": [
+      "g7s1-morality-c4-3-5"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-all-round1-9"
+  },
+  "morality:all:round1:10": {
+    "id": "g7s1-morality-q-all-round1-10",
+    "cardIds": [
+      "g7s1-morality-c1-1-3"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-all-round1-10"
+  },
+  "morality:all:round2:1": {
+    "id": "g7s1-morality-q-all-round2-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round2-1"
+  },
+  "morality:all:round2:2": {
+    "id": "g7s1-morality-q-all-round2-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round2-2"
+  },
+  "morality:all:round2:3": {
+    "id": "g7s1-morality-q-all-round2-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round2-3"
+  },
+  "morality:all:round2:4": {
+    "id": "g7s1-morality-q-all-round2-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round2-4"
+  },
+  "morality:all:round2:5": {
+    "id": "g7s1-morality-q-all-round2-5",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-all-round2-5"
+  },
+  "morality:all:round2:6": {
+    "id": "g7s1-morality-q-all-round2-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round2-6"
+  },
+  "morality:all:round2:7": {
+    "id": "g7s1-morality-q-all-round2-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round2-7"
+  },
+  "morality:all:round2:8": {
+    "id": "g7s1-morality-q-all-round2-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round2-8"
+  },
+  "morality:all:round2:9": {
+    "id": "g7s1-morality-q-all-round2-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round2-9"
+  },
+  "morality:all:round2:10": {
+    "id": "g7s1-morality-q-all-round2-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round2-10"
+  },
+  "morality:all:round3:1": {
+    "id": "g7s1-morality-q-all-round3-1",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round3-1"
+  },
+  "morality:all:round3:2": {
+    "id": "g7s1-morality-q-all-round3-2",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round3-2"
+  },
+  "morality:all:round3:3": {
+    "id": "g7s1-morality-q-all-round3-3",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round3-3"
+  },
+  "morality:all:round3:4": {
+    "id": "g7s1-morality-q-all-round3-4",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round3-4"
+  },
+  "morality:all:round3:5": {
+    "id": "g7s1-morality-q-all-round3-5",
+    "cardIds": [],
+    "unitId": null,
+    "exclusionReason": "主观重要性排序不适合自动判分，保留原专项入口",
+    "canonicalId": "g7s1-morality-q-all-round3-5"
+  },
+  "morality:all:round3:6": {
+    "id": "g7s1-morality-q-all-round3-6",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round3-6"
+  },
+  "morality:all:round3:7": {
+    "id": "g7s1-morality-q-all-round3-7",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round3-7"
+  },
+  "morality:all:round3:8": {
+    "id": "g7s1-morality-q-all-round3-8",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round3-8"
+  },
+  "morality:all:round3:9": {
+    "id": "g7s1-morality-q-all-round3-9",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round3-9"
+  },
+  "morality:all:round3:10": {
+    "id": "g7s1-morality-q-all-round3-10",
+    "cardIds": [],
+    "unitId": null,
+    "canonicalId": "g7s1-morality-q-all-round3-10"
+  },
+  "morality:unit:0:1": {
+    "id": "g7s1-morality-q-unit-0-1",
+    "cardIds": [
+      "g7s1-morality-c1-1-1"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-unit-0-1"
+  },
+  "morality:unit:0:2": {
+    "id": "g7s1-morality-q-unit-0-2",
+    "cardIds": [
+      "g7s1-morality-c1-2-1",
+      "g7s1-morality-c1-2-3",
+      "g7s1-morality-c1-2-4"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-unit-0-2"
+  },
+  "morality:unit:0:3": {
+    "id": "g7s1-morality-q-unit-0-3",
+    "cardIds": [
+      "g7s1-morality-c1-3-2"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-unit-0-3"
+  },
+  "morality:unit:0:4": {
+    "id": "g7s1-morality-q-unit-0-4",
+    "cardIds": [
+      "g7s1-morality-c1-1-3"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-unit-0-4"
+  },
+  "morality:unit:0:5": {
+    "id": "g7s1-morality-q-unit-0-5",
+    "cardIds": [
+      "g7s1-morality-c1-3-4"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-unit-0-5"
+  },
+  "morality:unit:0:6": {
+    "id": "g7s1-morality-q-unit-0-6",
+    "cardIds": [
+      "g7s1-morality-c1-3-3",
+      "g7s1-morality-c1-3-5"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-unit-0-6"
+  },
+  "morality:unit:0:7": {
+    "id": "g7s1-morality-q-unit-0-7",
+    "cardIds": [
+      "g7s1-morality-c1-2-3",
+      "g7s1-morality-c1-2-4"
+    ],
+    "unitId": "g7s1-morality-u1",
+    "canonicalId": "g7s1-morality-q-unit-0-7"
+  },
+  "morality:unit:1:1": {
+    "id": "g7s1-morality-q-unit-1-1",
+    "cardIds": [
+      "g7s1-morality-c2-1-1"
+    ],
+    "unitId": "g7s1-morality-u2",
+    "canonicalId": "g7s1-morality-q-unit-1-1"
+  },
+  "morality:unit:1:2": {
+    "id": "g7s1-morality-q-unit-1-2",
+    "cardIds": [
+      "g7s1-morality-c2-1-3"
+    ],
+    "unitId": "g7s1-morality-u2",
+    "canonicalId": "g7s1-morality-q-unit-1-2"
+  },
+  "morality:unit:1:3": {
+    "id": "g7s1-morality-q-unit-1-3",
+    "cardIds": [
+      "g7s1-morality-c2-2-4"
+    ],
+    "unitId": "g7s1-morality-u2",
+    "canonicalId": "g7s1-morality-q-unit-1-3"
+  },
+  "morality:unit:1:4": {
+    "id": "g7s1-morality-q-unit-1-4",
+    "cardIds": [
+      "g7s1-morality-c2-1-2"
+    ],
+    "unitId": "g7s1-morality-u2",
+    "canonicalId": "g7s1-morality-q-unit-1-4"
+  },
+  "morality:unit:1:5": {
+    "id": "g7s1-morality-q-unit-1-5",
+    "cardIds": [
+      "g7s1-morality-c2-2-2"
+    ],
+    "unitId": "g7s1-morality-u2",
+    "canonicalId": "g7s1-morality-q-unit-1-5"
+  },
+  "morality:unit:1:6": {
+    "id": "g7s1-morality-q-unit-1-6",
+    "cardIds": [
+      "g7s1-morality-c2-1-3"
+    ],
+    "unitId": "g7s1-morality-u2",
+    "canonicalId": "g7s1-morality-q-unit-1-6"
+  },
+  "morality:unit:1:7": {
+    "id": "g7s1-morality-q-unit-1-7",
+    "cardIds": [
+      "g7s1-morality-c2-2-3",
+      "g7s1-morality-c2-2-4"
+    ],
+    "unitId": "g7s1-morality-u2",
+    "canonicalId": "g7s1-morality-q-unit-1-7"
+  },
+  "morality:unit:2:1": {
+    "id": "g7s1-morality-q-unit-2-1",
+    "cardIds": [
+      "g7s1-morality-c3-1-3"
+    ],
+    "unitId": "g7s1-morality-u3",
+    "canonicalId": "g7s1-morality-q-unit-2-1"
+  },
+  "morality:unit:2:2": {
+    "id": "g7s1-morality-q-unit-2-2",
+    "cardIds": [
+      "g7s1-morality-c3-1-6"
+    ],
+    "unitId": "g7s1-morality-u3",
+    "canonicalId": "g7s1-morality-q-unit-2-2"
+  },
+  "morality:unit:2:3": {
+    "id": "g7s1-morality-q-unit-2-3",
+    "cardIds": [
+      "g7s1-morality-c3-2-3"
+    ],
+    "unitId": "g7s1-morality-u3",
+    "canonicalId": "g7s1-morality-q-unit-2-3"
+  },
+  "morality:unit:2:4": {
+    "id": "g7s1-morality-q-unit-2-4",
+    "cardIds": [
+      "g7s1-morality-c3-2-4"
+    ],
+    "unitId": "g7s1-morality-u3",
+    "canonicalId": "g7s1-morality-q-unit-2-4"
+  },
+  "morality:unit:2:5": {
+    "id": "g7s1-morality-q-unit-2-5",
+    "cardIds": [
+      "g7s1-morality-c3-1-1"
+    ],
+    "unitId": "g7s1-morality-u3",
+    "canonicalId": "g7s1-morality-q-unit-2-5"
+  },
+  "morality:unit:2:6": {
+    "id": "g7s1-morality-q-unit-2-6",
+    "cardIds": [
+      "g7s1-morality-c3-2-3"
+    ],
+    "unitId": "g7s1-morality-u3",
+    "canonicalId": "g7s1-morality-q-unit-2-6"
+  },
+  "morality:unit:2:7": {
+    "id": "g7s1-morality-q-unit-2-7",
+    "cardIds": [
+      "g7s1-morality-c3-1-5",
+      "g7s1-morality-c3-2-5"
+    ],
+    "unitId": "g7s1-morality-u3",
+    "canonicalId": "g7s1-morality-q-unit-2-7"
+  },
+  "morality:unit:3:1": {
+    "id": "g7s1-morality-q-unit-3-1",
+    "cardIds": [
+      "g7s1-morality-c4-1-1"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-unit-3-1"
+  },
+  "morality:unit:3:2": {
+    "id": "g7s1-morality-q-unit-3-2",
+    "cardIds": [
+      "g7s1-morality-c4-1-1"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-unit-3-2"
+  },
+  "morality:unit:3:3": {
+    "id": "g7s1-morality-q-unit-3-3",
+    "cardIds": [
+      "g7s1-morality-c4-1-4"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-unit-3-3"
+  },
+  "morality:unit:3:4": {
+    "id": "g7s1-morality-q-unit-3-4",
+    "cardIds": [
+      "g7s1-morality-c4-3-5"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-unit-3-4"
+  },
+  "morality:unit:3:5": {
+    "id": "g7s1-morality-q-unit-3-5",
+    "cardIds": [
+      "g7s1-morality-c4-2-4"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-unit-3-5"
+  },
+  "morality:unit:3:6": {
+    "id": "g7s1-morality-q-unit-3-6",
+    "cardIds": [
+      "g7s1-morality-c4-3-5"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-unit-3-6"
+  },
+  "morality:unit:3:7": {
+    "id": "g7s1-morality-q-unit-3-7",
+    "cardIds": [
+      "g7s1-morality-c4-2-1",
+      "g7s1-morality-c4-2-2",
+      "g7s1-morality-c4-2-6"
+    ],
+    "unitId": "g7s1-morality-u4",
+    "canonicalId": "g7s1-morality-q-unit-3-7"
+  }
+}
