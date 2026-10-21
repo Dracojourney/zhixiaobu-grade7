@@ -72,3 +72,17 @@ body.g7-body{margin:0;background:var(--g7-bg);color:var(--g7-ink);background-ima
 .g7-outline a b small{display:block;font-size:10px;color:var(--g7-muted);font-weight:400;margin-bottom:3px;line-height:1.6}
 .g7-recall-answer{margin:16px 0;padding:18px 20px;border-radius:16px;background:rgba(255,255,255,.72);border:1px solid rgba(38,35,41,.08)}
 .g7-recall-answer>b{font-size:13px}.g7-recall .g7-recall-answer p{margin:8px 0 0;line-height:1.9}.g7-recall>[data-action="recall-answer"]{margin-right:10px}
+/* Compact welcome and a single grouped learning overview. */
+.g7-top{height:80px;justify-content:space-between}.g7-top nav{margin-left:auto}
+.g7-home-shell{padding-top:16px}.g7-welcome{min-height:0;padding:8px 0 12px}
+.g7-welcome h1{font-size:clamp(36px,3.5vw,47px);line-height:1.18!important;margin:10px 0!important;letter-spacing:-1.5px}
+.g7-welcome p{font-size:13px;line-height:1.8}.g7-welcome-actions{margin-top:14px}.g7-hero-art{top:12px;transform:scale(.72);transform-origin:right center}
+.g7-home-main>#subjects>.g7-section-title{margin-top:16px}
+.g7-home-rail{margin-top:0;padding:16px}.g7-profile{padding:18px;background:#fffdfa;border-radius:20px;text-align:left;margin-bottom:16px}
+.g7-profile-heading{display:flex;align-items:center;gap:11px}.g7-profile .g7-profile-symbol{display:inline-grid;flex-shrink:0;width:44px;height:44px;margin:0}.g7-profile-symbol .g7-icon{width:25px;height:25px}
+.g7-profile-heading h2{font-size:15px;line-height:1.5}.g7-profile-heading p{font-size:10px;color:var(--g7-muted);margin-top:3px!important}
+.g7-profile .g7-rail-meter{background:transparent;margin-top:18px;padding:0;border-radius:0}.g7-profile .g7-rail-meter .g7-section-title{margin-bottom:10px}.g7-profile .g7-rail-meter small{margin-top:8px}
+.g7-profile .g7-metrics{padding:12px 0 0;margin-top:14px;border-top:1px solid var(--g7-line);gap:16px}.g7-profile .g7-metrics b{font-size:23px;line-height:1.4}
+@media(max-width:1100px){.g7-profile{padding:14px}.g7-profile-heading{gap:8px}.g7-profile-heading h2{font-size:13px}.g7-profile .g7-profile-symbol{width:36px;height:36px}.g7-hero-art{display:none}}
+@media(min-width:600px) and (max-width:799px){.g7-profile{margin-bottom:0}.g7-home-rail .g7-profile{grid-row:span 2}}
+@media(max-width:599px){.g7-top{height:72px}.g7-welcome{padding:8px 0 14px}.g7-welcome h1{font-size:35px;margin:10px 0!important}.g7-welcome-actions{margin-top:15px;display:flex;flex-wrap:wrap;gap:8px 12px}.g7-welcome-actions>span{margin:0}.g7-home-rail{padding:14px}.g7-profile{padding:16px}.g7-profile-heading h2{font-size:15px}.g7-profile .g7-profile-symbol{width:40px;height:40px}.g7-profile .g7-rail-meter .g7-section-title>span{display:inline}.g7-hero-art{display:none}}
