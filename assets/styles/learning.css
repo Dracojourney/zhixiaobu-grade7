@@ -70,3 +70,5 @@ body.g7-body{margin:0;background:var(--g7-bg);color:var(--g7-ink);background-ima
 @media(max-width:799px){.g7-lesson{grid-template-columns:145px minmax(0,1fr);gap:16px}.g7-lesson-heading h3{font-size:15px}.g7-lesson .g7-topic-grid{grid-template-columns:1fr}}
 @media(max-width:599px){.g7-lesson{display:block;padding:17px 0}.g7-lesson-heading{padding:0 2px 13px}.g7-lesson-heading h3{font-size:16px}.g7-lesson-heading small{margin-top:4px}.g7-lesson .g7-card-row{min-height:160px}}
 .g7-outline a b small{display:block;font-size:10px;color:var(--g7-muted);font-weight:400;margin-bottom:3px;line-height:1.6}
+.g7-recall-answer{margin:16px 0;padding:18px 20px;border-radius:16px;background:rgba(255,255,255,.72);border:1px solid rgba(38,35,41,.08)}
+.g7-recall-answer>b{font-size:13px}.g7-recall .g7-recall-answer p{margin:8px 0 0;line-height:1.9}.g7-recall>[data-action="recall-answer"]{margin-right:10px}

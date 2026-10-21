@@ -311,6 +311,7 @@ Grade7.editionContent.chinese={
       "example": "原创：风轻轻拍着柳树的肩，泥土的气息钻进鼻尖。",
       "pitfall": "出现“像”未必是比喻，须看是否把两类事物作比较。",
       "recall": "感官、修辞、特征分别是什么？",
+      "recallAnswer": "感官是视觉、听觉、嗅觉、触觉等观察角度；修辞是比喻、拟人等表达方式；特征是景物区别于其他景物的特点。回答时把三者落实到具体词句。",
       "examType": "修辞与表达效果",
       "sourceIds": [
         "photo",
@@ -329,6 +330,7 @@ Grade7.editionContent.chinese={
       "example": "原创：山坡向阳，薄雪很快化开；河边有人解开围巾。两处细节共同表现天气温和。",
       "pitfall": "景物名称是对象，温和、明亮等才是特点。",
       "recall": "对象、特点、证据怎样对应？",
+      "recallAnswer": "先确定描写对象，再概括它的特点，最后找能证明这一特点的词句。例如回答“某景物具有某特点”，随后说明哪处描写支持这个判断。",
       "examType": "景物特点概括",
       "sourceIds": [
         "photo",
@@ -347,6 +349,7 @@ Grade7.editionContent.chinese={
       "example": "原创：春雨细细地落，夏雨急急地敲。可比较雨势和声音。",
       "pitfall": "只说“写得生动”不能解释具体词语的作用。",
       "recall": "比较时为什么先确定维度？",
+      "recallAnswer": "只有先确定共同维度，比较才有依据。例如都从声音、形态、气息比较不同季节的雨，才能看清差异，避免把不同方面直接比较。",
       "examType": "词语赏析",
       "sourceIds": [
         "photo",
@@ -365,6 +368,7 @@ Grade7.editionContent.chinese={
       "example": "“乡书何处达？归雁洛阳边”借家书、归雁表达思乡；“我寄愁心与明月”借月寄情。",
       "pitfall": "把所有写秋景的诗都判作悲秋，会忽视具体诗句。",
       "recall": "四篇题目能否写全？如何用诗句证明思乡？",
+      "recallAnswer": "四篇是《观沧海》《次北固山下》《闻王昌龄左迁龙标遥有此寄》《天净沙·秋思》。如“乡书何处达？归雁洛阳边”借家书与归雁表达思乡；“断肠人在天涯”直接点出漂泊者的愁苦。",
       "examType": "古诗词理解",
       "sourceIds": [
         "photo",
@@ -383,6 +387,7 @@ Grade7.editionContent.chinese={
       "example": "原创：她把药盒推到孩子手边，又悄悄把自己的椅子挪远。分析需结合上下文，不能单凭一个动作断言全部性格。",
       "pitfall": "经历事件时的“我”与回忆叙述时的“我”处在不同时间，要区分当时感受与后来认识。",
       "recall": "人物特点需要哪类证据？",
+      "recallAnswer": "需要人物动作、语言、神态等具体证据，并说明这些行为如何支持人物特点。不能只写“伟大”“善良”等评价而没有依据。",
       "examType": "人物细节分析",
       "sourceIds": [
         "photo",
@@ -401,6 +406,7 @@ Grade7.editionContent.chinese={
       "example": "原创：一家人选散步路线，长辈想走平路，孩子想走石阶，最后大家商量改走缓坡。",
       "pitfall": "把整段对话抄下不等于概括事件。",
       "recall": "起因、分歧、解决分别是什么？",
+      "recallAnswer": "先找事件发生的背景和起因，再写清人物各自的选择形成了什么分歧，最后说明谁怎样协调、如何解决。概括应依据课文中的具体情节。",
       "examType": "事件概括",
       "sourceIds": [
         "photo",
@@ -419,6 +425,7 @@ Grade7.editionContent.chinese={
       "example": "原创：大伞护住小苗，可以联系“保护”理解亲情，但须有上下文支持。",
       "pitfall": "不能把作品里每件物品都认定为象征。",
       "recall": "物象特征怎样与表达情感连接？",
+      "recallAnswer": "先概括物象的特征，再说明它与情感对象的联系，最后点明感情。例如《荷叶·母亲》中荷叶对红莲的庇护，与母亲对孩子的关爱相联系。",
       "examType": "物象作用",
       "sourceIds": [
         "photo",
@@ -437,6 +444,7 @@ Grade7.editionContent.chinese={
       "example": "“相委而去”中的“去”是离开；“元方入门不顾”的“顾”是回头看。",
       "pitfall": "古今同形词可能意义不同，不能逐字套用现代常用义。",
       "recall": "期、去、顾在课内分别怎样解释？",
+      "recallAnswer": "“期”是约定；“去”是离开；“顾”是回头看。解释时要放回课内语句，不能直接套用现代常用义。",
       "examType": "文言实词",
       "sourceIds": [
         "photo",
@@ -455,6 +463,7 @@ Grade7.editionContent.chinese={
       "example": "原创：先写河边捉虾，再写教室读书，可按“河边—教室”的空间顺序分层。",
       "pitfall": "场景变换不必然意味着作者全面否定后一场景。",
       "recall": "地点线索与人物感受有什么区别？",
+      "recallAnswer": "地点线索回答“写到了哪里、先后怎样转换”，人物感受回答“在这些地方有怎样的体验与情感”。前者帮助梳理结构，后者帮助理解情感。",
       "examType": "文章结构",
       "sourceIds": [
         "moe-lessons",
@@ -473,6 +482,7 @@ Grade7.editionContent.chinese={
       "example": "原创：回忆第一次借书、听老师朗读，两件事可共同表现阅读兴趣的形成。",
       "pitfall": "罗列事件不能代替说明事件与中心的关系。",
       "recall": "事件与成长认识怎样连成一条线？",
+      "recallAnswer": "可用“经历了什么—当时有什么感受—后来形成怎样的认识”串联；多件往事还应说明它们共同表现了怎样的成长主题。",
       "examType": "材料与中心",
       "sourceIds": [
         "moe-lessons",
@@ -491,6 +501,7 @@ Grade7.editionContent.chinese={
       "example": "原创：学生原来害怕朗读，老师陪他分句练习，后来他能独自读完。",
       "pitfall": "看到成功结果就忽略前期困难，会使分析失去变化过程。",
       "recall": "转折前后各怎样？是谁通过什么行动促成？",
+      "recallAnswer": "先比较转折前后的认识或情感，再指出促成变化的人和具体行动，最后说明行动带来的结果。每一步都要有文章情节作依据。",
       "examType": "人物作用与转折",
       "sourceIds": [
         "moe-lessons",
@@ -509,6 +520,7 @@ Grade7.editionContent.chinese={
       "example": "“温故而知新”：温习旧知识，得到新的理解。",
       "pitfall": "“三人行”的“三”不宜机械理解为只准三个人同行。",
       "recall": "温故知新怎样落实到复习？",
+      "recallAnswer": "复习时先回顾旧知识，再用自己的话解释、比较或运用，从中获得新理解。例如重读旧笔记后尝试一道新情境题，并思考方法为什么适用。",
       "examType": "文言翻译与理解",
       "sourceIds": [
         "moe-lessons",
@@ -527,6 +539,7 @@ Grade7.editionContent.chinese={
       "example": "原创：他连续三天照顾病人。这份负责值得我们学习。前句叙事，后句评价。",
       "pitfall": "有事实不代表它能支持任意观点，应核对相关性。",
       "recall": "事实、评价、二者关系分别是什么？",
+      "recallAnswer": "事实是人物做了什么、发生了什么；评价是作者对此的判断。二者关系是用具体事实支持评价，分析时要把对应的事实与判断配在一起。",
       "examType": "表达方式",
       "sourceIds": [
         "moe-lessons",
@@ -545,6 +558,7 @@ Grade7.editionContent.chinese={
       "example": "原创：她每天整理农具，收工后还教孩子识字，可分别从劳动和教育两方面概括。",
       "pitfall": "“善良、伟大、勤劳”堆叠在一起而无证据，难以形成有效分析。",
       "recall": "每个品质能配上一件具体事吗？",
+      "recallAnswer": "可以按“品质—事件—关键行为”配对检查：每项品质至少有一件具体事支持，并说明其中哪个行为体现了该品质；缺少证据就需重新核对评价。",
       "examType": "人物形象",
       "sourceIds": [
         "moe-lessons",
@@ -563,6 +577,7 @@ Grade7.editionContent.chinese={
       "example": "原创：诗人写“愿化长风护山河”，是借想象表达志愿，不能当作真实变身事件。",
       "pitfall": "不能把诗歌中的想象直接当历史事实记忆。",
       "recall": "各章怎样共同表达精神追求？",
+      "recallAnswer": "先分别概括各章的内容和情感，再找它们共同表达的精神追求。应结合诗句和写作处境说明联系，不能把艺术想象直接当作现实事实。",
       "examType": "诗歌表达",
       "sourceIds": [
         "moe-lessons",
@@ -581,6 +596,7 @@ Grade7.editionContent.chinese={
       "example": "“非学无以广才”意为不学习就无法增长才干。",
       "pitfall": "“必要条件”不等于只要做到就必然成功，勿把劝诫变成绝对因果。",
       "recall": "学、志与成才的关系是什么？",
+      "recallAnswer": "“非学无以广才，非志无以成学”：学习是增长才干的必要条件，立志是学有所成的必要条件；成才需要志向与学习相互配合。",
       "examType": "文言与逻辑",
       "sourceIds": [
         "moe-lessons",
@@ -599,6 +615,7 @@ Grade7.editionContent.chinese={
       "example": "原创：大家因小猫靠近鸟笼就指责它，后来发现窗外有另一只猫。靠近不等于作恶证据。",
       "pitfall": "叙述者当时的猜测不能直接当作已经证实的事实。",
       "recall": "判断、证据、真相怎样区分？",
+      "recallAnswer": "判断是人物当时的看法，证据是实际掌握的信息，真相是事件真实情况。应分开记录三者，比较证据能否支持判断，再分析误判原因。",
       "examType": "叙事与证据",
       "sourceIds": [
         "moe-lessons",
@@ -617,6 +634,7 @@ Grade7.editionContent.chinese={
       "example": "原创：白鸽绕屋三圈后落在窗沿，这是观察；“它像老朋友来问候”是带感情的表达。",
       "pitfall": "拟人表达有文学作用，但不能直接证明动物具有人类的复杂意图。",
       "recall": "观察记录与情感表达分别是什么？",
+      "recallAnswer": "观察记录写可看到的外形、动作、习性和互动；情感表达写自己由此产生的感受。要说明哪些是观察到的，哪些是个人联想或感情。",
       "examType": "观察与表达",
       "sourceIds": [
         "moe-lessons",
@@ -635,6 +653,7 @@ Grade7.editionContent.chinese={
       "example": "原创：三月的湖边观察到六只雁。“六只”是记录数量，不能推出所有湖泊全年都只有六只雁。",
       "pitfall": "将局部观察推广为所有情况，是范围扩大。",
       "recall": "数据的对象、时间与范围写清了吗？",
+      "recallAnswer": "引用数据时保留“统计的是什么、在何时、什么范围或条件下”三个信息；脱离对象、时间与范围的数据容易造成误解。",
       "examType": "信息筛选与范围",
       "sourceIds": [
         "moe-lessons",
@@ -653,6 +672,7 @@ Grade7.editionContent.chinese={
       "example": "“止有剩骨”的“止”表示仅、只；“一狼仍从”的“从”是跟从。",
       "pitfall": "一字一义的机械记忆会忽视上下文。",
       "recall": "同一个“止”怎样根据句意解释？",
+      "recallAnswer": "“止”要按语境判断：表示数量或范围少时可译为“仅、只”，表示动作结束时译为“停止”。不能因为字形相同，就把各处都译成同一意思。",
       "examType": "文言词义",
       "sourceIds": [
         "moe-lessons",
@@ -671,6 +691,7 @@ Grade7.editionContent.chinese={
       "example": "原创：甲变成飞鸟，乙变成追鸟的鹰。两次变化围绕逃与追形成对应。",
       "pitfall": "不能把“想象丰富”当成无需说明情节联系的理由。",
       "recall": "谁变了什么，对方如何应对？",
+      "recallAnswer": "按情节依次列出“一方怎样变化—另一方怎样识别或应对”，把变化和应对一一对应，再用这些行动说明人物特点。",
       "examType": "情节梳理",
       "sourceIds": [
         "moe-lessons",
@@ -689,6 +710,7 @@ Grade7.editionContent.chinese={
       "example": "原创：明知箱子空着，人们却因怕被说无能而夸礼物漂亮。这段写出畏惧评价导致附和。",
       "pitfall": "人物说一件东西漂亮，不意味着叙述者确认它真的漂亮。",
       "recall": "人物为何附和？作品怎样暴露矛盾？",
+      "recallAnswer": "人物因害怕暴露自己、顾虑评价或随从他人而附和；分析要找相应话语和行为。作品通过人物声称与实际情况之间的矛盾产生讽刺效果。",
       "examType": "童话阅读",
       "sourceIds": [
         "moe-lessons",
@@ -707,6 +729,7 @@ Grade7.editionContent.chinese={
       "example": "原创：故事说一位神用泥土造出会说话的小人，这是想象性叙事，不能替代科学研究。",
       "pitfall": "神话中的自然解释不等同于现代科学结论。",
       "recall": "神话表达了人类怎样的好奇与愿望？",
+      "recallAnswer": "神话表达了人类对自身和世界起源的好奇，以及创造生命、使世界更丰富的愿望。这是古人的想象性解释，阅读时需与现代科学解释区分。",
       "examType": "文体辨析",
       "sourceIds": [
         "moe-lessons",
@@ -725,6 +748,7 @@ Grade7.editionContent.chinese={
       "example": "原创：甲说“修井省下一人劳力”，乙却传成“井里挖出一个人”，错误来自转述失真。",
       "pitfall": "寓意可以讨论，但不能脱离情节把任意道理都套上去。",
       "recall": "情节结果怎样支持寓意？",
+      "recallAnswer": "先说人物做了什么，再说明带来什么结果，由结果归纳寓意。例如《穿井得一人》的误传说明听到消息后应核实，不能断章取义。",
       "examType": "寓言与信息核实",
       "sourceIds": [
         "moe-lessons",
@@ -743,6 +767,7 @@ Grade7.editionContent.chinese={
       "example": "原创：先记操场全景，再写跑道裂缝里的一株小草，属于整体到局部。",
       "pitfall": "形容词越多不一定越具体；颜色、动作、变化通常更有用。",
       "recall": "对象、顺序、独特细节齐全了吗？",
+      "recallAnswer": "检查三项：观察对象是否明确，叙写顺序是否清楚，是否记录了能突出对象特点的独特细节。可用“对象—顺序—细节”列一份小提纲。",
       "examType": "观察写作",
       "sourceIds": [
         "moe-lessons",
@@ -761,6 +786,7 @@ Grade7.editionContent.chinese={
       "example": "原创：写第一次修好自行车，可详写查故障和反复调试，简写出门买零件。",
       "pitfall": "把六要素写全不等于平均用力；篇幅应服务中心。",
       "recall": "哪一段经过最能突出这件事的意义？",
+      "recallAnswer": "应详写最能体现事件意义、人物选择或情感变化的关键经过；与中心关系不大的环节略写。详略依据表达目的决定。",
       "examType": "叙事写作",
       "sourceIds": [
         "moe-lessons",
@@ -779,6 +805,7 @@ Grade7.editionContent.chinese={
       "example": "原创：中心是“合作让我走出困境”，可详写队友如何分工解决问题。",
       "pitfall": "题目中出现合作二字，不代表正文已经写清合作。",
       "recall": "每件材料能怎样支持中心？",
+      "recallAnswer": "先用一句话说明中心，再逐件解释材料与中心的关系；能直接支持中心的详写，支持较弱的略写，无关材料删去。",
       "examType": "写作选材",
       "sourceIds": [
         "moe-lessons",
@@ -797,6 +824,7 @@ Grade7.editionContent.chinese={
       "example": "原创：先介绍故障，再写排查，最后写修复结果，是按事情发展组织。",
       "pitfall": "“首先、其次”只是标志词，内容次序混乱时加上它们仍不清晰。",
       "recall": "提纲中的顺序与内容关系一致吗？",
+      "recallAnswer": "逐项核对提纲是否按照时间、空间或事理顺序组织，并检查相邻部分的联系是否真实清楚；必要时调整顺序、增加过渡。",
       "examType": "写作结构",
       "sourceIds": [
         "moe-lessons",
@@ -815,6 +843,7 @@ Grade7.editionContent.chinese={
       "example": "原创：连续三天在同一窗边记录麻雀啄食时长，写作时选一次最有变化的观察展开。",
       "pitfall": "为了写出戏剧性而惊吓动物，会损害观察真实性和生命关怀。",
       "recall": "行为记录与自己的感受分开了吗？",
+      "recallAnswer": "先写日期、环境和具体行为等观察事实，再单独写自己的感受与联想；感受可以抒情，但不能代替行为证据。",
       "examType": "活动探究与写作",
       "sourceIds": [
         "moe-lessons",
@@ -833,6 +862,7 @@ Grade7.editionContent.chinese={
       "example": "原创：看见圆月想到团圆是联想；设想月亮开一家书店，是创造新情境的想象。",
       "pitfall": "想象不等于随意拼接，人物行为和情节仍需前后协调。",
       "recall": "由什么联想到什么？新情境遵守什么规则？",
+      "recallAnswer": "说明联想的起点和终点，以及二者通过相似或接近等关系怎样连接；想象的新情境应有清楚的内部规则，并前后一致地围绕表达目的展开。",
       "examType": "联想想象",
       "sourceIds": [
         "moe-lessons",
@@ -851,6 +881,7 @@ Grade7.editionContent.chinese={
       "example": "原创：先浏览目录确定篇目，再略读梳理事件，对疑难段落精读并做批注。",
       "pitfall": "散文集中的不同篇目不能随意拼成一条连续小说情节。",
       "recall": "自己的阅读目的适合哪种读法？",
+      "recallAnswer": "快速了解目录和全貌用浏览，抓主要内容用略读，细察语言、结构或复杂问题用精读。根据本次阅读目的选择，也可以配合使用。",
       "examType": "整本书阅读",
       "sourceIds": [
         "moe-lessons",
@@ -869,6 +900,7 @@ Grade7.editionContent.chinese={
       "example": "原创：若影视增加一段对话，不能直接把它作为原著人物语言引用，应返回书中核对。",
       "pitfall": "把熟悉的改编情节当原著内容，会造成证据错误。",
       "recall": "这条人物判断对应原著哪件事？",
+      "recallAnswer": "把人物判断落实为“原著回目或事件—具体行为—体现的特点”，再用不同情境的事例交叉核对。不能只凭影视、游戏改编评价原著人物。",
       "examType": "名著阅读证据",
       "sourceIds": [
         "moe-lessons",

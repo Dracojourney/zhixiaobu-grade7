@@ -14,6 +14,7 @@
         readingUI = {
           cardId: null,
           hidden: false,
+          answer: false,
           example: false,
           pitfall: false
         };
@@ -34,7 +35,7 @@
       }
       function top(tab) {
         var read = G.Content.progress(subject, store.load()).read;
-        return U.header('subject') + '<main class="g7-shell"><a href="index.html" class="g7-back">← 返回学习首页</a><section class="g7-subject-hero"><div><span class="g7-eyebrow">' + E(meta.tag) + ' / 七年级上册</span><h1><span class="g7-subject-icon">' + U.icon(subject.id) + '</span>' + E(subject.title) + '</h1><p>' + E(meta.description) + '</p></div><div class="g7-subject-summary"><b>' + read + '<small> / ' + subject.cards.length + '</small></b><span>张知识卡已读</span></div></section><nav class="g7-tabs" aria-label="学科学习方式">' + [['learn', '学考点'], ['challenge', '闯小关'], ['mock', '考点模拟'], ['wrong', '错题本']].map(function (t) {
+        return U.header('subject') + '<main class="g7-shell"><a href="index.html" class="g7-back">← 返回学习首页</a><section class="g7-subject-hero"><div><span class="g7-eyebrow">' + E(meta.tag) + ' / 七年级上册</span><h1><span class="g7-subject-icon">' + U.icon(subject.id) + '</span>' + E(subject.title) + '</h1><p>' + E(meta.description) + '</p></div><div class="g7-subject-summary"><b>' + read + '<small> / ' + subject.cards.length + '</small></b><span>张知识卡已读</span></div></section><nav class="g7-tabs" aria-label="学科学习方式">' + [['learn', '学知识点'], ['challenge', '闯小关'], ['mock', '考点模拟'], ['wrong', '错题本']].map(function (t) {
           return '<a href="#' + t[0] + '" ' + (tab === t[0] ? 'aria-current="page"' : '') + '>' + t[1] + '</a>';
         }).join('') + (window.g7InitLegacy ? '<a class="g7-legacy-link" href="#legacy">旧版资料 ↗</a>' : '') + '</nav>';
       }
@@ -59,6 +60,7 @@
         if (readingUI.cardId !== c.id) readingUI = {
           cardId: c.id,
           hidden: false,
+          answer: false,
           example: false,
           pitfall: false
         };
@@ -81,11 +83,11 @@
           return '<a ' + (x.id === c.id ? 'aria-current="page"' : '') + ' href="#learn/' + encodeURIComponent(x.id) + '"><span>' + String(i + 1).padStart(2, '0') + '</span><b>' + (subject.presentation === 'lessons' ? '<small>' + E(x.lesson) + '</small>' : '') + E(x.title) + '</b>' + (store.load().readCards[x.id] ? ' <i>✓</i>' : '') + '</a>';
         }).join('') + '</nav></details><div class="g7-reading-hint">' + U.icon('bulb') + '<p>先理解，再回忆。<br>不急着记住所有细节。</p></div></aside><article class="g7-knowledge"><div class="g7-card-label"><span class="g7-chip">' + U.icon(subject.id) + ' 知识卡 ' + (index + 1) + ' / ' + subject.cards.length + '</span><span>' + E(c.lesson) + '</span></div><h2 tabindex="-1">' + E(c.title) + '</h2><div class="g7-reading-intro"><span>01 / 读懂这个知识点</span><span>慢慢读，想一想</span></div><div class="g7-knowledge-body" id="g7-reading-body" ' + (readingUI.hidden ? 'hidden' : '') + '>' + E(c.body).split(/(?=[①②③④⑤⑥⑦⑧⑨])/).filter(Boolean).map(function (p) {
           return '<p>' + p + '</p>';
-        }).join('') + '</div>' + (c.example ? '<div class="g7-explore-heading"><span>02 / 换个角度看一看</span>' + B('全部展开', 'expand-discoveries', '', 'text') + '</div><div class="g7-discoveries">' + discovery('example', '看个例子', '把知识放进具体情境', 'compass') + discovery('pitfall', '容易混淆', '发现那个容易忽略的地方', 'bulb') + '</div>' : '') + '<div class="g7-recall"><div class="g7-recall-label"><span>' + U.icon('star') + '</span><b>03 / 给记忆一个小挑战</b></div><p>' + E(c.recall || '你能用自己的话讲清这个知识点吗？') + '</p><button class="g7-btn quiet" data-action="recall" aria-controls="g7-reading-body" aria-expanded="' + !readingUI.hidden + '">' + (readingUI.hidden ? '展开知识内容' : '收起正文，试着回忆') + '</button><small>只收起正文，不影响学习记录</small></div><div class="g7-exam-type"><b>可以怎样考</b><span>' + E(c.examType || '理解与应用') + '</span></div><details class="g7-explanation g7-source"><summary>教材版本与整理依据</summary><p>' + E(subject.publisher) + ' · ' + (subject.editionDate ? E(subject.editionDate) + '版' : '版次待核对') + ' · ' + (subject.isbn ? 'ISBN ' + E(subject.isbn) : 'ISBN待确认') + (c.page ? ' · 本课起始页 ' + c.page : '') + '</p><p>原创概括与练习；教材正文尚未逐页校核。</p>' + (subject.scopeNote ? '<p>' + E(subject.scopeNote) + '</p>' : '') + (subject.sources || []).filter(function (source) {
+        }).join('') + '</div>' + (c.example ? '<div class="g7-explore-heading"><span>02 / 换个角度看一看</span>' + B('全部展开', 'expand-discoveries', '', 'text') + '</div><div class="g7-discoveries">' + discovery('example', '看个例子', '把知识放进具体情境', 'compass') + discovery('pitfall', '容易混淆', '发现那个容易忽略的地方', 'bulb') + '</div>' : '') + '<div class="g7-recall"><div class="g7-recall-label"><span>' + U.icon('star') + '</span><b>03 / 给记忆一个小挑战</b></div><p>' + E(c.recall || '你能用自己的话讲清这个知识点吗？') + '</p><button class="g7-btn quiet" data-action="recall-answer" aria-controls="g7-recall-answer" aria-expanded="' + Boolean(readingUI.answer) + '">' + (readingUI.answer ? '收起答案' : '显示答案') + '</button><div class="g7-recall-answer" id="g7-recall-answer" ' + (readingUI.answer ? '' : 'hidden') + '><b>参考答案</b><p>' + E(c.recallAnswer || c.body) + '</p></div><button class="g7-btn quiet" data-action="recall" aria-controls="g7-reading-body" aria-expanded="' + !readingUI.hidden + '">' + (readingUI.hidden ? '展开知识内容' : '收起正文，试着回忆') + '</button><small>只收起正文，不影响学习记录</small></div><div class="g7-exam-type"><b>可以怎样考</b><span>' + E(c.examType || '理解与应用') + '</span></div>' + (subject.id === 'chinese' ? '' : '<details class="g7-explanation g7-source"><summary>教材版本与整理依据</summary><p>' + E(subject.publisher) + ' · ' + (subject.editionDate ? E(subject.editionDate) + '版' : '版次待核对') + ' · ' + (subject.isbn ? 'ISBN ' + E(subject.isbn) : 'ISBN待确认') + (c.page ? ' · 本课起始页 ' + c.page : '') + '</p><p>原创概括与练习；教材正文尚未逐页校核。</p>' + (subject.scopeNote ? '<p>' + E(subject.scopeNote) + '</p>' : '') + (subject.sources || []).filter(function (source) {
           return c.sourceIds && c.sourceIds.includes(source.id);
         }).map(function (source) {
           return '<p>' + ((source.url || '').startsWith('https://') ? '<a target="_blank" rel="noopener noreferrer" href="' + E(source.url) + '">' + E(source.title) + ' ↗</a>' : E(source.title)) + '</p>';
-        }).join('') + '</details><div class="g7-card-actions">' + B(store.load().readCards[c.id] ? '✓ 已读这张卡' : '标记已读', 'read', c.id, 'quiet') + (qs.length ? B('练一小关 · ' + Math.min(5, qs.length) + '题 →', 'card', c.id, 'primary') : '<span class="g7-muted">本知识点暂无关联练习</span>') + '</div><div class="g7-card-next">' + L(previous ? '← 上一张' : '← 回到章节目录', previous ? '#learn/' + encodeURIComponent(previous.id) : '#learn', 'quiet') + (next ? L('下一张知识卡 →', '#learn/' + encodeURIComponent(next.id), 'quiet') : '<span>已经探索到最后一张了 ✦</span>') + '</div></article><aside class="g7-reading-rail" aria-label="本单元进度"><span class="g7-rail-mark">' + U.icon('star') + '</span><span class="g7-overline">YOUR LITTLE STEPS</span><h2>一点点，读懂它。</h2><p>每次理解一个知识点，<br>就是一次小小的进步。</p><div class="g7-rail-meter"><b>' + read + '<small> / ' + unitCards.length + '</small></b><p>本单元知识卡已读</p><div class="g7-progress"><span style="width:' + read / unitCards.length * 100 + '%"></span></div></div><div class="g7-rail-next"><span>接下来可以</span><b>用 ' + qs.length + ' 道题，试试理解</b><p>准备好了，再开始。</p></div>' + L('看看本单元挑战 →', '#challenge', 'quiet') + '</aside></div>';
+        }).join('') + '</details>') + '<div class="g7-card-actions">' + B(store.load().readCards[c.id] ? '✓ 已读这张卡' : '标记已读', 'read', c.id, 'quiet') + (qs.length ? B('练一小关 · ' + Math.min(5, qs.length) + '题 →', 'card', c.id, 'primary') : '<span class="g7-muted">本知识点暂无关联练习</span>') + '</div><div class="g7-card-next">' + L(previous ? '← 上一张' : '← 回到章节目录', previous ? '#learn/' + encodeURIComponent(previous.id) : '#learn', 'quiet') + (next ? L('下一张知识卡 →', '#learn/' + encodeURIComponent(next.id), 'quiet') : '<span>已经探索到最后一张了 ✦</span>') + '</div></article><aside class="g7-reading-rail" aria-label="本单元进度"><span class="g7-rail-mark">' + U.icon('star') + '</span><span class="g7-overline">YOUR LITTLE STEPS</span><h2>一点点，读懂它。</h2><p>每次理解一个知识点，<br>就是一次小小的进步。</p><div class="g7-rail-meter"><b>' + read + '<small> / ' + unitCards.length + '</small></b><p>本单元知识卡已读</p><div class="g7-progress"><span style="width:' + read / unitCards.length * 100 + '%"></span></div></div><div class="g7-rail-next"><span>接下来可以</span><b>用 ' + qs.length + ' 道题，试试理解</b><p>准备好了，再开始。</p></div>' + L('看看本单元挑战 →', '#challenge', 'quiet') + '</aside></div>';
       }
       function legacyInfo() {
         var keys = {
@@ -283,6 +285,14 @@
         var action = el.dataset.action,
           value = el.dataset.value,
           q = active && active.questions[active.current];
+        if (action === 'recall-answer') {
+          readingUI.answer = !readingUI.answer;
+          var reference = root.querySelector('#g7-recall-answer');
+          if (reference) reference.hidden = !readingUI.answer;
+          el.setAttribute('aria-expanded', String(readingUI.answer));
+          el.textContent = readingUI.answer ? '收起答案' : '显示答案';
+          return;
+        }
         if (action === 'recall') {
           readingUI.hidden = !readingUI.hidden;
           var body = root.querySelector('#g7-reading-body');
